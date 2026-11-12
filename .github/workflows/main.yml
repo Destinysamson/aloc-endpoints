@@ -15,7 +15,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.9'
+          python-version: '3.10'
 
       - name: Install dependencies
         run: pip install requests
@@ -27,7 +27,7 @@ jobs:
           import json
           
           subjects = ['english', 'chemistry', 'physics', 'biology', 'lit-in-english', 'government', 'crs', 'economics', 'mathematics']
-          years = range(2016, 2027)
+          years = range(2016, 2026)
           missing_data = {}
           
           for subj in subjects:
