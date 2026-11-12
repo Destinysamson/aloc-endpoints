@@ -1,0 +1,54 @@
+name: Fetch and Validate JAMB Data
+
+on:
+  schedule:
+    - cron: '0 0 * * 1'
+  workflow_dispatch:
+
+jobs:
+  extract_data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run Extraction Script
+        run: |
+          python -c "
+          import requests
+          import json
+          
+          subjects = ['english', 'chemistry', 'physics', 'biology', 'lit-in-english', 'government', 'crs', 'economics', 'mathematics']
+          years = range(2016, 2027)
+          missing_data = {}
+          
+          for subj in subjects:
+              missing_data[subj] = []
+              for year in years:
+                  url = f'https://questions.aloc.com.ng/api/v2/q?subject={subj}&year={year}'
+                  try:
+                      response = requests.get(url, timeout=10)
+                      if response.status_code != 200 or not response.json().get('data'):
+                          missing_data[subj].append(year)
+                  except Exception as e:
+                      missing_data[subj].append(year)
+                      
+          print('Missing Data Report:', json.dumps(missing_data, indent=2))
+          with open('missing_report.json', 'w') as f:
+              json.dump(missing_data, f)
+          "
+
+      - name: Commit report
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add missing_report.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m 'Update missing data report' && git push)
