@@ -1,31 +1,12 @@
-name: Fetch and Validate JAMB Data
+name: JAMB Data Validation
 
 on:
-  schedule:
-    - cron: '0 0 * * *'
   workflow_dispatch:
-permissions:
-  contents: write
 
 jobs:
-  extract_data:
-    runs-on: ubuntu-22.04
+  test:
+    runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.10'
-
-      - name: Install dependencies
-        run: pip install requests
-
-      - name: Run Extraction Script
-        run: |
-          python -c "import requests; print('Python and Requests are working!')"
-
-      - name: Check workflow
-        run: echo "JAMB data validation workflow executed successfully."
+      - name: Test workflow
+        run: echo "GitHub Actions is working!"
