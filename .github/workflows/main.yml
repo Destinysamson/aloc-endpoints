@@ -2,12 +2,12 @@ name: Fetch and Validate JAMB Data
 
 on:
   schedule:
-    - cron: '0 0 * * 1'
+    - cron: '0 0 * * * *
   workflow_dispatch:
 
 jobs:
   extract_data:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
@@ -30,7 +30,7 @@ jobs:
           years = range(2016, 2026)
           missing_data = {}
           
-          for subj in subjects:
+              for subj in subjects:
               missing_data[subj] = []
               for year in years:
                   url = f'https://questions.aloc.com.ng/api/v2/q?subject={subj}&year={year}'
