@@ -1,12 +1,209 @@
-name: JAMB Data Validation
+name: JAMB Question Extraction 2016-2026
 
-on:
+"on":
   workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+
+permissions:
+  contents: write
 
 jobs:
-  test:
-    runs-on: ubuntu-latest
+  extract_jamb_data:
+    name: Extract JAMB Questions
+    runs-on: ubuntu-22.04
 
     steps:
-      - name: Test workflow
-        run: echo "GitHub Actions is working!"
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: pip install requests
+
+      - name: Extract JAMB Questions
+        env:
+          ALOC_TOKEN: ${{ secrets.ALOC_TOKEN }}
+        run: |
+          python <<'PY'
+          import requests
+          import json
+          import os
+          import time
+          from pathlib import Path
+
+          TOKEN = os.getenv("ALOC_TOKEN")
+
+          if not TOKEN:
+              raise ValueError("ALOC_TOKEN secret is missing!")
+
+          BASE_URL = "https://questions.aloc.com.ng/api/v2/m"
+
+          SUBJECTS = [
+              "english",
+              "chemistry",
+              "physics",
+              "biology",
+              "lit-in-english",
+              "government",
+              "crs",
+              "economics",
+              "mathematics"
+          ]
+
+          YEARS = range(2016, 2027)
+
+          OUTPUT = Path("jamb_questions")
+          OUTPUT.mkdir(exist_ok=True)
+
+          report = {}
+          total_questions = 0
+
+          headers = {
+              "AccessToken": TOKEN,
+              "Accept": "application/json"
+          }
+
+          session = requests.Session()
+          session.headers.update(headers)
+
+          for subject in SUBJECTS:
+
+              report[subject] = {}
+
+              for year in YEARS:
+
+                  print(f"Fetching {subject} - {year}")
+
+                  params = {
+                      "subject": subject,
+                      "year": year,
+                      "type": "utme"
+                  }
+
+                  try:
+                      response = session.get(
+                          BASE_URL,
+                          params=params,
+                          timeout=30
+                      )
+
+                      response.raise_for_status()
+
+                      result = response.json()
+                      questions = result.get("data", [])
+
+                      if isinstance(questions, dict):
+                          questions = [questions]
+
+                      if not isinstance(questions, list):
+                          questions = []
+
+                      if questions:
+
+                          filename = (
+                              f"{subject}_{year}.json"
+                          )
+
+                          filepath = OUTPUT / filename
+
+                          with open(filepath, "w", encoding="utf-8") as file:
+                              json.dump(
+                                  questions,
+                                  file,
+                                  indent=2,
+                                  ensure_ascii=False
+                              )
+
+                          count = len(questions)
+                          total_questions += count
+
+                          report[subject][str(year)] = {
+                              "status": "success",
+                              "questions": count,
+                              "file": str(filepath)
+                          }
+
+                          print(
+                              f"SUCCESS: {count} questions saved"
+                          )
+
+                      else:
+
+                          report[subject][str(year)] = {
+                              "status": "no_data",
+                              "questions": 0
+                          }
+
+                          print("No questions returned.")
+
+                  except Exception as error:
+
+                      report[subject][str(year)] = {
+                          "status": "error",
+                          "message": str(error)
+                      }
+
+                      print(f"ERROR: {error}")
+
+                  time.sleep(1)
+
+          summary = {
+              "total_questions": total_questions,
+              "subjects_checked": len(SUBJECTS),
+              "years_checked": list(YEARS),
+              "results": report
+          }
+
+          with open(
+              OUTPUT / "extraction_report.json",
+              "w",
+              encoding="utf-8"
+          ) as file:
+
+              json.dump(
+                  summary,
+                  file,
+                  indent=2,
+                  ensure_ascii=False
+              )
+
+          print("--------------------------------")
+          print("JAMB EXTRACTION COMPLETED")
+          print("Total questions:", total_questions)
+          print("Subjects:", len(SUBJECTS))
+          print("Years: 2016-2026")
+          print("--------------------------------")
+
+          if total_questions == 0:
+              raise RuntimeError(
+                  "No questions were extracted. Check API access."
+              )
+
+          PY
+
+      - name: Upload Extracted Questions
+        uses: actions/upload-artifact@v4
+        with:
+          name: jamb-questions-2016-2026
+          path: jamb_questions/
+          if-no-files-found: error
+          retention-days: 90
+
+      - name: Commit Extracted Questions
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add jamb_questions/
+
+          if ! git diff --cached --quiet; then
+            git commit -m "Update JAMB questions 2016-2026"
+            git push
+          else
+            echo "No changes detected."
+          fi
