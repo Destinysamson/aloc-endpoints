@@ -10,20 +10,22 @@ permissions:
 
 jobs:
   extract_jamb_data:
-    name: Extract JAMB Questions
+    name: Extract and Save JAMB Questions
     runs-on: ubuntu-22.04
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Setup Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: '3.10'
 
       - name: Install Dependencies
-        run: pip install requests
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
 
       - name: Extract JAMB Questions
         env:
@@ -39,7 +41,9 @@ jobs:
           TOKEN = os.getenv("ALOC_TOKEN")
 
           if not TOKEN:
-              raise ValueError("ALOC_TOKEN secret is missing!")
+              raise SystemExit(
+                  "ERROR: ALOC_TOKEN is missing from GitHub Secrets."
+              )
 
           BASE_URL = "https://questions.aloc.com.ng/api/v2/m"
 
@@ -60,13 +64,15 @@ jobs:
           OUTPUT = Path("jamb_questions")
           OUTPUT.mkdir(exist_ok=True)
 
-          report = {}
-          total_questions = 0
-
           headers = {
               "AccessToken": TOKEN,
               "Accept": "application/json"
           }
+
+          report = {}
+          total_questions = 0
+          successful_requests = 0
+          failed_requests = 0
 
           session = requests.Session()
           session.headers.update(headers)
@@ -77,7 +83,7 @@ jobs:
 
               for year in YEARS:
 
-                  print(f"Fetching {subject} - {year}")
+                  print(f"\nFetching {subject.upper()} - {year}")
 
                   params = {
                       "subject": subject,
@@ -92,9 +98,24 @@ jobs:
                           timeout=30
                       )
 
-                      response.raise_for_status()
+                      if response.status_code != 200:
+                          failed_requests += 1
+
+                          report[subject][str(year)] = {
+                              "status": "failed",
+                              "http_status": response.status_code,
+                              "message": response.text[:500]
+                          }
+
+                          print(
+                              f"API ERROR: HTTP {response.status_code}"
+                          )
+
+                          time.sleep(1)
+                          continue
 
                       result = response.json()
+
                       questions = result.get("data", [])
 
                       if isinstance(questions, dict):
@@ -105,13 +126,15 @@ jobs:
 
                       if questions:
 
-                          filename = (
-                              f"{subject}_{year}.json"
-                          )
-
+                          filename = f"{subject}_{year}.json"
                           filepath = OUTPUT / filename
 
-                          with open(filepath, "w", encoding="utf-8") as file:
+                          with open(
+                              filepath,
+                              "w",
+                              encoding="utf-8"
+                          ) as file:
+
                               json.dump(
                                   questions,
                                   file,
@@ -120,42 +143,62 @@ jobs:
                               )
 
                           count = len(questions)
+
                           total_questions += count
+                          successful_requests += 1
 
                           report[subject][str(year)] = {
                               "status": "success",
-                              "questions": count,
-                              "file": str(filepath)
+                              "question_count": count,
+                              "file": filename
                           }
 
                           print(
-                              f"SUCCESS: {count} questions saved"
+                              f"SUCCESS: Saved {count} questions"
                           )
 
                       else:
 
                           report[subject][str(year)] = {
                               "status": "no_data",
-                              "questions": 0
+                              "question_count": 0
                           }
 
                           print("No questions returned.")
 
-                  except Exception as error:
+                          successful_requests += 1
+
+                  except requests.exceptions.RequestException as error:
+
+                      failed_requests += 1
 
                       report[subject][str(year)] = {
-                          "status": "error",
+                          "status": "request_error",
                           "message": str(error)
                       }
 
-                      print(f"ERROR: {error}")
+                      print(f"REQUEST ERROR: {error}")
+
+                  except (ValueError, KeyError) as error:
+
+                      failed_requests += 1
+
+                      report[subject][str(year)] = {
+                          "status": "data_error",
+                          "message": str(error)
+                      }
+
+                      print(f"DATA ERROR: {error}")
 
                   time.sleep(1)
 
           summary = {
+              "project": "JAMB CBT Question Database",
+              "years": list(YEARS),
+              "subjects": SUBJECTS,
               "total_questions": total_questions,
-              "subjects_checked": len(SUBJECTS),
-              "years_checked": list(YEARS),
+              "successful_requests": successful_requests,
+              "failed_requests": failed_requests,
               "results": report
           }
 
@@ -172,27 +215,23 @@ jobs:
                   ensure_ascii=False
               )
 
-          print("--------------------------------")
-          print("JAMB EXTRACTION COMPLETED")
-          print("Total questions:", total_questions)
-          print("Subjects:", len(SUBJECTS))
-          print("Years: 2016-2026")
-          print("--------------------------------")
-
-          if total_questions == 0:
-              raise RuntimeError(
-                  "No questions were extracted. Check API access."
-              )
+          print("\n================================")
+          print("JAMB EXTRACTION FINISHED")
+          print("================================")
+          print("Total Questions:", total_questions)
+          print("Successful Requests:", successful_requests)
+          print("Failed Requests:", failed_requests)
+          print("================================")
 
           PY
 
       - name: Upload Extracted Questions
         uses: actions/upload-artifact@v4
         with:
-          name: jamb-questions-2016-2026
+          name: JAMB-Questions-2016-2026
           path: jamb_questions/
-          if-no-files-found: error
           retention-days: 90
+          if-no-files-found: error
 
       - name: Commit Extracted Questions
         run: |
@@ -202,7 +241,7 @@ jobs:
           git add jamb_questions/
 
           if ! git diff --cached --quiet; then
-            git commit -m "Update JAMB questions 2016-2026"
+            git commit -m "Update JAMB question database 2016-2026"
             git push
           else
             echo "No changes detected."
