@@ -29,7 +29,7 @@ jobs:
 
       - name: Extract JAMB Questions
         env:
-          ALOC_TOKEN: ${{ secrets.ALOC_TOKEN }}
+          ALOC_TOKEN: ${{ secrets.ALOC_SECRET_TOKEN }}
         run: |
           python <<'PY'
           import requests
@@ -42,7 +42,7 @@ jobs:
 
           if not TOKEN:
               raise SystemExit(
-                  "ERROR: ALOC_TOKEN is missing from GitHub Secrets."
+                  "ERROR: ALOC_SECRET_TOKEN is missing from GitHub Secrets."
               )
 
           BASE_URL = "https://questions.aloc.com.ng/api/v2/m"
