@@ -1,0 +1,1944 @@
+{
+  "exam": "JAMB",
+  "subject": "mathematics",
+  "year": 2018,
+  "source": "ALOC",
+  "contentSource": "historical",
+  "questionCount": 49,
+  "questions": [
+    {
+      "id": "f5926fdf-6c0a-441b-9793-c964c1f14eed",
+      "text": "In a class of 40 students, 32 offer Mathematics, 24 offer Physics and 4 offer neither Mathematics nor Physics. How many offer both Mathematics and Physics?",
+      "options": {
+        "A": "4",
+        "B": "8",
+        "C": "16",
+        "D": "20"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 1,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "algebra",
+        "subtopic": "sets",
+        "difficultyScore": 3,
+        "estimatedTime": 120,
+        "tags": [
+          "mathematics",
+          "algebra",
+          "sets",
+          "determinants"
+        ],
+        "learningObjectives": [
+          "Compute the inverse of a 2 x 2 matrix."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-ALGEBRA",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "65adeac1-dcf3-4a50-bdbb-fa84bc38fcc1",
+      "text": "Find the values of x for which\n\n(x+2)/4 - (2x−3)/3 < 4",
+      "options": {
+        "A": "x < 8",
+        "B": "x > -6",
+        "C": "x < 4",
+        "D": "x > -3"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 2,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "algebra",
+        "subtopic": "inequalities",
+        "difficultyScore": 3,
+        "estimatedTime": 120,
+        "tags": [
+          "mathematics",
+          "algebra",
+          "inequalities",
+          "determinants"
+        ],
+        "learningObjectives": [
+          "Compute the inverse of a 2 x 2 matrix."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-ALGEBRA",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "6be0afa0-5b55-49d0-8156-65be35788edb",
+      "text": "The pie chart shows the monthly expenditure of a public servant. The monthly expenditure on housing is twice that of school fees. How much does the worker spend on housing if his monthly income is N7200?",
+      "options": {
+        "A": "1000",
+        "B": "2000",
+        "C": "3000",
+        "D": "4000"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": "https://res.cloudinary.com/aloc-ng/image/upload/v1724006285/ALOC-Questions/Mathematics/2018/JAMB_MATH_2018_Q3_y8hiph.jpg",
+      "questionNumber": 3,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "statistics",
+        "subtopic": "pie-charts",
+        "difficultyScore": 2,
+        "estimatedTime": 60,
+        "tags": [
+          "mathematics",
+          "statistics",
+          "pie-charts",
+          "probability"
+        ],
+        "learningObjectives": [
+          "Resolve simple probability problems, including addition and multiplication rules for mutual and independent events."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-STATISTICS",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "a79f7413-ce9c-4423-addb-389f7001ed20",
+      "text": "A trader realises 10x - x<sup>2</sup>\nNaira profit from the sale of x bags of corn. How many bags will give him the maximum profit?",
+      "options": {
+        "A": "7",
+        "B": "6",
+        "C": "5",
+        "D": "4"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 4,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "calculus",
+        "subtopic": "maxima-minima",
+        "difficultyScore": 4,
+        "estimatedTime": 300,
+        "tags": [
+          "mathematics",
+          "calculus",
+          "maxima-minima",
+          "integration"
+        ],
+        "learningObjectives": [
+          "Calculate the area under a curve for simple cases."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-CALCULUS",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "6d22b5e6-4f65-490d-863d-b2a1485bd179",
+      "text": "If y = 23<sub>five</sub> + 101<sub>three</sub> , find y, leaving your answer in base two",
+      "options": {
+        "A": "1110",
+        "B": "10111",
+        "C": "11101",
+        "D": "111100"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 5,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "number-theory",
+        "subtopic": "number-bases",
+        "difficultyScore": 4,
+        "estimatedTime": 300,
+        "tags": [
+          "mathematics",
+          "number-theory",
+          "number-bases",
+          "shares-vat"
+        ],
+        "learningObjectives": [
+          "Solve problems involving shares and value added tax."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-NUMBER-THEORY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "3d3fcde2-0137-4db3-8f8b-f347fbfe2312",
+      "text": "Find the value of x in the diagram",
+      "options": {
+        "A": "10°",
+        "B": "28°",
+        "C": "36°",
+        "D": "40°"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": "https://res.cloudinary.com/aloc-ng/image/upload/v1724006328/ALOC-Questions/Mathematics/2018/JAMB_MATH_2018_Q6_ki6g4i.jpg",
+      "questionNumber": 6,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "geometry",
+        "subtopic": "angles",
+        "difficultyScore": 2,
+        "estimatedTime": 60,
+        "tags": [
+          "mathematics",
+          "geometry",
+          "angles",
+          "coordinate-geometry"
+        ],
+        "learningObjectives": [
+          "Find the equation of a straight line using two-point, point-slope, slope-intercept and general forms."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-GEOMETRY",
+        "classificationConfidence": 0.8,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "956b5f88-bea8-47da-bcba-c0a2066b60fd",
+      "text": "Solve for t in the equation 3/4\nt + 13\n(21 - t) = 11",
+      "options": {
+        "A": "9/13",
+        "B": "7/13",
+        "C": "5",
+        "D": "9(3/5)"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 7,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "algebra",
+        "subtopic": "linear-equations",
+        "difficultyScore": 3,
+        "estimatedTime": 120,
+        "tags": [
+          "mathematics",
+          "algebra",
+          "linear-equations",
+          "determinants"
+        ],
+        "learningObjectives": [
+          "Compute the inverse of a 2 x 2 matrix."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-ALGEBRA",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "1c8dc87b-8695-4fc3-a73a-52651c8b8b05",
+      "text": "A school girl spends 1/4\nof her pocket money on books and 1/3\non dress. What fraction remains?",
+      "options": {
+        "A": "5/6",
+        "B": "7/12",
+        "C": "5/12",
+        "D": "1/6"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 8,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "number-theory",
+        "subtopic": null,
+        "difficultyScore": 2,
+        "estimatedTime": 60,
+        "tags": [
+          "mathematics",
+          "number-theory",
+          "shares-vat"
+        ],
+        "learningObjectives": [
+          "Solve problems involving shares and value added tax."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-NUMBER-THEORY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "b00df576-93db-477e-af16-25227cbe78f7",
+      "text": "If x/(a+1) + y/b = 1. Make y the subject of the relation.",
+      "options": {
+        "A": "b(a+1−x)/(a+1)",
+        "B": "(a+1)/b(a−x+1)",
+        "C": "a(b−x+1)/(b+1)",
+        "D": "b/(a(b−x+1))"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 9,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "algebra",
+        "subtopic": "simultaneous-equations",
+        "difficultyScore": 2,
+        "estimatedTime": 60,
+        "tags": [
+          "mathematics",
+          "algebra",
+          "simultaneous-equations",
+          "determinants"
+        ],
+        "learningObjectives": [
+          "Compute the inverse of a 2 x 2 matrix."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-ALGEBRA",
+        "classificationConfidence": 0.8,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "327e593c-de05-4e74-97d7-6ab0bf1a5cb1",
+      "text": "Calculate the total surface area of a cupboard which measures 12cm by 10cm by 8cm",
+      "options": {
+        "A": "1920cm<sup>2</sup>",
+        "B": "592cm<sup>2</sup>",
+        "C": "296cm<sup>2</sup>",
+        "D": "148cm<sup>2</sup>"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 10,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "geometry",
+        "subtopic": "mensuration",
+        "difficultyScore": 2,
+        "estimatedTime": 60,
+        "tags": [
+          "mathematics",
+          "geometry",
+          "mensuration",
+          "coordinate-geometry"
+        ],
+        "learningObjectives": [
+          "Find the equation of a straight line using two-point, point-slope, slope-intercept and general forms."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-GEOMETRY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "8fec5c1a-c00f-403a-9cff-e3f135ea9436",
+      "text": "Convert 0.04945 to two significant figures",
+      "options": {
+        "A": "0.040",
+        "B": "0.049",
+        "C": "0.050",
+        "D": "0.49"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 11,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "number-theory",
+        "subtopic": "fractions-decimals",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "mathematics",
+          "number-theory",
+          "fractions-decimals",
+          "shares-vat"
+        ],
+        "learningObjectives": [
+          "Solve problems involving shares and value added tax."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-NUMBER-THEORY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "e1218e95-8096-4c6c-a88d-e08481ab20bb",
+      "text": "The probabilities that John and James pass an examination are 3/4 and 3/5 respectively. Find the probability of both boys failing the examination.",
+      "options": {
+        "A": "1/10",
+        "B": "2/10",
+        "C": "9/20",
+        "D": "11/20"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 12,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "statistics",
+        "subtopic": "probability",
+        "difficultyScore": 2,
+        "estimatedTime": 60,
+        "tags": [
+          "mathematics",
+          "statistics",
+          "probability"
+        ],
+        "learningObjectives": [
+          "Resolve simple probability problems, including addition and multiplication rules for mutual and independent events."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-STATISTICS",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "4d6d0b00-caa4-434f-8cce-1eb6e43dec5c",
+      "text": "An arc of a circle of radius 14cm subtends angle 300° at the centre. Find the perimeter of the sector formed by the arc (take π = 22/7)",
+      "options": {
+        "A": "14.67 cm",
+        "B": "73.33 cm",
+        "C": "101.33 cm",
+        "D": "513.33 cm"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 13,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "geometry",
+        "subtopic": "circles",
+        "difficultyScore": 3,
+        "estimatedTime": 120,
+        "tags": [
+          "mathematics",
+          "geometry",
+          "circles",
+          "coordinate-geometry"
+        ],
+        "learningObjectives": [
+          "Find the equation of a straight line using two-point, point-slope, slope-intercept and general forms."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-GEOMETRY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "e6081cdb-024b-433e-85d7-d061a24e2173",
+      "text": "Simplify\n(〖25〗<sup>2/3</sup>)÷〖25〗<sup>(1/6)</sup>)/((1/5 )<sup>(7/6)</sup>÷(1/5 )<sp>(1/6)</sup> )",
+      "options": {
+        "A": "25",
+        "B": "1",
+        "C": "1/5",
+        "D": "1/25"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mrow>\n      <msup>\n        <mn>25</mn>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mfrac>\n            <mn>2</mn>\n            <mn>3</mn>\n          </mfrac>\n        </mrow>\n      </msup>\n      <mo>&#x00F7;<!-- ÷ --></mo>\n      <msup>\n        <mn>25</mn>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mfrac>\n            <mn>1</mn>\n            <mn>6</mn>\n          </mfrac>\n        </mrow>\n      </msup>\n    </mrow>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <mfrac>\n        <mn>1</mn>\n        <mn>5</mn>\n      </mfrac>\n      <msup>\n        <mo stretchy=\"false\">)</mo>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mfrac>\n            <mn>7</mn>\n            <mn>6</mn>\n          </mfrac>\n        </mrow>\n      </msup>\n      <mo>&#x00F7;<!-- ÷ --></mo>\n      <mo stretchy=\"false\">(</mo>\n      <mfrac>\n        <mn>1</mn>\n        <mn>5</mn>\n      </mfrac>\n      <msup>\n        <mo stretchy=\"false\">)</mo>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mfrac>\n            <mn>1</mn>\n            <mn>6</mn>\n          </mfrac>\n        </mrow>\n      </msup>\n    </mrow>\n  </mfrac>\n</math>",
+      "imageUrl": null,
+      "questionNumber": 14,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "algebra",
+        "subtopic": "indices-logarithms",
+        "difficultyScore": 3,
+        "estimatedTime": 120,
+        "tags": [
+          "mathematics",
+          "algebra",
+          "indices-logarithms",
+          "determinants"
+        ],
+        "learningObjectives": [
+          "Compute the inverse of a 2 x 2 matrix."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-ALGEBRA",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "5619ba06-e1b7-4287-983b-8da09fd27f79",
+      "text": "p = [(Q(R - T)/(15))]<sup>1/3</sup>",
+      "options": {
+        "A": "T = (R+P3)/15Q",
+        "B": "T = (R-15P<sup>3</sup>)/Q",
+        "C": "T = R - (15P<sup>3</sup>)/Q",
+        "D": "T = (15R+Q)/P<sup>3</sup>"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mrow>\n      <mi>Q</mi>\n      <mo stretchy=\"false\">(</mo>\n      <mi>R</mi>\n      <mo>&#x2212;<!-- − --></mo>\n      <mi>T</mi>\n      <mo stretchy=\"false\">)</mo>\n    </mrow>\n    <mn>15</mn>\n  </mfrac>\n  <msup>\n    <mo stretchy=\"false\">)</mo>\n    <mfrac>\n      <mn>1</mn>\n      <mn>3</mn>\n    </mfrac>\n  </msup>\n</math>",
+      "imageUrl": null,
+      "questionNumber": 15,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "algebra",
+        "subtopic": "equations",
+        "difficultyScore": 4,
+        "estimatedTime": 300,
+        "tags": [
+          "mathematics",
+          "algebra",
+          "equations",
+          "determinants"
+        ],
+        "learningObjectives": [
+          "Compute the inverse of a 2 x 2 matrix."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-ALGEBRA",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "5340844e-060a-41d4-affd-b83b6bfa07b8",
+      "text": "What is the place value of 9 in the number 3.0492?",
+      "options": {
+        "A": "9/10000",
+        "B": "9/1000",
+        "C": "9/100",
+        "D": "9/10"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 16,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      }
+    },
+    {
+      "id": "768b3c27-5eaa-4900-82b5-9dc6dbaf7631",
+      "text": "If the simple interest on a sum of money invested at 3% per annum for 2(1/2)\n  years is N123, find the principal.",
+      "options": {
+        "A": "N676.50",
+        "B": "N820",
+        "C": "N1,640",
+        "D": "N4,920"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 17,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      }
+    },
+    {
+      "id": "fa0b2991-e2a9-4624-bc0e-c013ccea7345",
+      "text": "A machine valued at N20,000 depreciates by 10% every year. What will be the value of the machine at the end of two years?",
+      "options": {
+        "A": "N16,200",
+        "B": "N14,200",
+        "C": "N12,000",
+        "D": "N8,000"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 18,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      }
+    },
+    {
+      "id": "b064a9ea-4f34-4c06-a1c8-9559aac9cf31",
+      "text": "The table shown gives the marks scored by a group of student in a test. Use the table to answer the question given.\n\nMark\t0\t1\t2\t3\t4\t5\nFrequency\t1\t2\t7\t5\t4\t3\n \n\nWhat is the median mark?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": "https://res.cloudinary.com/aloc-ng/image/upload/v1724006353/ALOC-Questions/Mathematics/2018/JAMB_MATH_2018_Q19_itulpw.jpg",
+      "questionNumber": 19,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      }
+    },
+    {
+      "id": "6bf54d50-1fbc-49e3-83e5-7454cafd6060",
+      "text": "The table shown gives the marks scored by a group of student in a test. Use the table to answer the question given.\n\nMark\t0\t1\t2\t3\t4\t5\nFrequency\t1\t2\t7\t5\t4\t3\nWhat is the probability of selecting a student from the group that scored 2 or 3",
+      "options": {
+        "A": "1/11",
+        "B": "5/22",
+        "C": "7/22",
+        "D": "6/11"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": "https://res.cloudinary.com/aloc-ng/image/upload/v1724006382/ALOC-Questions/Mathematics/2018/JAMB_MATH_2018_Q20_xt2oox.jpg",
+      "questionNumber": 20,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      }
+    },
+    {
+      "id": "082f4514-8f67-492e-bd55-d5a68ac0ef6f",
+      "text": "A boy walks 800m in 20 minutes. Calculate his average speed in Km/H",
+      "options": {
+        "A": "2.4",
+        "B": "4",
+        "C": "24",
+        "D": "6"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 21,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      }
+    },
+    {
+      "id": "6df35266-9ae7-44f0-9659-794d76279433",
+      "text": "A car uses one litre of petrol for every 14km. If one litre of petrol cost N63.00, how far can the car go with N900.00 worth of petrol?",
+      "options": {
+        "A": "420 Km",
+        "B": "405 Km",
+        "C": "210 Km",
+        "D": "200 Km"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 22,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      }
+    },
+    {
+      "id": "3223b17d-6a09-43cf-b554-c7a83ca56399",
+      "text": "In the diagram, GI is a tangent to the circle at H. If EF||GI, calculate the size of ∠EHF",
+      "options": {
+        "A": "126°",
+        "B": "72°",
+        "C": "54°",
+        "D": "28°"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": "https://res.cloudinary.com/aloc-ng/image/upload/v1724006406/ALOC-Questions/Mathematics/2018/JAMB_MATH_2018_Q23_lnsqew.jpg",
+      "questionNumber": 23,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      }
+    },
+    {
+      "id": "c10526f9-c4bb-49c1-b080-7b187df96ac5",
+      "text": "How many times, correct to the nearest whole number, will a man run round a circular track of diameter 100m to cover a distance of 1000m?",
+      "options": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 24,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      }
+    },
+    {
+      "id": "02c710b9-e142-423b-bcf1-cf136d1c0a78",
+      "text": "(0.00256×0.0064)/(0.025 × 0.08)",
+      "options": {
+        "A": "8.8 x 10<sup>-1</sup>",
+        "B": "8.8 x 10<sup>-2</sup>",
+        "C": "8.2 x 10<sup>-3</sup>",
+        "D": "8.8 x 10<sup>3</sup>"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mrow>\n      <mn>0.00256</mn>\n      <mo>&#x00D7;<!-- × --></mo>\n      <mn>0.0064</mn>\n    </mrow>\n    <mrow>\n      <mn>0.025</mn>\n      <mo>&#x00D7;<!-- × --></mo>\n      <mn>0.08</mn>\n    </mrow>\n  </mfrac>\n</math>",
+      "imageUrl": null,
+      "questionNumber": 25,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      }
+    },
+    {
+      "id": "4b82584a-41ae-4230-a05b-6a2b5caa4402",
+      "text": "Two sisters, Taiwo and Kehinde, own a store. The ratio of Taiwo's share to Kehinde's is 11:9. Later Kehinde sells \\(\\frac{2}{3}\\) of her share to Taiwo for N720.00. Find the value of the store",
+      "options": {
+        "A": "N1,080.00",
+        "B": "N2,400.00",
+        "C": "N3,000.00",
+        "D": "N3,600.00"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 26,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      }
+    },
+    {
+      "id": "2f099abd-9bc2-456d-923c-2a07a8ce28fd",
+      "text": "A room is 12m long, 9m wide and 8m high. Find the cosine of the angle which a diagonal of the room makes with the floor of the room.",
+      "options": {
+        "A": "15/17",
+        "B": "9/17",
+        "C": "8/15",
+        "D": "12/17"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 27,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      }
+    },
+    {
+      "id": "5b9257b5-59f3-4079-902a-5ca82a9d4dd2",
+      "text": "Divide the L.C.M of 48, 64 and 80 by their H.C.F",
+      "options": {
+        "A": "20",
+        "B": "30",
+        "C": "48",
+        "D": "60"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 28,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      }
+    },
+    {
+      "id": "a2b63dc5-2f0f-4ccc-a351-f1038a52687d",
+      "text": "Find the equation of the line through (5,7) parallel to the line 7x + 5y = 12",
+      "options": {
+        "A": "5x + 7y = 20",
+        "B": "7x + 5y = 70",
+        "C": "xy = 7",
+        "D": "15x + 17y = 90"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 29,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      }
+    },
+    {
+      "id": "35ddc88d-0347-444c-bf79-82beaaa3cc01",
+      "text": "A man's initial salary is N540.00 a month and increases after each period of six months by N36.00. Find his salary in the eight month of the third year.",
+      "options": {
+        "A": "N828.00",
+        "B": "N756.00",
+        "C": "N720.00",
+        "D": "N684.00"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 30,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      }
+    },
+    {
+      "id": "022fc319-de3e-4bfa-b5ff-2ae304867383",
+      "text": "A man stands on a tree 150cm high and sees a boat at an angle of depression of 74°. Find the distance of the boat from the base of the tree.",
+      "options": {
+        "A": "52 cm",
+        "B": "43 cm",
+        "C": "40 cm",
+        "D": "15 cm"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 31,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      }
+    },
+    {
+      "id": "3cd722db-291d-4a05-90de-22559a5ae7dd",
+      "text": "Integrate the expression 6x<sup>2</sup> - 2x + 1",
+      "options": {
+        "A": "3x<sup>3</sup> - 2x<sup>2</sup>\n + x + c",
+        "B": "2x<sup>3</sup> - x<sup>2</sup>\n + x + c",
+        "C": "2x<sup>3</sup>\n – 3x<sup>2</sup>\n + c",
+        "D": "x<sup>2</sup> + x<sup>2</sup>\n – x + c"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 32,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      }
+    },
+    {
+      "id": "c8f98bd1-766c-4ffb-b366-0cd65bd7f40c",
+      "text": "In how many ways can the letters LEADER be arranged?",
+      "options": {
+        "A": "72",
+        "B": "144",
+        "C": "360",
+        "D": "720"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 33,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      }
+    },
+    {
+      "id": "53172e0c-4470-488a-9918-4a7831ac0e13",
+      "text": "In the figure below, /MX/ = 8cm, /XN/ = 12cm, /NZ/ = 4cm and ∠ XMN = ∠ XZY. Calculate /YM/",
+      "options": {
+        "A": "32 cm",
+        "B": "24 cm",
+        "C": "16 cm",
+        "D": "12 cm"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": "https://res.cloudinary.com/aloc-ng/image/upload/v1724006456/ALOC-Questions/Mathematics/2018/JAMB_MATH_2018_Q34_f4jaaq.jpg",
+      "questionNumber": 34,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      }
+    },
+    {
+      "id": "104310c9-1436-4427-a7c4-bc23f4de323b",
+      "text": "Express 495g as a percentage of 16.5kg",
+      "options": {
+        "A": "3%",
+        "B": "3(1/3)%",
+        "C": "15%",
+        "D": "30%"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 35,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      }
+    },
+    {
+      "id": "3b80842c-4bd9-431e-b97a-85f7a0bafa81",
+      "text": "Evaluate (2√3 - 4) (2√3 + 4)",
+      "options": {
+        "A": "-4",
+        "B": "-2",
+        "C": "2",
+        "D": "4"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 36,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      }
+    },
+    {
+      "id": "bc622b42-b996-4209-b92b-d4d02e0b2525",
+      "text": "Find the equation of the tangent at the point (2, 0) to the curve y = x<sup>2</sup> - 2x",
+      "options": {
+        "A": "y = 2x - 4",
+        "B": "y = 2x + 4",
+        "C": "y = 2x - 2",
+        "D": "y = 2x + 2"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 37,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      }
+    },
+    {
+      "id": "5dbcef3c-e704-40dc-a4db-6cbd35a4cc00",
+      "text": "Use the quadratic equation curve to answer this questions\nWhat is the minimum value of the graph?",
+      "options": {
+        "A": "-5.3",
+        "B": "0.5",
+        "C": "3",
+        "D": "8"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": "https://res.cloudinary.com/aloc-ng/image/upload/v1724006473/ALOC-Questions/Mathematics/2018/JAMB_MATH_2018_Q38_mx7r71.jpg",
+      "questionNumber": 38,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      }
+    },
+    {
+      "id": "c80cda70-abed-4a68-822e-f14d831c4d3f",
+      "text": "Evaluate log<sup>2</sup>\n 8 – log<sup>3</sup> 1/9",
+      "options": {
+        "A": "-11(1/2)",
+        "B": "-1",
+        "C": "1",
+        "D": "5"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 39,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      }
+    },
+    {
+      "id": "f435790d-57d2-46b4-96ad-828a27f1c2e2",
+      "text": "Tanθ is positive and Sinθ is negative. In which quadrant does θ lies",
+      "options": {
+        "A": "Second only",
+        "B": "Third only",
+        "C": "Fourth only",
+        "D": "First and third only"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 40,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      }
+    },
+    {
+      "id": "850e3073-8d5c-44e6-8c2d-23f8ae90c0a3",
+      "text": "The table above shows the frequency of children age x years in a hospital\nx\t1\t2\t3\t4\t5\t6\t7\t8\ny\t3\t4\t5\t6\t7\t6\t5\t4\nHow many children are in the hospital",
+      "options": {
+        "A": "36",
+        "B": "40",
+        "C": "44",
+        "D": "50"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": "https://res.cloudinary.com/aloc-ng/image/upload/v1724006493/ALOC-Questions/Mathematics/2018/JAMB_MATH_2018_Q41_shvtnl.jpg",
+      "questionNumber": 41,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      }
+    },
+    {
+      "id": "88f4fdef-be19-482e-86e5-b527bf3efd61",
+      "text": "The figure above is a Venn diagram showing the elements arranged within sets A,B,C,ε.\nUse the figure to answer this question\n\nWhat is n(A U B)1 ?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "7"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": "https://res.cloudinary.com/aloc-ng/image/upload/v1724006518/ALOC-Questions/Mathematics/2018/JAMB_MATH_2018_Q42_jtocji.jpg",
+      "questionNumber": 42,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      }
+    },
+    {
+      "id": "d3632444-558e-4cfe-a28b-fd55b7f56f53",
+      "text": "What is the loci of a distance 4cm from a given point P?",
+      "options": {
+        "A": "A straight line of length 4cm",
+        "B": "a circle of radius 4cm",
+        "C": "perpendicular to point P at 4cm",
+        "D": "a circle of diameter 4cm"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 43,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      }
+    },
+    {
+      "id": "bdfedf88-b460-4025-8d03-6c3a2aace33d",
+      "text": "Given that Sin (5x − 28)° = Cos(3x − 50)°, 0 < x < 90°\n\nFind the value °f x",
+      "options": {
+        "A": "14°",
+        "B": "21°",
+        "C": "32°",
+        "D": "39°"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 44,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      }
+    },
+    {
+      "id": "d76c67c8-eccd-4d50-93ca-812d31e0c998",
+      "text": "Find the average of the first four prime numbers greater than 10",
+      "options": {
+        "A": "20",
+        "B": "19",
+        "C": "17",
+        "D": "15"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 45,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      }
+    },
+    {
+      "id": "2ac31703-d8dc-4ebf-9b9e-07154864ed34",
+      "text": "Using the table,What is the modal age?",
+      "options": {
+        "A": "4",
+        "B": "5",
+        "C": "5",
+        "D": "7"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": "https://res.cloudinary.com/aloc-ng/image/upload/v1724006540/ALOC-Questions/Mathematics/2018/JAMB_MATH_2018_Q46_ypiyhc.jpg",
+      "questionNumber": 46,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      }
+    },
+    {
+      "id": "99431ad9-3500-44f6-8c1f-70c45115edca",
+      "text": "Calculate 243<sub>six</sub> – 243<sub>five</sub>\nexpressing your answer in base 10",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "26",
+        "D": "46"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 48,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      }
+    },
+    {
+      "id": "5b4a67ab-57f5-450d-bfbb-6ec681992d45",
+      "text": "Evaluate ∫<sup>2</sup><sub>1</sub> 5/x\n dx",
+      "options": {
+        "A": "1.47",
+        "B": "2.67",
+        "C": "3.23",
+        "D": "3.47"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 49,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      }
+    },
+    {
+      "id": "3541bd1a-3cde-4923-931e-da5b37bc7ab0",
+      "text": "Tossing a coin and rolling a die are two separate events. What is the probability of obtaining a tail on the coin and an even number on the die?",
+      "options": {
+        "A": "1/16",
+        "B": "1/6",
+        "C": "1/4",
+        "D": "3/8"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 50,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,2602 @@
+{
+  "exam": "JAMB",
+  "subject": "mathematics",
+  "year": 2015,
+  "source": "ALOC",
+  "contentSource": "historical",
+  "questionCount": 50,
+  "questions": [
+    {
+      "id": "b4ed599a-3a4c-48d1-abb6-f0ff7bf911bd",
+      "text": "In a town of 6250 inhabitants, there were 62 births during 1984. Find the percentage birth rate",
+      "options": {
+        "A": "3%",
+        "B": "1.0%",
+        "C": "2.5%",
+        "D": "5.40%"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2015,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 1,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "statistics",
+        "subtopic": "percentage",
+        "difficultyScore": 2,
+        "estimatedTime": 60,
+        "tags": [
+          "mathematics",
+          "statistics",
+          "percentage",
+          "probability"
+        ],
+        "learningObjectives": [
+          "Resolve simple probability problems, including addition and multiplication rules for mutual and independent events."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-STATISTICS",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "da786e8c-622a-4244-ab95-36b3e8849dbc",
+      "text": "Simplify 1¼ ÷ (2 ÷ ¼ of 28)",
+      "options": {
+        "A": "1 (3/8)",
+        "B": "2 (3/4)",
+        "C": "4 (3/8)",
+        "D": "3 (1/5)"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2015,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 2,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "number-theory",
+        "subtopic": "fractions-decimals",
+        "difficultyScore": 3,
+        "estimatedTime": 120,
+        "tags": [
+          "mathematics",
+          "number-theory",
+          "fractions-decimals",
+          "shares-vat"
+        ],
+        "learningObjectives": [
+          "Solve problems involving shares and value added tax."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-NUMBER-THEORY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "6011950a-b747-496c-9db8-3ec76cc1c0f5",
+      "text": "Factorize x<sup>2</sup> + 9x + 20",
+      "options": {
+        "A": "(x − 5)<sup>2</sup>",
+        "B": "(x + 5)(x + 4)",
+        "C": "(x – 5)(x + 3)",
+        "D": "(x + 3)<sup>2</sup>"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2015,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 3,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "algebra",
+        "subtopic": "polynomials",
+        "difficultyScore": 2,
+        "estimatedTime": 60,
+        "tags": [
+          "mathematics",
+          "algebra",
+          "polynomials",
+          "determinants"
+        ],
+        "learningObjectives": [
+          "Compute the inverse of a 2 x 2 matrix."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-ALGEBRA",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "7f7f2bc9-e996-4fb9-a771-60a504214f6c",
+      "text": "If three staff of Myschool Limited agreed to share their salary arrears in the ration of their ages, which are 18 years, 20 years, 22 years respectively. If the sum of the money collected is N120,000.00K, How much does the second staff received?",
+      "options": {
+        "A": "N36,000",
+        "B": "N44,000",
+        "C": "N40,000",
+        "D": "N15,000"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2015,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 4,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "number-theory",
+        "subtopic": "ratio-proportion",
+        "difficultyScore": 3,
+        "estimatedTime": 120,
+        "tags": [
+          "mathematics",
+          "number-theory",
+          "ratio-proportion",
+          "shares-vat"
+        ],
+        "learningObjectives": [
+          "Solve problems involving shares and value added tax."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-NUMBER-THEORY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "3cf33672-b98a-41d2-af98-2efa4c43ea55",
+      "text": "X and Y are two sets such that n(X) = 15, n(Y) = 12 and n{X ∩ Y} = 7. Find ∩{X ∪ Y}",
+      "options": {
+        "A": "21",
+        "B": "22.5",
+        "C": "15",
+        "D": "20"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2015,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 5,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "algebra",
+        "subtopic": "sets",
+        "difficultyScore": 3,
+        "estimatedTime": 120,
+        "tags": [
+          "mathematics",
+          "algebra",
+          "sets",
+          "determinants"
+        ],
+        "learningObjectives": [
+          "Compute the inverse of a 2 x 2 matrix."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-ALGEBRA",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "e7e00045-7e8e-4b15-812d-beb31569594c",
+      "text": "Find the x and z intercepts of the graph of 3x - z ≤ 9",
+      "options": {
+        "A": "(3, -9)",
+        "B": "(-3, 9)",
+        "C": "(-3, -9)",
+        "D": "(-3, 0)"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2015,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 6,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "algebra",
+        "subtopic": "inequalities",
+        "difficultyScore": 3,
+        "estimatedTime": 120,
+        "tags": [
+          "mathematics",
+          "algebra",
+          "inequalities",
+          "determinants"
+        ],
+        "learningObjectives": [
+          "Compute the inverse of a 2 x 2 matrix."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-ALGEBRA",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "6197d3f8-30ae-443a-a3f6-9dd4f8fc7f52",
+      "text": "Simplify log<sub>10</sub> 1.5 + 3 log<sub>10</sub> 2 − log<sub>10</sub> 0.3",
+      "options": {
+        "A": "log<sub>10</sub>4",
+        "B": "log<sub>10</sub>40",
+        "C": "log<sub>10</sub>-40",
+        "D": "log<sub>10</sub>4<sup>-</sup>"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2015,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 7,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "algebra",
+        "subtopic": "indices-logarithms",
+        "difficultyScore": 3,
+        "estimatedTime": 120,
+        "tags": [
+          "mathematics",
+          "algebra",
+          "indices-logarithms",
+          "determinants"
+        ],
+        "learningObjectives": [
+          "Compute the inverse of a 2 x 2 matrix."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-ALGEBRA",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "75774757-d487-4e6d-be51-bd7c08f9861d",
+      "text": "Find the total surface area of a cylinder of base radius 5cm and length 7cm ( π = 3.14)",
+      "options": {
+        "A": "17.8 cm<sup>2</sup>",
+        "B": "15.8 cm<sup>2</sup>",
+        "C": "75.4 cm<sup>2</sup>",
+        "D": "377.0 cm<sup>2</sup>"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2015,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 8,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "geometry",
+        "subtopic": "mensuration",
+        "difficultyScore": 3,
+        "estimatedTime": 120,
+        "tags": [
+          "mathematics",
+          "geometry",
+          "mensuration",
+          "coordinate-geometry"
+        ],
+        "learningObjectives": [
+          "Find the equation of a straight line using two-point, point-slope, slope-intercept and general forms."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-GEOMETRY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "e12c38fc-2e55-4016-92a5-08978b96451c",
+      "text": "If x + y = 90 simplify (sinx+siny)<sup>2</sup> −2sinxsiny",
+      "options": {
+        "A": "1",
+        "B": "0",
+        "C": "2",
+        "D": "-1"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2015,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 9,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "trigonometry",
+        "subtopic": "identities",
+        "difficultyScore": 3,
+        "estimatedTime": 120,
+        "tags": [
+          "mathematics",
+          "trigonometry",
+          "identities",
+          "graphs-of-trig"
+        ],
+        "learningObjectives": [
+          "Resolve problems involving the graphs of sine and cosine functions."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-TRIGONOMETRY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "84654fbc-85e0-409e-ae99-03329753003f",
+      "text": "A man with an annual salary of N2000, has allowances of N600. If Income Tax is 5%. How much income tax expenses does he pay each year?",
+      "options": {
+        "A": "15",
+        "B": "50",
+        "C": "70",
+        "D": "25"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2015,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 10,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "number-theory",
+        "subtopic": "simple-interest",
+        "difficultyScore": 2,
+        "estimatedTime": 60,
+        "tags": [
+          "mathematics",
+          "number-theory",
+          "simple-interest",
+          "shares-vat"
+        ],
+        "learningObjectives": [
+          "Solve problems involving shares and value added tax."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-NUMBER-THEORY",
+        "classificationConfidence": 0.8,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "408cf09c-ddb3-42e9-82b2-858529e7c4ae",
+      "text": "Solve the equation 3x<sup>2</sup> − 4x − 5 = 0",
+      "options": {
+        "A": "x = 1.75 or − 0.15",
+        "B": "x = 2.12 or − 0.79",
+        "C": "x = 1.5 or − 0.34",
+        "D": "x = 2.35 or −1.23"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2015,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mi>x</mi>\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mo>&#x2212;<!-- − --></mo>\n      <mi>b</mi>\n      <mo>&#x00B1;<!-- ± --></mo>\n      <msqrt>\n        <msup>\n          <mi>b</mi>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mn>2</mn>\n          </mrow>\n        </msup>\n        <mo>&#x2212;<!-- − --></mo>\n        <mn>4</mn>\n        <mi>a</mi>\n        <mi>c</mi>\n      </msqrt>\n    </mrow>\n    <mrow>\n      <mn>2</mn>\n      <mi>a</mi>\n    </mrow>\n  </mfrac>\n</math>",
+      "imageUrl": null,
+      "questionNumber": 11,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "algebra",
+        "subtopic": "quadratic-equations",
+        "difficultyScore": 3,
+        "estimatedTime": 120,
+        "tags": [
+          "mathematics",
+          "algebra",
+          "quadratic-equations",
+          "determinants"
+        ],
+        "learningObjectives": [
+          "Compute the inverse of a 2 x 2 matrix."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-ALGEBRA",
+        "classificationConfidence": 1,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "d7090022-89b6-4914-83cb-e8cf13866dbe",
+      "text": "The first and last term of a linear sequence (AP) are 6 and 10 respectively. If the sum of the sequence is 40. Find the number of terms",
+      "options": {
+        "A": "nth = 3",
+        "B": "nth = 4",
+        "C": "nth = 5",
+        "D": "nth = 6"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2015,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 12,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "algebra",
+        "subtopic": "sequences-series",
+        "difficultyScore": 3,
+        "estimatedTime": 120,
+        "tags": [
+          "mathematics",
+          "algebra",
+          "sequences-series",
+          "determinants"
+        ],
+        "learningObjectives": [
+          "Compute the inverse of a 2 x 2 matrix."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-ALGEBRA",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "560967a7-63d4-4874-8f5d-5f2377389c34",
+      "text": "Find the equation of a line which is form origin and passes through the point (−3, −4)",
+      "options": {
+        "A": "y = 3x/4",
+        "B": "y = 4x/3",
+        "C": "y = 2x/3",
+        "D": "y = x/2"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2015,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 13,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "geometry",
+        "subtopic": "coordinate-geometry",
+        "difficultyScore": 2,
+        "estimatedTime": 60,
+        "tags": [
+          "mathematics",
+          "geometry",
+          "coordinate-geometry"
+        ],
+        "learningObjectives": [
+          "Find the equation of a straight line using two-point, point-slope, slope-intercept and general forms."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-GEOMETRY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "ff8586ac-a7f8-4480-b581-07f30455712e",
+      "text": "The amount A to which a principal P amounts at r% compound interest for n years is given by the formula A = P(1 + (r ÷ 100)<sup>n</sup>\n. Find A, if P = 126, r = 4 and n = 2.",
+      "options": {
+        "A": "N132.50K",
+        "B": "N136.30K",
+        "C": "N125.40K",
+        "D": "N257.42K"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2015,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 14,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "algebra",
+        "subtopic": "indices-logarithms",
+        "difficultyScore": 2,
+        "estimatedTime": 90,
+        "tags": [
+          "mathematics",
+          "algebra",
+          "indices-logarithms",
+          "determinants"
+        ],
+        "learningObjectives": [
+          "Compute the inverse of a 2 x 2 matrix."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-ALGEBRA",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "51ffebdd-b140-4c40-93d1-ab076fe0fe80",
+      "text": "Make x the subject of the equation\ns = 2 + t/5(x + ⅗y)",
+      "options": {
+        "A": "x = 5[(s − 2) ÷ t] - 3/5y",
+        "B": "x = 25[(s − 2) ÷ t] − 3ty",
+        "C": "x = [1 ÷ (s − 2)3ty]",
+        "D": "x = [5(s − 2) 2 ÷ 3ty] × t"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2015,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 15,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "algebra",
+        "subtopic": "linear-equations",
+        "difficultyScore": 3,
+        "estimatedTime": 120,
+        "tags": [
+          "mathematics",
+          "algebra",
+          "linear-equations",
+          "determinants"
+        ],
+        "learningObjectives": [
+          "Compute the inverse of a 2 x 2 matrix."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-ALGEBRA",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "85369254-f926-4ebb-ae78-ce1b81a3f2c4",
+      "text": "If log<sub>5</sub>20 = x, find x",
+      "options": {
+        "A": "1.761",
+        "B": "1.354",
+        "C": "1.861",
+        "D": "2.549"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2015,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 16,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "algebra",
+        "subtopic": "indices-logarithms",
+        "difficultyScore": 2,
+        "estimatedTime": 60,
+        "tags": [
+          "mathematics",
+          "algebra",
+          "indices-logarithms",
+          "determinants"
+        ],
+        "learningObjectives": [
+          "Compute the inverse of a 2 x 2 matrix."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-ALGEBRA",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "2ec4bbf4-f4aa-4957-9856-edb4c97be0c6",
+      "text": "Find at which rate per annum simple interest N525 will amount to N588 in 3 years.",
+      "options": {
+        "A": "3%",
+        "B": "2%",
+        "C": "5%",
+        "D": "4%"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2015,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 17,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "number-theory",
+        "subtopic": null,
+        "difficultyScore": 2,
+        "estimatedTime": 60,
+        "tags": [
+          "mathematics",
+          "number-theory",
+          "shares-vat"
+        ],
+        "learningObjectives": [
+          "Solve problems involving shares and value added tax."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-NUMBER-THEORY",
+        "classificationConfidence": 0.8,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "cafef1ff-6537-46ad-8f01-158d37c2afde",
+      "text": "Given that A = {1, 5, 7}\n\nB = {3, 9, 12, 15}\n\nC = {2, 4, 6, 8}\n\nFind (A ∪ B) ∪ C",
+      "options": {
+        "A": "{1, 2, 3, 4, 5, 6, 7, 8, 9, 12, 15}",
+        "B": "{1, 2, 3, 5, 6, 8, 12, 15}",
+        "C": "{2, 4, 5, 9, 12, 15}",
+        "D": "{1, 5, 6, 7, 8, 9, 12, 15}"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2015,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 18,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "algebra",
+        "subtopic": "sets",
+        "difficultyScore": 2,
+        "estimatedTime": 60,
+        "tags": [
+          "mathematics",
+          "algebra",
+          "sets",
+          "determinants"
+        ],
+        "learningObjectives": [
+          "Compute the inverse of a 2 x 2 matrix."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-ALGEBRA",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "fe9ee71f-1a7b-4905-8ed6-aec7312f5fdc",
+      "text": "The extension of a stretched string is directly proportional to its tension. If the extension produced by a tension of 8 Newton’s is 2cm, find the extension produced by a tension of 12 newton’s.",
+      "options": {
+        "A": "2",
+        "B": "1",
+        "C": "0",
+        "D": "3"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2015,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 19,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "mechanics",
+        "subtopic": "forces",
+        "difficultyScore": 2,
+        "estimatedTime": 60,
+        "tags": [
+          "mathematics",
+          "mechanics",
+          "forces",
+          "motion",
+          "work-energy",
+          "velocity-acceleration",
+          "vectors-3d",
+          "moments"
+        ],
+        "learningObjectives": [],
+        "curriculumAlignment": "MATHEMATICS-MECHANICS",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "9f8aa6ee-dd15-4c83-870b-12db10950629",
+      "text": "Factorize x<sup>2</sup> −2x−15",
+      "options": {
+        "A": "(x + 3)<sup>2</sup>",
+        "B": "(x + 5)(x − 3)",
+        "C": "(x − 5)<sup>2</sup>",
+        "D": "(x − 5)(x + 3)"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2015,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 20,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "algebra",
+        "subtopic": "quadratic-equations",
+        "difficultyScore": 2,
+        "estimatedTime": 60,
+        "tags": [
+          "mathematics",
+          "algebra",
+          "quadratic-equations",
+          "determinants"
+        ],
+        "learningObjectives": [
+          "Compute the inverse of a 2 x 2 matrix."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-ALGEBRA",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "ea253140-2d10-48c6-bcf7-2f6fa35c3b49",
+      "text": "If A = (−3,5) and B = (4,−1) find the co-ordinate of the mid point",
+      "options": {
+        "A": "2, ½",
+        "B": "½ , 2",
+        "C": "1, ½",
+        "D": "0, 2"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2015,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 21,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "geometry",
+        "subtopic": "coordinate-geometry",
+        "difficultyScore": 2,
+        "estimatedTime": 60,
+        "tags": [
+          "mathematics",
+          "geometry",
+          "coordinate-geometry"
+        ],
+        "learningObjectives": [
+          "Find the equation of a straight line using two-point, point-slope, slope-intercept and general forms."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-GEOMETRY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "f9c643d8-4076-4105-aa50-754bcca3ce3a",
+      "text": "Find the simple interest on N325 in 5years at 3% per annum.",
+      "options": {
+        "A": "N48.75K",
+        "B": "N50.10K",
+        "C": "N75.50K",
+        "D": "N15.75K"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2015,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 22,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "number-theory",
+        "subtopic": null,
+        "difficultyScore": 2,
+        "estimatedTime": 60,
+        "tags": [
+          "mathematics",
+          "number-theory",
+          "shares-vat"
+        ],
+        "learningObjectives": [
+          "Solve problems involving shares and value added tax."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-NUMBER-THEORY",
+        "classificationConfidence": 0.8,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "f4f99704-4649-462e-87d4-53b70d1c4bd6",
+      "text": "Simplify (0.09)<sup>2</sup> and give your answer correct to 4 significant figures",
+      "options": {
+        "A": "0.81",
+        "B": "0.081",
+        "C": "0.0081",
+        "D": "8.0001"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2015,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 23,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "algebra",
+        "subtopic": "indices-logarithms",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "mathematics",
+          "algebra",
+          "indices-logarithms",
+          "determinants"
+        ],
+        "learningObjectives": [
+          "Compute the inverse of a 2 x 2 matrix."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-ALGEBRA",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "28822d92-cd0c-4eec-8288-982d00b384ed",
+      "text": "Simplify [1÷(x<sup>2</sup> + 3x + 2)]+[1 ÷ (x<sup>2</sup> + 5x + 6)]",
+      "options": {
+        "A": "2/(x+1)<sup>2</sup>",
+        "B": "2/(x+1)(x+2)",
+        "C": "2(x+1)(x+2)",
+        "D": "2(x+1)(x+3)"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2015,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 24,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "algebra",
+        "subtopic": "fractions-decimals",
+        "difficultyScore": 4,
+        "estimatedTime": 180,
+        "tags": [
+          "mathematics",
+          "algebra",
+          "fractions-decimals",
+          "determinants"
+        ],
+        "learningObjectives": [
+          "Compute the inverse of a 2 x 2 matrix."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-ALGEBRA",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "a0586cc0-467b-4f3c-b60d-83780214ef63",
+      "text": "One bag contain 3 blue and 5 red balls, another bag contain 2 blue and 4 red balls respectively. One ball is drawn for each bag. What is the probability both balls are blue",
+      "options": {
+        "A": "2/15",
+        "B": "3/24",
+        "C": "3/21",
+        "D": "3/28"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2015,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 25,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "statistics",
+        "subtopic": "probability",
+        "difficultyScore": 3,
+        "estimatedTime": 120,
+        "tags": [
+          "mathematics",
+          "statistics",
+          "probability"
+        ],
+        "learningObjectives": [
+          "Resolve simple probability problems, including addition and multiplication rules for mutual and independent events."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-STATISTICS",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "888b205b-deee-4311-b755-3f38c0cc332c",
+      "text": "Given that A = {3, 4, 1, 10, ⅓ }\n\nB = {4, 3,⅓, ⅓, 7}.\n\nFind A∩B",
+      "options": {
+        "A": "{}",
+        "B": "{⅓, 1, 2}",
+        "C": "{3, 4, ⅓}",
+        "D": "{1, 3, ⅓}"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2015,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 26,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "algebra",
+        "subtopic": "sets",
+        "difficultyScore": 2,
+        "estimatedTime": 60,
+        "tags": [
+          "mathematics",
+          "algebra",
+          "sets",
+          "determinants"
+        ],
+        "learningObjectives": [
+          "Compute the inverse of a 2 x 2 matrix."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-ALGEBRA",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "0877dd31-2bd3-40f5-9bb1-990ab0d98fe6",
+      "text": "Find x if 132<sub>x</sub>  = 70 <sub>eight</sub> .",
+      "options": {
+        "A": "5",
+        "B": "3",
+        "C": "6",
+        "D": "1"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2015,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 27,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "number-theory",
+        "subtopic": null,
+        "difficultyScore": 3,
+        "estimatedTime": 120,
+        "tags": [
+          "mathematics",
+          "number-theory",
+          "shares-vat"
+        ],
+        "learningObjectives": [
+          "Solve problems involving shares and value added tax."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-NUMBER-THEORY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "2ec61021-5543-422d-a62c-f9fc835e1912",
+      "text": "A man sells his new brand car for N420,000 at a gain of 15%. What did it cost him?",
+      "options": {
+        "A": "N410,000",
+        "B": "N365, 217",
+        "C": "N157, 250",
+        "D": "N257,000"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2015,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 28,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "number-theory",
+        "subtopic": "simple-interest",
+        "difficultyScore": 2,
+        "estimatedTime": 60,
+        "tags": [
+          "mathematics",
+          "number-theory",
+          "simple-interest",
+          "shares-vat"
+        ],
+        "learningObjectives": [
+          "Solve problems involving shares and value added tax."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-NUMBER-THEORY",
+        "classificationConfidence": 0.8,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "6d42f2c5-07d6-4675-92ec-b8e0e009c577",
+      "text": "Find the value of x if [1÷64<sup>(x+2)</sup>] = [4<sup>(x−3)</sup> ÷16<sup>x</sup>]",
+      "options": {
+        "A": "3/2",
+        "B": "2/3",
+        "C": "1/3",
+        "D": "-3/2"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2015,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 29,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "algebra",
+        "subtopic": "indices-logarithms",
+        "difficultyScore": 4,
+        "estimatedTime": 300,
+        "tags": [
+          "mathematics",
+          "algebra",
+          "indices-logarithms",
+          "determinants"
+        ],
+        "learningObjectives": [
+          "Compute the inverse of a 2 x 2 matrix."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-ALGEBRA",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "997f6422-93ed-49c4-9ac3-bb77187cdf94",
+      "text": "Solve x<sup>2</sup> − 2x − 3 = 0",
+      "options": {
+        "A": "x = 2 or 1",
+        "B": "x = 3 or -1",
+        "C": "x = 1 or 0",
+        "D": "x = 1 or 2"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2015,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 30,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "algebra",
+        "subtopic": "quadratic-equations",
+        "difficultyScore": 2,
+        "estimatedTime": 60,
+        "tags": [
+          "mathematics",
+          "algebra",
+          "quadratic-equations",
+          "determinants"
+        ],
+        "learningObjectives": [
+          "Compute the inverse of a 2 x 2 matrix."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-ALGEBRA",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "66c7477c-ab0a-4972-a218-d965f4656edd",
+      "text": "The volume of a cylinder whose height is 4cm and whose radius 5cm is equal to (π = 3.14)",
+      "options": {
+        "A": "3.13 cm<sup>2</sup>",
+        "B": "145 cm<sup>2</sup>",
+        "C": "314 cm<sup>2</sup>",
+        "D": "214 cm<sup>2</sup>"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2015,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 31,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "geometry",
+        "subtopic": "mensuration",
+        "difficultyScore": 2,
+        "estimatedTime": 60,
+        "tags": [
+          "mathematics",
+          "geometry",
+          "mensuration",
+          "coordinate-geometry"
+        ],
+        "learningObjectives": [
+          "Find the equation of a straight line using two-point, point-slope, slope-intercept and general forms."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-GEOMETRY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "cecd28f9-6de7-45bd-89d3-f84b4a41044f",
+      "text": "The probability of an event A is 1/5. The probability of B is 1/3 . The probability both A and B is 1/15. What is the probability of either event A or B or both",
+      "options": {
+        "A": "2/15",
+        "B": "3/4",
+        "C": "9/15",
+        "D": "1/15"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2015,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 32,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "statistics",
+        "subtopic": "probability",
+        "difficultyScore": 2,
+        "estimatedTime": 60,
+        "tags": [
+          "mathematics",
+          "statistics",
+          "probability"
+        ],
+        "learningObjectives": [
+          "Resolve simple probability problems, including addition and multiplication rules for mutual and independent events."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-STATISTICS",
+        "classificationConfidence": 1,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "6d31e55e-51a6-4d03-918b-daaf37b8bff9",
+      "text": "If (159.75)10 = (x)6. Find x",
+      "options": {
+        "A": "x<sub>6</sub> = 123.34<sub>6</sub>",
+        "B": "x<sub>6</sub> = 424.5<sub>6</sub>",
+        "C": "x6<sub>6</sub> = 122.43<sub>6</sub>",
+        "D": "x<sub>6</sub> = 124.456<sub>6</sub>"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2015,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "SOLUTION: <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mtable columnalign=\"center center\" rowspacing=\"4pt\" columnspacing=\"1em\" rowlines=\"solid none\" columnlines=\"solid\">\n    <mtr>\n      <mtd>\n        <mn>6</mn>\n      </mtd>\n      <mtd>\n        <mn>159</mn>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd>\n        <mn>6</mn>\n      </mtd>\n      <mtd>\n        <mn>26</mn>\n        <mtext>&#xA0;rem 3</mtext>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd>\n        <mn>6</mn>\n      </mtd>\n      <mtd>\n        <mn>4</mn>\n        <mtext>&#xA0;rem 2</mtext>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd />\n      <mtd>\n        <mn>0</mn>\n        <mtext>&#xA0;rem 4</mtext>\n      </mtd>\n    </mtr>\n  </mtable>\n  <mo stretchy=\"false\">&#x2191;<!-- ↑ --></mo>\n</math>",
+      "imageUrl": null,
+      "questionNumber": 33,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "number-theory",
+        "subtopic": "number-bases",
+        "difficultyScore": 3,
+        "estimatedTime": 120,
+        "tags": [
+          "mathematics",
+          "number-theory",
+          "number-bases",
+          "shares-vat"
+        ],
+        "learningObjectives": [
+          "Solve problems involving shares and value added tax."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-NUMBER-THEORY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "eef3a229-72be-409c-8a23-a649602eff44",
+      "text": "A man bought a car for N800 and sold it for N520. Find his loss per cent",
+      "options": {
+        "A": "15%",
+        "B": "25%",
+        "C": "35%",
+        "D": "10%"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2015,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 34,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "number-theory",
+        "subtopic": "profit-loss",
+        "difficultyScore": 2,
+        "estimatedTime": 60,
+        "tags": [
+          "mathematics",
+          "number-theory",
+          "profit-loss",
+          "shares-vat"
+        ],
+        "learningObjectives": [
+          "Solve problems involving shares and value added tax."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-NUMBER-THEORY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "3e31ebeb-99a4-440a-ae71-4c3177dd3da4",
+      "text": "Simplify 6(1/12) − 2¾ + 1½",
+      "options": {
+        "A": "3(5/6)",
+        "B": "4(5/6)",
+        "C": "2(1/6)",
+        "D": "1/3"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2015,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 35,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "number-theory",
+        "subtopic": "fractions-decimals",
+        "difficultyScore": 3,
+        "estimatedTime": 120,
+        "tags": [
+          "mathematics",
+          "number-theory",
+          "fractions-decimals",
+          "shares-vat"
+        ],
+        "learningObjectives": [
+          "Solve problems involving shares and value added tax."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-NUMBER-THEORY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "5f1cddcf-e99c-4778-9af3-d4627db6ea0d",
+      "text": "Find the distance between the points (-2,-3) and (-2,4)",
+      "options": {
+        "A": "3m",
+        "B": "2.4m",
+        "C": "3.2m",
+        "D": "7.0m"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2015,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 36,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "geometry",
+        "subtopic": "coordinate-geometry",
+        "difficultyScore": 2,
+        "estimatedTime": 60,
+        "tags": [
+          "mathematics",
+          "geometry",
+          "coordinate-geometry"
+        ],
+        "learningObjectives": [
+          "Find the equation of a straight line using two-point, point-slope, slope-intercept and general forms."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-GEOMETRY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "21c88f03-1618-4d95-ac25-4e97ebb8ee2b",
+      "text": "Determine the third term of a geometrical progression whose first and second term are 2 and 54 respectively",
+      "options": {
+        "A": "1458",
+        "B": "1485",
+        "C": "1345",
+        "D": "1258"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2015,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 37,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "algebra",
+        "subtopic": "sequences-series",
+        "difficultyScore": 2,
+        "estimatedTime": 60,
+        "tags": [
+          "mathematics",
+          "algebra",
+          "sequences-series",
+          "determinants"
+        ],
+        "learningObjectives": [
+          "Compute the inverse of a 2 x 2 matrix."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-ALGEBRA",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "4f956913-2d0e-45dd-bf14-22824a87fe61",
+      "text": "Given that S and T are sets of real numbers such that S = {x : 0 ≤\n x ≤ 5} and T = {x : − 2 < x < 3} Find S ∪ T",
+      "options": {
+        "A": "−3 < x < ≤3",
+        "B": "−2< x < ≤5",
+        "C": "2< x < ≥ −5",
+        "D": "−1< x ≥ ≤2"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2015,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 38,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "algebra",
+        "subtopic": "sets",
+        "difficultyScore": 2,
+        "estimatedTime": 60,
+        "tags": [
+          "mathematics",
+          "algebra",
+          "sets",
+          "determinants"
+        ],
+        "learningObjectives": [
+          "Compute the inverse of a 2 x 2 matrix."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-ALGEBRA",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "c8802d85-5433-4761-a3c4-42dbb65f5616",
+      "text": "If an investor invest N450,000 in a certain organization in order to yield X as a return of N25,000. Find the return on an investment of N700,000 by Y in the same organization.",
+      "options": {
+        "A": "N14,950.50K",
+        "B": "N25,150.30K",
+        "C": "N15,000.00K",
+        "D": "N38,888.90K"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2015,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 39,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "number-theory",
+        "subtopic": "simple-interest",
+        "difficultyScore": 3,
+        "estimatedTime": 120,
+        "tags": [
+          "mathematics",
+          "number-theory",
+          "simple-interest",
+          "shares-vat"
+        ],
+        "learningObjectives": [
+          "Solve problems involving shares and value added tax."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-NUMBER-THEORY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "552d02a5-5592-45c2-a2c1-891c5be494d5",
+      "text": "Evaluate log<sub>7</sub>17",
+      "options": {
+        "A": "1.35",
+        "B": "1.353",
+        "C": "1.455",
+        "D": "0.455"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2015,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 40,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "algebra",
+        "subtopic": "indices-logarithms",
+        "difficultyScore": 3,
+        "estimatedTime": 120,
+        "tags": [
+          "mathematics",
+          "algebra",
+          "indices-logarithms",
+          "determinants"
+        ],
+        "learningObjectives": [
+          "Compute the inverse of a 2 x 2 matrix."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-ALGEBRA",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "88d28207-425d-4a70-a7f0-e5cf5c2882bd",
+      "text": "10011<sub>2</sub>  + *****2 + 11100<sub>2</sub>  + 101<sub>2</sub>  = 1001111<sub>2</sub>",
+      "options": {
+        "A": "1111<sub>2</sub>",
+        "B": "11011<sub>2</sub>",
+        "C": "10111<sub>2</sub>",
+        "D": "11001<sub>2</sub>"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2015,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "SOLUTION:<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mtable columnalign=\"center center\" rowspacing=\"4pt\" columnspacing=\"1em\" rowlines=\"solid none\" columnlines=\"solid\">\n    <mtr>\n      <mtd>\n        <mn>2</mn>\n      </mtd>\n      <mtd>\n        <mn>27</mn>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd>\n        <mn>2</mn>\n      </mtd>\n      <mtd>\n        <mn>13</mn>\n        <mtext>&#xA0;rem 1</mtext>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd>\n        <mn>2</mn>\n      </mtd>\n      <mtd>\n        <mn>6</mn>\n        <mtext>&#xA0;rem 1</mtext>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd>\n        <mn>2</mn>\n      </mtd>\n      <mtd>\n        <mn>3</mn>\n        <mtext>&#xA0;rem 0</mtext>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd>\n        <mn>2</mn>\n      </mtd>\n      <mtd>\n        <mn>1</mn>\n        <mtext>&#xA0;rem 1</mtext>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd />\n      <mtd>\n        <mn>0</mn>\n        <mtext>&#xA0;rem 1</mtext>\n      </mtd>\n    </mtr>\n  </mtable>\n  <mo stretchy=\"false\">&#x2191;<!-- ↑ --></mo>\n</math>",
+      "imageUrl": null,
+      "questionNumber": 41,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "number-theory",
+        "subtopic": "number-bases",
+        "difficultyScore": 3,
+        "estimatedTime": 120,
+        "tags": [
+          "mathematics",
+          "number-theory",
+          "number-bases",
+          "shares-vat"
+        ],
+        "learningObjectives": [
+          "Solve problems involving shares and value added tax."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-NUMBER-THEORY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "0837d875-26da-4e40-8d60-e8875a88b062",
+      "text": "Evaluate log5(y<sup>2</sup>x<sup>5</sup>÷125b½)",
+      "options": {
+        "A": "2 log<sub>5</sub>y + 5log5 y<sup>2</sup> − 3",
+        "B": "log<sub>5</sub> y<sup>2</sup> + 5log<sub>5</sub> x + 3",
+        "C": "25logy <sub>5</sub> + 3",
+        "D": "2log<sub>5</sub>y + 5log<sub>5</sub>x − ½ log<sub>5</sub>b −3"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2015,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 42,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "algebra",
+        "subtopic": "indices-logarithms",
+        "difficultyScore": 4,
+        "estimatedTime": 300,
+        "tags": [
+          "mathematics",
+          "algebra",
+          "indices-logarithms",
+          "determinants"
+        ],
+        "learningObjectives": [
+          "Compute the inverse of a 2 x 2 matrix."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-ALGEBRA",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "f129d427-da19-4dcc-bbba-1cd195660b78",
+      "text": "Integral ∫(5x<sup>3</sup> + 7x<sup>2</sup> − 2x +5)\ndx",
+      "options": {
+        "A": "5x<sup>4</sup> /4 + 7x<sup>3</sup> /3 + 2x + C",
+        "B": "5x<sup>4</sup> /4 + 7x<sup>3</sup> /3 − x<sup>2</sup>  + 5x + C",
+        "C": "5x<sup>3</sup> /3 + 7x<sup>2</sup> /x − x + C",
+        "D": "2x<sup>2</sup> /3 + x/5  − C"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2015,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 43,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "calculus",
+        "subtopic": "integration",
+        "difficultyScore": 4,
+        "estimatedTime": 180,
+        "tags": [
+          "mathematics",
+          "calculus",
+          "integration"
+        ],
+        "learningObjectives": [
+          "Calculate the area under a curve for simple cases."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-CALCULUS",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "db38b025-da94-4b76-825a-f5ea730b713c",
+      "text": "Find the area of the curved surface of a cone whose base radius is 3cm and whose height is 4cm (π = 3.14)",
+      "options": {
+        "A": "17.1 cm<sup>2</sup>",
+        "B": "27.2 cm<sup>2</sup>",
+        "C": "47.1 cm<sup>2</sup>",
+        "D": "37.3 cm<sup>2</sup>"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2015,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 44,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "geometry",
+        "subtopic": "mensuration",
+        "difficultyScore": 3,
+        "estimatedTime": 120,
+        "tags": [
+          "mathematics",
+          "geometry",
+          "mensuration",
+          "coordinate-geometry"
+        ],
+        "learningObjectives": [
+          "Find the equation of a straight line using two-point, point-slope, slope-intercept and general forms."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-GEOMETRY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "f96f9f6d-bfd9-4784-9a58-3ec0e2737031",
+      "text": "Simplify 1/(x+1) + 1/(x−1)",
+      "options": {
+        "A": "2x/(x + 1)(x−3)",
+        "B": "2x/(x + 1)(x−1)",
+        "C": "2x/(x + 1)2",
+        "D": "2x(x+1)2"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2015,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mn>1</mn>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <mi>x</mi>\n      <mo>+</mo>\n      <mn>1</mn>\n      <mo stretchy=\"false\">)</mo>\n    </mrow>\n  </mfrac>\n  <mo>+</mo>\n  <mfrac>\n    <mn>1</mn>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <mi>x</mi>\n      <mo>&#x2212;</mo>\n      <mn>1</mn>\n      <mo stretchy=\"false\">)</mo>\n    </mrow>\n  </mfrac>\n</math>",
+      "imageUrl": null,
+      "questionNumber": 45,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "algebra",
+        "subtopic": "fractions-decimals",
+        "difficultyScore": 2,
+        "estimatedTime": 60,
+        "tags": [
+          "mathematics",
+          "algebra",
+          "fractions-decimals",
+          "determinants"
+        ],
+        "learningObjectives": [
+          "Compute the inverse of a 2 x 2 matrix."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-ALGEBRA",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "e75aafcb-ee9d-4057-99a2-553550cfacdc",
+      "text": "The area of a circle of radius 4cm is equal to (Take π = 3.142 )",
+      "options": {
+        "A": "10.3 cm<sup>2</sup>",
+        "B": "15.7 cm<sup>2</sup>",
+        "C": "50.3 cm<sup>2</sup>",
+        "D": "17.4 cm<sup>2</sup>"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2015,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 46,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "geometry",
+        "subtopic": "mensuration",
+        "difficultyScore": 2,
+        "estimatedTime": 60,
+        "tags": [
+          "mathematics",
+          "geometry",
+          "mensuration",
+          "coordinate-geometry"
+        ],
+        "learningObjectives": [
+          "Find the equation of a straight line using two-point, point-slope, slope-intercept and general forms."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-GEOMETRY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "6df044b6-d4fb-4238-8a71-cd01ecaff5c6",
+      "text": "The area of an ellipse is 132cm2.The length of its major axis is 14cm.Find the length of it minor axis",
+      "options": {
+        "A": "10.5cm",
+        "B": "5cm",
+        "C": "10cm",
+        "D": "3cm"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2015,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 47,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "geometry",
+        "subtopic": "mensuration",
+        "difficultyScore": 3,
+        "estimatedTime": 120,
+        "tags": [
+          "mathematics",
+          "geometry",
+          "mensuration",
+          "coordinate-geometry"
+        ],
+        "learningObjectives": [
+          "Find the equation of a straight line using two-point, point-slope, slope-intercept and general forms."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-GEOMETRY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "b43fa38e-cff6-471d-b033-c718e305990c",
+      "text": "The volume of a cone (s) of height 6cm and base radius 5cm is",
+      "options": {
+        "A": "157 cm<sup>3</sup>",
+        "B": "155 cm<sup>3</sup>",
+        "C": "175 cm<sup>3</sup>",
+        "D": "145 cm<sup>3</sup>"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2015,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 48,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "geometry",
+        "subtopic": "mensuration",
+        "difficultyScore": 2,
+        "estimatedTime": 60,
+        "tags": [
+          "mathematics",
+          "geometry",
+          "mensuration",
+          "coordinate-geometry"
+        ],
+        "learningObjectives": [
+          "Find the equation of a straight line using two-point, point-slope, slope-intercept and general forms."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-GEOMETRY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "63343df9-1e1b-4b42-ba48-fdbb5b12dfe1",
+      "text": "The probability of an outcome A is 1/6 . The probability of the B outcome is 1/4 . If the probability of A or B or both is 1/12 . What is the probability of both outcomes A and B?",
+      "options": {
+        "A": "1/2",
+        "B": "1/3",
+        "C": "2/5",
+        "D": "3/4"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2015,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 49,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "statistics",
+        "subtopic": "probability",
+        "difficultyScore": 4,
+        "estimatedTime": 120,
+        "tags": [
+          "mathematics",
+          "statistics",
+          "probability"
+        ],
+        "learningObjectives": [
+          "Resolve simple probability problems, including addition and multiplication rules for mutual and independent events."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-STATISTICS",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "5b2dfa36-1030-4d71-8dda-2be7177df203",
+      "text": "Given that Z = {1,2,4,5} what is the power of set Z?",
+      "options": {
+        "A": "16",
+        "B": "8",
+        "C": "10",
+        "D": "12"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2015,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 50,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "algebra",
+        "subtopic": "sets",
+        "difficultyScore": 1,
+        "estimatedTime": 20,
+        "tags": [
+          "mathematics",
+          "algebra",
+          "sets",
+          "determinants"
+        ],
+        "learningObjectives": [
+          "Compute the inverse of a 2 x 2 matrix."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-ALGEBRA",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    }
+  ]
+}

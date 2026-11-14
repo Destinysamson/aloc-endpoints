@@ -1,0 +1,3006 @@
+{
+  "exam": "JAMB",
+  "subject": "english-language",
+  "year": 2022,
+  "source": "ALOC",
+  "contentSource": "historical",
+  "questionCount": 58,
+  "questions": [
+    {
+      "id": "8100aba5-a063-4d5d-bd14-15beea93216e",
+      "text": "What did the author of the book study?",
+      "options": {
+        "A": "B.Sc (Ed) Mathematics",
+        "B": "B.A English Language",
+        "C": "B.A Literary Studies",
+        "D": "BSc Political Science"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2022,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "This question is based on Khadijat Abubakar Jalli's novel, \"The Life Changer\"",
+      "imageUrl": null,
+      "questionNumber": 1,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "prose",
+        "subtopic": null,
+        "difficultyScore": 2,
+        "estimatedTime": 20,
+        "tags": [],
+        "learningObjectives": [],
+        "curriculumAlignment": null,
+        "classificationConfidence": 0.8,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "ac3ca1dd-3711-4043-ae46-2cc7440dd69b",
+      "text": "The book described Talle as a?",
+      "options": {
+        "A": "The precious child",
+        "B": "The quiet one",
+        "C": "The friendly child",
+        "D": "the holy child"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2022,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "This question is based on Khadijat Abubakar Jalli's novel, \"The Life Changer\"",
+      "imageUrl": null,
+      "questionNumber": 2,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "prose",
+        "subtopic": null,
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [],
+        "learningObjectives": [],
+        "curriculumAlignment": null,
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "c7986a8b-bf5c-4cb4-a660-9e0af533617a",
+      "text": "Who was Omar's immediate sister?",
+      "options": {
+        "A": "Ummi",
+        "B": "Omar",
+        "C": "Salma",
+        "D": "Teemah"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2022,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "This question is based on Khadijat Abubakar Jalli's novel, \"The Life Changer\"",
+      "imageUrl": null,
+      "questionNumber": 3,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "prose",
+        "subtopic": null,
+        "difficultyScore": 1,
+        "estimatedTime": 10,
+        "tags": [],
+        "learningObjectives": [],
+        "curriculumAlignment": null,
+        "classificationConfidence": 0.7,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "521de52d-5027-428e-b228-43205bc0c863",
+      "text": "Ummi's husband wanted to study law but the providence chose that he study _____",
+      "options": {
+        "A": "commerce",
+        "B": "accounting",
+        "C": "law",
+        "D": "history"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2022,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "This question is based on Khadijat Abubakar Jalli's novel, \"The Life Changer\"",
+      "imageUrl": null,
+      "questionNumber": 4,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "grammar",
+        "subtopic": "sentence-structure",
+        "difficultyScore": 1,
+        "estimatedTime": 20,
+        "tags": [
+          "english-language",
+          "grammar",
+          "sentence-structure",
+          "word-classes-and-functions"
+        ],
+        "learningObjectives": [
+          "identify various grammatical patterns in use"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-GRAMMAR",
+        "classificationConfidence": 0.8,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "3334e14a-6e71-42fe-892f-05b438d511f6",
+      "text": "The full meaning of IPO is ______",
+      "options": {
+        "A": "Independent Police Officer",
+        "B": "International Police Officer",
+        "C": "Investigating Police Officer",
+        "D": "Investigative Police Officer"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2022,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "This question is based on Khadijat Abubakar Jalli's novel, \"The Life Changer\"",
+      "imageUrl": null,
+      "questionNumber": 5,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 1,
+        "estimatedTime": 10,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "60088c47-94a4-46f9-9301-fe003ff87683",
+      "text": "What is Ummi's Occupation?",
+      "options": {
+        "A": "Trader",
+        "B": "Teacher",
+        "C": "Business woman",
+        "D": "Nurse"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2022,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "This question is based on Khadijat Abubakar Jalli's novel, \"The Life Changer\"",
+      "imageUrl": null,
+      "questionNumber": 6,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "comprehension",
+        "subtopic": "reading-comprehension",
+        "difficultyScore": 1,
+        "estimatedTime": 10,
+        "tags": [
+          "english-language",
+          "comprehension",
+          "reading-comprehension",
+          "writers-intention-mood-attitude-opinion"
+        ],
+        "learningObjectives": [
+          "deduce or infer the writers’ intentions including mood, attitude to the subject matter and opinion"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-COMPREHENSION",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "fb9f0d50-8b0a-4e5d-82ba-56e62c1baa0a",
+      "text": "What is Ummi Matric Number?",
+      "options": {
+        "A": "UG0001",
+        "B": "UG00001",
+        "C": "UG001",
+        "D": "UG0011"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2022,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "This question is based on Khadijat Abubakar Jalli's novel, \"The Life Changer\"",
+      "imageUrl": null,
+      "questionNumber": 7,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "grammar",
+        "subtopic": "sentence-structure",
+        "difficultyScore": 1,
+        "estimatedTime": 10,
+        "tags": [
+          "english-language",
+          "grammar",
+          "sentence-structure",
+          "word-classes-and-functions"
+        ],
+        "learningObjectives": [
+          "identify various grammatical patterns in use"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-GRAMMAR",
+        "classificationConfidence": 0.6,
+        "needsReview": true
+      }
+    },
+    {
+      "id": "202c7fac-51ca-4c43-b96d-120089807da9",
+      "text": "What is full meaning of EMEC",
+      "options": {
+        "A": "Examination Malpractice and Ethics Committee",
+        "B": "Examining Malpractice and Ethics Committee",
+        "C": "Examination Malpractice and Ethics Convention",
+        "D": "Examination Management and Ethics Committee"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2022,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "This question is based on Khadijat Abubakar Jalli's novel, \"The Life Changer\"",
+      "imageUrl": null,
+      "questionNumber": 8,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 1,
+        "estimatedTime": 20,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "9735cf75-0091-4bca-bd41-01b8934efdd7",
+      "text": "What is the full name of Salma?",
+      "options": {
+        "A": "Salma Mohammed",
+        "B": "Salma Johnson",
+        "C": "Salma Samuel",
+        "D": "Salma Ahmed"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2022,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "This question is based on Khadijat Abubakar Jalli's novel, \"The Life Changer\"",
+      "imageUrl": null,
+      "questionNumber": 9,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "comprehension",
+        "subtopic": "implied-meaning",
+        "difficultyScore": 1,
+        "estimatedTime": 10,
+        "tags": [
+          "english-language",
+          "comprehension",
+          "implied-meaning",
+          "writers-intention-mood-attitude-opinion"
+        ],
+        "learningObjectives": [
+          "deduce or infer the writers’ intentions including mood, attitude to the subject matter and opinion"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-COMPREHENSION",
+        "classificationConfidence": 0.7,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "4a4b05ca-aba9-48cd-bbd4-e913ab4dc55c",
+      "text": "Who was the narrator of the life changer?",
+      "options": {
+        "A": "Salma",
+        "B": "Ummi",
+        "C": "Omar",
+        "D": "Bint"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2022,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "This question is based on Khadijat Abubakar Jalli's novel, \"The Life Changer\"",
+      "imageUrl": null,
+      "questionNumber": 10,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "prose",
+        "subtopic": null,
+        "difficultyScore": 1,
+        "estimatedTime": 10,
+        "tags": [],
+        "learningObjectives": [],
+        "curriculumAlignment": null,
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "9701adde-ba93-4561-91b8-e20f5c348b55",
+      "text": "How old is Bint ?",
+      "options": {
+        "A": "6 years old",
+        "B": "4 years old",
+        "C": "5 years old",
+        "D": "7 years old"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2022,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "This question is based on Khadijat Abubakar Jalli's novel, \"The Life Changer\"",
+      "imageUrl": null,
+      "questionNumber": 11,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "comprehension",
+        "subtopic": "implied-meaning",
+        "difficultyScore": 1,
+        "estimatedTime": 10,
+        "tags": [
+          "english-language",
+          "comprehension",
+          "implied-meaning",
+          "writers-intention-mood-attitude-opinion"
+        ],
+        "learningObjectives": [
+          "deduce or infer the writers’ intentions including mood, attitude to the subject matter and opinion"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-COMPREHENSION",
+        "classificationConfidence": 0.7,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "f568c766-ae82-4f15-8a85-e253547ce85d",
+      "text": "What question did Bint ask her teacher?",
+      "options": {
+        "A": "How to say good morning",
+        "B": "How to say what is your name",
+        "C": "How to say you're welcome",
+        "D": "How to say that's very good"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2022,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "This question is based on Khadijat Abubakar Jalli's novel, \"The Life Changer\"",
+      "imageUrl": null,
+      "questionNumber": 12,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "oral-english",
+        "subtopic": "vowel-sounds",
+        "difficultyScore": 1,
+        "estimatedTime": 20,
+        "tags": [
+          "english-language",
+          "oral-english",
+          "vowel-sounds",
+          "connected-speech"
+        ],
+        "learningObjectives": [
+          "identify correct pronunciation of individual words and articulation of connected speech"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-ORAL-ENGLISH",
+        "classificationConfidence": 0.6,
+        "needsReview": true
+      }
+    },
+    {
+      "id": "071203b3-8783-4ac7-ad40-e7b2556dc863",
+      "text": "Who were the people in the car?",
+      "options": {
+        "A": "Lawal and Labaran",
+        "B": "Habib and Labaran",
+        "C": "Lawal and Kabir",
+        "D": "Labara and Zarki"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2022,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "This question is based on Khadijat Abubakar Jalli's novel, \"The Life Changer\"",
+      "imageUrl": null,
+      "questionNumber": 13,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "comprehension",
+        "subtopic": "reading-comprehension",
+        "difficultyScore": 1,
+        "estimatedTime": 10,
+        "tags": [
+          "english-language",
+          "comprehension",
+          "reading-comprehension",
+          "writers-intention-mood-attitude-opinion"
+        ],
+        "learningObjectives": [
+          "deduce or infer the writers’ intentions including mood, attitude to the subject matter and opinion"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-COMPREHENSION",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "6b1e56c1-e51d-41a4-80b6-3b13e370edbd",
+      "text": "How much did Habib give Tomiwa personally?",
+      "options": {
+        "A": "Ten thousand naira",
+        "B": "Five Thousand Naira",
+        "C": "Thirty thousand naira",
+        "D": "Twenty Thousand naira"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2022,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "This question is based on Khadijat Abubakar Jalli's novel, \"The Life Changer\"",
+      "imageUrl": null,
+      "questionNumber": 14,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "comprehension",
+        "subtopic": "implied-meaning",
+        "difficultyScore": 1,
+        "estimatedTime": 10,
+        "tags": [
+          "english-language",
+          "comprehension",
+          "implied-meaning",
+          "writers-intention-mood-attitude-opinion"
+        ],
+        "learningObjectives": [
+          "deduce or infer the writers’ intentions including mood, attitude to the subject matter and opinion"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-COMPREHENSION",
+        "classificationConfidence": 0.8,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "2295970e-032b-4e6f-9ca1-1dbe4facf6e4",
+      "text": "How much did Tomiwa give her roommates?",
+      "options": {
+        "A": "Five thousand naira",
+        "B": "Ten thousand Naira",
+        "C": "Fifteen thousand Naira",
+        "D": "Twenty thousand naira"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2022,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "This question is based on Khadijat Abubakar Jalli's novel, \"The Life Changer\"",
+      "imageUrl": null,
+      "questionNumber": 15,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "comprehension",
+        "subtopic": "main-points-topic-sentences",
+        "difficultyScore": 1,
+        "estimatedTime": 10,
+        "tags": [
+          "english-language",
+          "comprehension",
+          "main-points-topic-sentences",
+          "writers-intention-mood-attitude-opinion"
+        ],
+        "learningObjectives": [
+          "deduce or infer the writers’ intentions including mood, attitude to the subject matter and opinion"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-COMPREHENSION",
+        "classificationConfidence": 0.8,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "00b16450-ab57-4037-90ca-e23c0e7e4731",
+      "text": "What was Omar's JAMB exam score?",
+      "options": {
+        "A": "230",
+        "B": "250",
+        "C": "220",
+        "D": "260"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2022,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "This question is based on Khadijat Abubakar Jalli's novel, \"The Life Changer\"",
+      "imageUrl": null,
+      "questionNumber": 16,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "comprehension",
+        "subtopic": null,
+        "difficultyScore": 1,
+        "estimatedTime": 10,
+        "tags": [
+          "english-language",
+          "comprehension",
+          "writers-intention-mood-attitude-opinion"
+        ],
+        "learningObjectives": [
+          "deduce or infer the writers’ intentions including mood, attitude to the subject matter and opinion"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-COMPREHENSION",
+        "classificationConfidence": 0.2,
+        "needsReview": true
+      }
+    },
+    {
+      "id": "4320de91-db0f-41e3-b084-e8e8276c30cd",
+      "text": "What is the full meaning of the acronym EMAL",
+      "options": {
+        "A": "Examination Malpractice",
+        "B": "Examination misconduct",
+        "C": "Examination management",
+        "D": "Examination Manners"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2022,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "This question is based on Khadijat Abubakar Jalli's novel, \"The Life Changer\"",
+      "imageUrl": null,
+      "questionNumber": 17,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 1,
+        "estimatedTime": 20,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.8,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "4e275bf8-194b-4eed-8de7-0e09a17cf389",
+      "text": "Who introduced the snail delicacy?",
+      "options": {
+        "A": "Salma",
+        "B": "Ngozi",
+        "C": "Ada",
+        "D": "Tomiwa"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2022,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "This question is based on Khadijat Abubakar Jalli's novel, \"The Life Changer\"",
+      "imageUrl": null,
+      "questionNumber": 18,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "comprehension",
+        "subtopic": "implied-meaning",
+        "difficultyScore": 1,
+        "estimatedTime": 10,
+        "tags": [
+          "english-language",
+          "comprehension",
+          "implied-meaning",
+          "writers-intention-mood-attitude-opinion"
+        ],
+        "learningObjectives": [
+          "deduce or infer the writers’ intentions including mood, attitude to the subject matter and opinion"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-COMPREHENSION",
+        "classificationConfidence": 0.8,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "4290dde8-1353-4805-b962-a86bc6c6a240",
+      "text": "\"Nothing happened, My friend didn't feel like giving you her number so she gave you mine instead\" Who is the friend?",
+      "options": {
+        "A": "Salma",
+        "B": "Ada",
+        "C": "Tomiwa",
+        "D": "Ngozi"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2022,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "This question is based on Khadijat Abubakar Jalli's novel, \"The Life Changer\"",
+      "imageUrl": null,
+      "questionNumber": 19,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "comprehension",
+        "subtopic": "implied-meaning",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "comprehension",
+          "implied-meaning",
+          "writers-intention-mood-attitude-opinion"
+        ],
+        "learningObjectives": [
+          "deduce or infer the writers’ intentions including mood, attitude to the subject matter and opinion"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-COMPREHENSION",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "4c8e2458-321a-4e93-8cb1-c95e5f0544de",
+      "text": "It might be said that there is some kind of sibling rivalry between",
+      "options": {
+        "A": "Teemah and Bint",
+        "B": "Teemah and Omar",
+        "C": "Jamila and Omar",
+        "D": "Jamila and Teemah"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2022,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "This question is based on Khadijat Abubakar Jalli's novel, \"The Life Changer\"",
+      "imageUrl": null,
+      "questionNumber": 20,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "prose",
+        "subtopic": null,
+        "difficultyScore": 3,
+        "estimatedTime": 60,
+        "tags": [],
+        "learningObjectives": [],
+        "curriculumAlignment": null,
+        "classificationConfidence": 0.8,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "aab2ecb0-3e70-4b98-8fbf-2a609de4b12e",
+      "text": "One reason the narrator had the habit of entering her children's room unannounced was because",
+      "options": {
+        "A": "to monitor their hygiene and tidiness",
+        "B": "to monitor their prayer life",
+        "C": "to check on their welfare",
+        "D": "to keep them studying their books"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2022,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "This question is based on Khadijat Abubakar Jalli's novel, \"The Life Changer\"",
+      "imageUrl": null,
+      "questionNumber": 21,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "comprehension",
+        "subtopic": "implied-meaning",
+        "difficultyScore": 3,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "comprehension",
+          "implied-meaning",
+          "writers-intention-mood-attitude-opinion"
+        ],
+        "learningObjectives": [
+          "deduce or infer the writers’ intentions including mood, attitude to the subject matter and opinion"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-COMPREHENSION",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "d219aa62-c855-4c66-b829-a0476fb6c131",
+      "text": "According to the story, one of the following is true",
+      "options": {
+        "A": "Tomiwa and Ngozi are neighbours",
+        "B": "Ada and Salma are course mates",
+        "C": "Salma and Tomiwa are rivals",
+        "D": "Salma and Tomiwa are roommates"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2022,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "This question is based on Khadijat Abubakar Jalli's novel, \"The Life Changer\"",
+      "imageUrl": null,
+      "questionNumber": 22,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "comprehension",
+        "subtopic": "reading-comprehension",
+        "difficultyScore": 3,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "comprehension",
+          "reading-comprehension",
+          "writers-intention-mood-attitude-opinion"
+        ],
+        "learningObjectives": [
+          "deduce or infer the writers’ intentions including mood, attitude to the subject matter and opinion"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-COMPREHENSION",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "e70ba750-377a-45bf-ba15-72e5080c84fa",
+      "text": "Early in which month did the southwest moonsoon break?",
+      "options": {
+        "A": "August",
+        "B": "May",
+        "C": "July",
+        "D": "June"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2022,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "May in Ayemenem is a hot, brooding month. The days are long and humid. The river shrinks and black crows gorge on bright mangoes in still, dust green trees. Red bananas ripen. Jackfruits burst. Dissolute blue bottles hum vacuously in the fruity air. Then they stun themselves against clear windowpanes and die, fatly baffled in the sun. The nights are clear but suffused with sloth and sullen expectations. <br><br>\nBut by early June the southwest monsoon breaks and there are three months of wind and water with short spells of sharp, glittering sunshine that thrilled children snatch to play with. The countryside turns an immodest green. Boundaries blur as tapioca fences take root and bloom. Brick walls turn mossgreen. Pepper vines snake up electric poles. Wild creepers burst through laterite banks and spilt across the flooded roads. Boats ply in the bazaars. And small fish appear in the puddles that fill the PWD potholes on the highways. It was raining when Rahel came\u000bback to Ayemenem. <br><br>\nSlanting silver ropes slammed into loose earth, ploughing it up like gunfire. The old house on the hill wore its steep, gabled roof pulled over its ears like a low hat. The walls, streaked with moss, had grown soft and bulged a little with dampness that seeped up from the ground. The wild, overgrown garden was full of the whisper and scurry of small lives.In the undergrowth, a rat snake rubbed itself against a glistening stone. Hopeful yellow bullfrogs cruised the scummy pond for mates. A drenched mongoose flashed across the leaf-strewn driveway. The house itself looked empty. The doors and windows were locked. The front verandah bare. Unfurnished. <br><br>\nBut the sky blue Plymouth with chrome tail fins was still parked outside, and inside, Baby Kochamma was still alive. She was Rahel's baby grand aunt, her grandfather's younger sister. Her name was really Navomi, Navomi Ipe, but everybody called her Baby. She became Baby Kochamma when she was old enough to be an aunt. Rahel hadn't come to see her, though.<br><br>\nNeither niece nor baby grandaunt laboured under any illusions on that account. Rahel had come to see her brother, Estha. They were two-egg twins. \"Dizygotic' doctors called them. Born from separate but simultaneously fertilized eggs. Estha Esthappen-was the older by 18 minutes. \nPassage A, 23- 26",
+      "imageUrl": null,
+      "questionNumber": 23,
+      "country": "NG",
+      "category": "passage-a",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": true,
+      "metadata": {
+        "topic": "physical-geography",
+        "subtopic": null,
+        "difficultyScore": 1,
+        "estimatedTime": 20,
+        "tags": [],
+        "learningObjectives": [],
+        "curriculumAlignment": null,
+        "classificationConfidence": 0.2,
+        "needsReview": true
+      }
+    },
+    {
+      "id": "a5792112-7d2e-4be0-a88c-653470b4c8c2",
+      "text": "What rubbed itself against a glistening stone?",
+      "options": {
+        "A": "plymouth",
+        "B": "wild creepers",
+        "C": "bull frogs",
+        "D": "rat snakes"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2022,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "May in Ayemenem is a hot, brooding month. The days are long and humid. The river shrinks and black crows gorge on bright mangoes in still, dust green trees. Red bananas ripen. Jackfruits burst. Dissolute blue bottles hum vacuously in the fruity air. Then they stun themselves against clear windowpanes and die, fatly baffled in the sun. The nights are clear but suffused with sloth and sullen expectations. <br><br>\nBut by early June the southwest monsoon breaks and there are three months of wind and water with short spells of sharp, glittering sunshine that thrilled children snatch to play with. The countryside turns an immodest green. Boundaries blur as tapioca fences take root and bloom. Brick walls turn mossgreen. Pepper vines snake up electric poles. Wild creepers burst through laterite banks and spilt across the flooded roads. Boats ply in the bazaars. And small fish appear in the puddles that fill the PWD potholes on the highways. It was raining when Rahel came\u000bback to Ayemenem. <br><br>\nSlanting silver ropes slammed into loose earth, ploughing it up like gunfire. The old house on the hill wore its steep, gabled roof pulled over its ears like a low hat. The walls, streaked with moss, had grown soft and bulged a little with dampness that seeped up from the ground. The wild, overgrown garden was full of the whisper and scurry of small lives.In the undergrowth, a rat snake rubbed itself against a glistening stone. Hopeful yellow bullfrogs cruised the scummy pond for mates. A drenched mongoose flashed across the leaf-strewn driveway. The house itself looked empty. The doors and windows were locked. The front verandah bare. Unfurnished. <br><br>\nBut the sky blue Plymouth with chrome tail fins was still parked outside, and inside, Baby Kochamma was still alive. She was Rahel's baby grand aunt, her grandfather's younger sister. Her name was really Navomi, Navomi Ipe, but everybody called her Baby. She became Baby Kochamma when she was old enough to be an aunt. Rahel hadn't come to see her, though.<br><br>\nNeither niece nor baby grandaunt laboured under any illusions on that account. Rahel had come to see her brother, Estha. They were two-egg twins. \"Dizygotic' doctors called them. Born from separate but simultaneously fertilized eggs. Estha Esthappen-was the older by 18 minutes. \nPassage A, 23- 27",
+      "imageUrl": null,
+      "questionNumber": 24,
+      "country": "NG",
+      "category": "passage-a",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": true,
+      "metadata": {
+        "topic": "poetry",
+        "subtopic": null,
+        "difficultyScore": 4,
+        "estimatedTime": 60,
+        "tags": [],
+        "learningObjectives": [],
+        "curriculumAlignment": null,
+        "classificationConfidence": 0.8,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "d2dbb1cb-5d12-4eaf-a8f4-1cfc4e572c23",
+      "text": "Rachel had come to see_______.",
+      "options": {
+        "A": "Estha",
+        "B": "Kochamma",
+        "C": "Navomi Ipe",
+        "D": "no one"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2022,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "May in Ayemenem is a hot, brooding month. The days are long and humid. The river shrinks and black crows gorge on bright mangoes in still, dust green trees. Red bananas ripen. Jackfruits burst. Dissolute blue bottles hum vacuously in the fruity air. Then they stun themselves against clear windowpanes and die, fatly baffled in the sun. The nights are clear but suffused with sloth and sullen expectations. <br><br>\nBut by early June the southwest monsoon breaks and there are three months of wind and water with short spells of sharp, glittering sunshine that thrilled children snatch to play with. The countryside turns an immodest green. Boundaries blur as tapioca fences take root and bloom. Brick walls turn mossgreen. Pepper vines snake up electric poles. Wild creepers burst through laterite banks and spilt across the flooded roads. Boats ply in the bazaars. And small fish appear in the puddles that fill the PWD potholes on the highways. It was raining when Rahel came\u000bback to Ayemenem. <br><br>\nSlanting silver ropes slammed into loose earth, ploughing it up like gunfire. The old house on the hill wore its steep, gabled roof pulled over its ears like a low hat. The walls, streaked with moss, had grown soft and bulged a little with dampness that seeped up from the ground. The wild, overgrown garden was full of the whisper and scurry of small lives.In the undergrowth, a rat snake rubbed itself against a glistening stone. Hopeful yellow bullfrogs cruised the scummy pond for mates. A drenched mongoose flashed across the leaf-strewn driveway. The house itself looked empty. The doors and windows were locked. The front verandah bare. Unfurnished. <br><br>\nBut the sky blue Plymouth with chrome tail fins was still parked outside, and inside, Baby Kochamma was still alive. She was Rahel's baby grand aunt, her grandfather's younger sister. Her name was really Navomi, Navomi Ipe, but everybody called her Baby. She became Baby Kochamma when she was old enough to be an aunt. Rahel hadn't come to see her, though.<br><br>\nNeither niece nor baby grandaunt laboured under any illusions on that account. Rahel had come to see her brother, Estha. They were two-egg twins. \"Dizygotic' doctors called them. Born from separate but simultaneously fertilized eggs. Estha Esthappen-was the older by 18 minutes. \nPassage A, 23- 28",
+      "imageUrl": null,
+      "questionNumber": 25,
+      "country": "NG",
+      "category": "passage-a",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": true,
+      "metadata": {
+        "topic": "prose",
+        "subtopic": null,
+        "difficultyScore": 1,
+        "estimatedTime": 20,
+        "tags": [],
+        "learningObjectives": [],
+        "curriculumAlignment": null,
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "95483f16-7dbe-41e9-94c7-f5e9ae58e898",
+      "text": "What was Baby's real name?",
+      "options": {
+        "A": "Navomi Ipe",
+        "B": "Estha",
+        "C": "Rachel",
+        "D": "Kochamma"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2022,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "May in Ayemenem is a hot, brooding month. The days are long and humid. The river shrinks and black crows gorge on bright mangoes in still, dust green trees. Red bananas ripen. Jackfruits burst. Dissolute blue bottles hum vacuously in the fruity air. Then they stun themselves against clear windowpanes and die, fatly baffled in the sun. The nights are clear but suffused with sloth and sullen expectations. <br><br>\nBut by early June the southwest monsoon breaks and there are three months of wind and water with short spells of sharp, glittering sunshine that thrilled children snatch to play with. The countryside turns an immodest green. Boundaries blur as tapioca fences take root and bloom. Brick walls turn mossgreen. Pepper vines snake up electric poles. Wild creepers burst through laterite banks and spilt across the flooded roads. Boats ply in the bazaars. And small fish appear in the puddles that fill the PWD potholes on the highways. It was raining when Rahel came\u000bback to Ayemenem. <br><br>\nSlanting silver ropes slammed into loose earth, ploughing it up like gunfire. The old house on the hill wore its steep, gabled roof pulled over its ears like a low hat. The walls, streaked with moss, had grown soft and bulged a little with dampness that seeped up from the ground. The wild, overgrown garden was full of the whisper and scurry of small lives.In the undergrowth, a rat snake rubbed itself against a glistening stone. Hopeful yellow bullfrogs cruised the scummy pond for mates. A drenched mongoose flashed across the leaf-strewn driveway. The house itself looked empty. The doors and windows were locked. The front verandah bare. Unfurnished. <br><br>\nBut the sky blue Plymouth with chrome tail fins was still parked outside, and inside, Baby Kochamma was still alive. She was Rahel's baby grand aunt, her grandfather's younger sister. Her name was really Navomi, Navomi Ipe, but everybody called her Baby. She became Baby Kochamma when she was old enough to be an aunt. Rahel hadn't come to see her, though.<br><br>\nNeither niece nor baby grandaunt laboured under any illusions on that account. Rahel had come to see her brother, Estha. They were two-egg twins. \"Dizygotic' doctors called them. Born from separate but simultaneously fertilized eggs. Estha Esthappen-was the older by 18 minutes. \nPassage A, 23- 29",
+      "imageUrl": null,
+      "questionNumber": 26,
+      "country": "NG",
+      "category": "passage-a",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": true,
+      "metadata": {
+        "topic": "prose",
+        "subtopic": null,
+        "difficultyScore": 1,
+        "estimatedTime": 10,
+        "tags": [],
+        "learningObjectives": [],
+        "curriculumAlignment": null,
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "12c1a658-9b04-426e-95b9-0804dfb4968d",
+      "text": "Prison",
+      "options": {
+        "A": "rising",
+        "B": "risen",
+        "C": "potion",
+        "D": "motion"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2022,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "From the words lettered A to D, choose the word that rhymes with the given word.",
+      "imageUrl": null,
+      "questionNumber": 27,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 1,
+        "estimatedTime": 20,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.8,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "07f4d09d-2edc-4189-8bdd-bda66d2b2116",
+      "text": "Crate",
+      "options": {
+        "A": "Great",
+        "B": "Mint",
+        "C": "Creek",
+        "D": "Treat"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2022,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "From the words lettered A to D, choose the word that rhymes with the given word.",
+      "imageUrl": null,
+      "questionNumber": 28,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 1,
+        "estimatedTime": 10,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "c12d0957-fcbe-4f18-a810-ef17736c6f37",
+      "text": "Phone",
+      "options": {
+        "A": "frown",
+        "B": "grown",
+        "C": "gown",
+        "D": "brown"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2022,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "From the words lettered A to D, choose the word that rhymes with the given word.",
+      "imageUrl": null,
+      "questionNumber": 29,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 1,
+        "estimatedTime": 10,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.8,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "bf177947-cfa4-43df-b796-3c8970637304",
+      "text": "Choose the word that has a different stress pattern",
+      "options": {
+        "A": "embrace",
+        "B": "suspect(V)",
+        "C": "member",
+        "D": "project(V)"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2022,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 30,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "oral-english",
+        "subtopic": "stress-intonation",
+        "difficultyScore": 3,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "oral-english",
+          "stress-intonation",
+          "connected-speech"
+        ],
+        "learningObjectives": [
+          "identify correct pronunciation of individual words and articulation of connected speech"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-ORAL-ENGLISH",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "7a82b731-6324-4eb4-9f2e-36d0a1c96fc5",
+      "text": "Choose the option that has the same consonant sound as the one represented by the letter(s) underlined.\n\nWatch<u>ed</u>",
+      "options": {
+        "A": "lived",
+        "B": "address",
+        "C": "letter",
+        "D": "match"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2022,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 31,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "oral-english",
+        "subtopic": "consonant-sounds",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "oral-english",
+          "consonant-sounds",
+          "connected-speech"
+        ],
+        "learningObjectives": [
+          "identify correct pronunciation of individual words and articulation of connected speech"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-ORAL-ENGLISH",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "39872982-4171-443c-9b9b-3b7e633f557c",
+      "text": "John's watch is made of GOLD.",
+      "options": {
+        "A": "Whose watch is made of gold?",
+        "B": "What is made of gold?",
+        "C": "Is John's watch made of silver?",
+        "D": "Is John's necklace made of gold?"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2022,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "In each of the following sentences, the word that receives the emphatic stress is written in capital letters. From the options lettered A to D, choose the appropriate answer.",
+      "imageUrl": null,
+      "questionNumber": 32,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "grammar",
+        "subtopic": "parts-of-speech",
+        "difficultyScore": 2,
+        "estimatedTime": 20,
+        "tags": [
+          "english-language",
+          "grammar",
+          "parts-of-speech",
+          "word-classes-and-functions"
+        ],
+        "learningObjectives": [
+          "identify various grammatical patterns in use"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-GRAMMAR",
+        "classificationConfidence": 0.8,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "92f879fb-a855-4fbe-99c1-409fa7b79ee1",
+      "text": "She WORKS at the hospital.",
+      "options": {
+        "A": "Who works at the hospital?",
+        "B": "Where does she work?",
+        "C": "Does she work at the hospital?",
+        "D": "What does she do at the hospital?"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2022,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "In each of the following sentences, the word that receives the emphatic stress is written in capital letters. From the options lettered A to D, choose the appropriate answer.",
+      "imageUrl": null,
+      "questionNumber": 33,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "oral-english",
+        "subtopic": "stress-intonation",
+        "difficultyScore": 3,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "oral-english",
+          "stress-intonation",
+          "connected-speech"
+        ],
+        "learningObjectives": [
+          "identify correct pronunciation of individual words and articulation of connected speech"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-ORAL-ENGLISH",
+        "classificationConfidence": 0.6,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "6b83823e-461b-43b0-b292-8cfce58ddaff",
+      "text": "Aderonke STATED she had a right to her privacy.",
+      "options": {
+        "A": "Did Aderonke lament she had a right to her privacy?",
+        "B": "Did Omowunmi state she had a right to her privacy?",
+        "C": "Did Aderonke state she had a right to his privacy?",
+        "D": "Did Aderonke state she had a right to her openness?"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2022,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "In each of the following sentences, the word that receives the emphatic stress is written in capital letters. From the options lettered A to D, choose the appropriate answer.",
+      "imageUrl": null,
+      "questionNumber": 34,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "grammar",
+        "subtopic": "question-tags",
+        "difficultyScore": 3,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "grammar",
+          "question-tags",
+          "word-classes-and-functions"
+        ],
+        "learningObjectives": [
+          "identify various grammatical patterns in use"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-GRAMMAR",
+        "classificationConfidence": 0.8,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "b715a56b-1c62-497a-b494-7a0fa054423c",
+      "text": "Choose the option that has the same consonant sound as the one represented by the letter(s) underlined.\n\nNa<u>t</u>ional",
+      "options": {
+        "A": "sugar",
+        "B": "raise",
+        "C": "glass",
+        "D": "tree"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2022,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 35,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "oral-english",
+        "subtopic": "consonant-sounds",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "oral-english",
+          "consonant-sounds",
+          "connected-speech"
+        ],
+        "learningObjectives": [
+          "identify correct pronunciation of individual words and articulation of connected speech"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-ORAL-ENGLISH",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "ae6441fa-fe6b-4740-bdec-a7e8c26ffaf4",
+      "text": "Identify the word that has the stress on the first syllable",
+      "options": {
+        "A": "Hotel",
+        "B": "Esteem",
+        "C": "Police",
+        "D": "Table"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2022,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 36,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "oral-english",
+        "subtopic": "stress-intonation",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "oral-english",
+          "stress-intonation",
+          "connected-speech"
+        ],
+        "learningObjectives": [
+          "identify correct pronunciation of individual words and articulation of connected speech"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-ORAL-ENGLISH",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "a686f548-e491-4d21-a352-0d8de9658416",
+      "text": "From the options lettered A-D, choose the option that is most nearly opposite in meaning to the underlined word.\n\nTwice, he was <u>repulsed</u> with heavy losses",
+      "options": {
+        "A": "repelled",
+        "B": "gratified",
+        "C": "irated",
+        "D": "shocked"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2022,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 37,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "synonyms-antonyms",
+        "difficultyScore": 4,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "synonyms-antonyms",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "78b856b2-bec2-46ee-bf43-969e4eead1e8",
+      "text": "I only visited Chidi. This means that",
+      "options": {
+        "A": "None of the above",
+        "B": "I didn't do anything asides visiting Chidi",
+        "C": "I didn't go with anyone to visit Chidi",
+        "D": "I visited Chidi and his friends"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2022,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 38,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 3,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "3eec0757-e98e-4b01-a13c-d0af80f6ce0b",
+      "text": "My father is <u>parsimonious</u>",
+      "options": {
+        "A": "thrifty",
+        "B": "ungenerous",
+        "C": "frugal",
+        "D": "generous"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2022,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "From the options lettered A-D, choose the option that is most nearly opposite in meaning to the underlined word.",
+      "imageUrl": null,
+      "questionNumber": 39,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "synonyms-antonyms",
+        "difficultyScore": 2,
+        "estimatedTime": 20,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "synonyms-antonyms",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "bbc0ff2b-6377-48b7-989d-ab598a128e8b",
+      "text": "Last Easter was an <u>austere</u> period.",
+      "options": {
+        "A": "harsh",
+        "B": "severe",
+        "C": "prosperous",
+        "D": "sour"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2022,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "From the options lettered A-D, choose the option that is most nearly opposite in meaning to the underlined word.",
+      "imageUrl": null,
+      "questionNumber": 40,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "c091bdc3-9cc9-41c6-8564-7506af55a1d5",
+      "text": "Choose the option that has the same consonant sound as the one represented by the letter(s) underlined.\n\n<u>F</u>oot",
+      "options": {
+        "A": "live",
+        "B": "vegetable",
+        "C": "traffic",
+        "D": "of"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2022,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 42,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "oral-english",
+        "subtopic": "consonant-sounds",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "oral-english",
+          "consonant-sounds",
+          "connected-speech"
+        ],
+        "learningObjectives": [
+          "identify correct pronunciation of individual words and articulation of connected speech"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-ORAL-ENGLISH",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "daf6d39d-f1f1-40d3-8d3b-aa48610f1619",
+      "text": "Choose the option that has a different vowel sound from the others",
+      "options": {
+        "A": "here",
+        "B": "beer",
+        "C": "idea",
+        "D": "head"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2022,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 43,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "oral-english",
+        "subtopic": "vowel-sounds",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "oral-english",
+          "vowel-sounds",
+          "connected-speech"
+        ],
+        "learningObjectives": [
+          "identify correct pronunciation of individual words and articulation of connected speech"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-ORAL-ENGLISH",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "5cf64c13-c5f5-456b-b7c4-6246c0015dea",
+      "text": "When did Christopher Marlowe get his first degree?",
+      "options": {
+        "A": "1587",
+        "B": "1583",
+        "C": "1593",
+        "D": "1564"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2022,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "Read the following passage and answer the questions below: <br><br>\nChristopher Marlowe, the son of Marlowe who is described as the clerk of St Mary's in the city of Canterbury, was born in 1564. He received his early education at The King's School in that city. He took the degrees of B.A. and M.A. in 1583 and 1587 respectively from Cambridge University. He started writing poems and became a renowned dramatist in the Admiral's Company. \n <br><br>\nMarlowe is known as one of the university wits, a group of dramatists along with Robert Greene, Thomas Nash, and George Peele. Marlowe is considered the greatest precursor to Shakespeare. When Marlowe came upon the English stage, the nature of drama was undeveloped. The verses in the dramas were lifeless. But Marlowe gave English drama an appropriate meter, diction, and method. It is really a matter of speculation what kind of greatness he would have achieved if his life had not been terminated (C++) in a duel after a brawl in a tavern (inn).  <br><br>\nThe literary life of Marlowe had a short span, from 1587 to 1593. During this period, he wrote five plays which were all tragedies as he had no comic vein. His tragedies like Dr Faustus, The Jew of Malta, and Edward Il are rated as some of the best works of the Elizabethan age. He also wrote an unfinished poem Hero and Leander and translated some parts of Ovid's (a Roman Poet) elegies.  <br><br>\nMarlowe's subjects are mostly heroic which appeals to the imagination of the play-goers. His heroes epitomize the spirit of the Renaissance. Each of them embodies a passion and tries to achieve lies in his development of the blank verse. He put it at any cost. But Marlowe's chief contribution aside from the old rhyming lines then  <br><br>\nemployed in the plays and used blank verse. Thus, the language of drama was brought closer to real life and drama was made ready for Shakespeare (1564-1616) to improve upon it. It is rightly said, \"No Marlowe, no Shakespeare\". \nPassage B, 45 - 46",
+      "imageUrl": null,
+      "questionNumber": 45,
+      "country": "NG",
+      "category": "passage-b",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": true,
+      "metadata": {
+        "topic": "drama",
+        "subtopic": null,
+        "difficultyScore": 1,
+        "estimatedTime": 20,
+        "tags": [],
+        "learningObjectives": [],
+        "curriculumAlignment": null,
+        "classificationConfidence": 0.7,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "36d3d431-f879-466b-8b08-b56034f9437e",
+      "text": "How long was Christopher Marlowe's literary life?",
+      "options": {
+        "A": "6 years",
+        "B": "60 years",
+        "C": "10 years",
+        "D": "5 years"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2022,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "Read the following passage and answer the questions below: <br><br>\nChristopher Marlowe, the son of Marlowe who is described as the clerk of St Mary's in the city of Canterbury, was born in 1564. He received his early education at The King's School in that city. He took the degrees of B.A. and M.A. in 1583 and 1587 respectively from Cambridge University. He started writing poems and became a renowned dramatist in the Admiral's Company. \n <br><br>\nMarlowe is known as one of the university wits, a group of dramatists along with Robert Greene, Thomas Nash, and George Peele. Marlowe is considered the greatest precursor to Shakespeare. When Marlowe came upon the English stage, the nature of drama was undeveloped. The verses in the dramas were lifeless. But Marlowe gave English drama an appropriate meter, diction, and method. It is really a matter of speculation what kind of greatness he would have achieved if his life had not been terminated (C++) in a duel after a brawl in a tavern (inn).  <br><br>\nThe literary life of Marlowe had a short span, from 1587 to 1593. During this period, he wrote five plays which were all tragedies as he had no comic vein. His tragedies like Dr Faustus, The Jew of Malta, and Edward Il are rated as some of the best works of the Elizabethan age. He also wrote an unfinished poem Hero and Leander and translated some parts of Ovid's (a Roman Poet) elegies.  <br><br>\nMarlowe's subjects are mostly heroic which appeals to the imagination of the play-goers. His heroes epitomize the spirit of the Renaissance. Each of them embodies a passion and tries to achieve lies in his development of the blank verse. He put it at any cost. But Marlowe's chief contribution aside from the old rhyming lines then  <br><br>\nemployed in the plays and used blank verse. Thus, the language of drama was brought closer to real life and drama was made ready for Shakespeare (1564-1616) to improve upon it. It is rightly said, \"No Marlowe, no Shakespeare\". \nPassage B, 45 - 46",
+      "imageUrl": null,
+      "questionNumber": 46,
+      "country": "NG",
+      "category": "passage-b",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": true,
+      "metadata": {
+        "topic": "drama",
+        "subtopic": null,
+        "difficultyScore": 1,
+        "estimatedTime": 20,
+        "tags": [],
+        "learningObjectives": [],
+        "curriculumAlignment": null,
+        "classificationConfidence": 0.7,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "cef43320-4ce7-49f9-8bee-a9a84eb37682",
+      "text": "My account with the bank is in the red. This means that my account is",
+      "options": {
+        "A": "heavy",
+        "B": "in danger",
+        "C": "overdrawn",
+        "D": "written in red ink"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2022,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 47,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "idioms-phrasal-verbs",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "idioms-phrasal-verbs",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "d78510aa-f236-492e-90d3-745c680bea96",
+      "text": "Between you and _____, he is a liar.",
+      "options": {
+        "A": "all of the above",
+        "B": "me",
+        "C": "i",
+        "D": "none of the above"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2022,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "Fill in the gap with the option that best completes the sentence.",
+      "imageUrl": null,
+      "questionNumber": 48,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "grammar",
+        "subtopic": "agreement",
+        "difficultyScore": 1,
+        "estimatedTime": 15,
+        "tags": [
+          "english-language",
+          "grammar",
+          "agreement",
+          "word-classes-and-functions"
+        ],
+        "learningObjectives": [
+          "identify various grammatical patterns in use"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-GRAMMAR",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "7a0a381c-80fd-4df7-8adf-497cbdd76c82",
+      "text": "The secretary and treasurer did not do ____ job.",
+      "options": {
+        "A": "their",
+        "B": "all of the above",
+        "C": "none of the above",
+        "D": "his"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2022,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "Fill in the gap with the option that best completes the sentence.",
+      "imageUrl": null,
+      "questionNumber": 49,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "grammar",
+        "subtopic": "agreement",
+        "difficultyScore": 2,
+        "estimatedTime": 20,
+        "tags": [
+          "english-language",
+          "grammar",
+          "agreement",
+          "word-classes-and-functions"
+        ],
+        "learningObjectives": [
+          "identify various grammatical patterns in use"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-GRAMMAR",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "6a0cd7b8-1d18-4507-a4a5-6a48125de0b0",
+      "text": "If James fails his examination, his teachers, his parents, his friends, or I ______ to be blame.",
+      "options": {
+        "A": "are",
+        "B": "is",
+        "C": "am",
+        "D": "not"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2022,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "Fill in the gap with the option that best completes the sentence.",
+      "imageUrl": null,
+      "questionNumber": 50,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "grammar",
+        "subtopic": "agreement",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "grammar",
+          "agreement",
+          "word-classes-and-functions"
+        ],
+        "learningObjectives": [
+          "identify various grammatical patterns in use"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-GRAMMAR",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "0d8ca36d-1667-4afe-8b22-3faf08ca6308",
+      "text": "I have always found that it is helpful to have a few wise and trusted people to ________ you can turn for information and advice.",
+      "options": {
+        "A": "whom",
+        "B": "who",
+        "C": "whose",
+        "D": "that"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2022,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "Fill in the gap with the option that best completes the sentence.",
+      "imageUrl": null,
+      "questionNumber": 51,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "grammar",
+        "subtopic": "agreement",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "grammar",
+          "agreement",
+          "word-classes-and-functions"
+        ],
+        "learningObjectives": [
+          "identify various grammatical patterns in use"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-GRAMMAR",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "b7d36ce9-cdcc-4f43-a1cf-784632e6b6bc",
+      "text": "We ought to stay away ______ the robbers come back",
+      "options": {
+        "A": "provided",
+        "B": "should in case",
+        "C": "although",
+        "D": "in case"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2022,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "Fill in the gap with the option that best completes the sentence.",
+      "imageUrl": null,
+      "questionNumber": 52,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "grammar",
+        "subtopic": "sentence-structure",
+        "difficultyScore": 3,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "grammar",
+          "sentence-structure",
+          "word-classes-and-functions"
+        ],
+        "learningObjectives": [
+          "identify various grammatical patterns in use"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-GRAMMAR",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "24dafafd-6496-4697-bf7b-6d99178b8e5d",
+      "text": "It was _____ who killed the goat.",
+      "options": {
+        "A": "his",
+        "B": "him",
+        "C": "he",
+        "D": "us"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2022,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "Fill in the gap with the option that best completes the sentence.",
+      "imageUrl": null,
+      "questionNumber": 53,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "grammar",
+        "subtopic": "parts-of-speech",
+        "difficultyScore": 1,
+        "estimatedTime": 10,
+        "tags": [
+          "english-language",
+          "grammar",
+          "parts-of-speech",
+          "word-classes-and-functions"
+        ],
+        "learningObjectives": [
+          "identify various grammatical patterns in use"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-GRAMMAR",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "10144121-b0a0-4bdb-8676-87384a14745b",
+      "text": "Bankole is upset as his wife does not understand his <u>predicament</u> .",
+      "options": {
+        "A": "sadness",
+        "B": "dilemma",
+        "C": "deadlock",
+        "D": "happiness"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2022,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "From the options lettered A-D, choose the option that is nearest in meaning to the underlined word.",
+      "imageUrl": null,
+      "questionNumber": 54,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "5d0c4df9-95bd-4750-a6eb-678fc366166d",
+      "text": "It is wise not to depend on <u>mundane</u> things.",
+      "options": {
+        "A": "imported",
+        "B": "material",
+        "C": "attractive",
+        "D": "expensive"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2022,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "From the options lettered A-D, choose the option that is nearest in meaning to the underlined word.",
+      "imageUrl": null,
+      "questionNumber": 55,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 3,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "25c37fbf-1739-417c-9ad4-1cdb0177aae8",
+      "text": "Now that the company is <u>insolvent</u> , it will shut down.",
+      "options": {
+        "A": "overworked",
+        "B": "unstable",
+        "C": "bankrupt",
+        "D": "affluent"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2022,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "From the options lettered A-D, choose the option that is nearest in meaning to the underlined word.",
+      "imageUrl": null,
+      "questionNumber": 56,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "633be88f-9b37-45bb-aa5c-2d2917f5c3c7",
+      "text": "Choose the option that has the same consonant sound as the one represented by the letter(s) underlined.\n\nMo<u>th</u>er",
+      "options": {
+        "A": "think",
+        "B": "teacher",
+        "C": "breathe",
+        "D": "watched"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2022,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 57,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "oral-english",
+        "subtopic": "consonant-sounds",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "oral-english",
+          "consonant-sounds",
+          "connected-speech"
+        ],
+        "learningObjectives": [
+          "identify correct pronunciation of individual words and articulation of connected speech"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-ORAL-ENGLISH",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "ef2250f5-26aa-4852-8443-660ce98fb6a7",
+      "text": "Pick out the option with a different rhyme",
+      "options": {
+        "A": "Roar",
+        "B": "Four",
+        "C": "Growl",
+        "D": "Bore"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2022,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 58,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "oral-english",
+        "subtopic": "rhyme-rhythm",
+        "difficultyScore": 1,
+        "estimatedTime": 20,
+        "tags": [
+          "english-language",
+          "oral-english",
+          "rhyme-rhythm",
+          "connected-speech"
+        ],
+        "learningObjectives": [
+          "identify correct pronunciation of individual words and articulation of connected speech"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-ORAL-ENGLISH",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "3ab03918-ef66-4a51-a1cc-8d3f5dcc317d",
+      "text": "Choose the word that has the same rhyme\n\nWatch",
+      "options": {
+        "A": "none of the above",
+        "B": "botch",
+        "C": "catch",
+        "D": "match"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2022,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 59,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "oral-english",
+        "subtopic": "rhyme-rhythm",
+        "difficultyScore": 1,
+        "estimatedTime": 20,
+        "tags": [
+          "english-language",
+          "oral-english",
+          "rhyme-rhythm",
+          "connected-speech"
+        ],
+        "learningObjectives": [
+          "identify correct pronunciation of individual words and articulation of connected speech"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-ORAL-ENGLISH",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "89a192b6-0439-43b5-8ae9-0f95e8b847ae",
+      "text": "Choose the option that has the same stress pattern as the given word.\n\nStudent",
+      "options": {
+        "A": "Refuse(N)",
+        "B": "Propose",
+        "C": "Rebel(V)",
+        "D": "Superb"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2022,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 60,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "oral-english",
+        "subtopic": "word-stress-polysyllabic",
+        "difficultyScore": 3,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "oral-english",
+          "word-stress-polysyllabic",
+          "connected-speech"
+        ],
+        "learningObjectives": [
+          "identify correct pronunciation of individual words and articulation of connected speech"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-ORAL-ENGLISH",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    }
+  ]
+}

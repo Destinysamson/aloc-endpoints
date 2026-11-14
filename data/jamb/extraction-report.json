@@ -1,0 +1,386 @@
+{
+  "stage": "priority",
+  "successful": [
+    {
+      "subject": "english-language",
+      "year": 2015,
+      "questions": 70,
+      "pages": 5
+    },
+    {
+      "subject": "english-language",
+      "year": 2016,
+      "questions": 75,
+      "pages": 5
+    },
+    {
+      "subject": "english-language",
+      "year": 2017,
+      "questions": 49,
+      "pages": 4
+    },
+    {
+      "subject": "english-language",
+      "year": 2018,
+      "questions": 79,
+      "pages": 6
+    },
+    {
+      "subject": "english-language",
+      "year": 2019,
+      "questions": 108,
+      "pages": 8
+    },
+    {
+      "subject": "english-language",
+      "year": 2020,
+      "questions": 58,
+      "pages": 4
+    },
+    {
+      "subject": "english-language",
+      "year": 2021,
+      "questions": 57,
+      "pages": 4
+    },
+    {
+      "subject": "english-language",
+      "year": 2022,
+      "questions": 58,
+      "pages": 4
+    },
+    {
+      "subject": "mathematics",
+      "year": 2015,
+      "questions": 50,
+      "pages": 4
+    },
+    {
+      "subject": "mathematics",
+      "year": 2016,
+      "questions": 50,
+      "pages": 4
+    },
+    {
+      "subject": "mathematics",
+      "year": 2017,
+      "questions": 48,
+      "pages": 4
+    },
+    {
+      "subject": "mathematics",
+      "year": 2018,
+      "questions": 49,
+      "pages": 4
+    },
+    {
+      "subject": "mathematics",
+      "year": 2019,
+      "questions": 49,
+      "pages": 4
+    },
+    {
+      "subject": "mathematics",
+      "year": 2020,
+      "questions": 50,
+      "pages": 4
+    },
+    {
+      "subject": "mathematics",
+      "year": 2021,
+      "questions": 39,
+      "pages": 3
+    },
+    {
+      "subject": "mathematics",
+      "year": 2022,
+      "questions": 39,
+      "pages": 3
+    },
+    {
+      "subject": "mathematics",
+      "year": 2023,
+      "questions": 49,
+      "pages": 4
+    },
+    {
+      "subject": "mathematics",
+      "year": 2024,
+      "questions": 40,
+      "pages": 3
+    },
+    {
+      "subject": "mathematics",
+      "year": 2025,
+      "questions": 40,
+      "pages": 3
+    },
+    {
+      "subject": "mathematics",
+      "year": 2026,
+      "questions": 40,
+      "pages": 3
+    },
+    {
+      "subject": "chemistry",
+      "year": 2015,
+      "questions": 50,
+      "pages": 4
+    },
+    {
+      "subject": "chemistry",
+      "year": 2016,
+      "questions": 50,
+      "pages": 4
+    },
+    {
+      "subject": "chemistry",
+      "year": 2017,
+      "questions": 50,
+      "pages": 4
+    },
+    {
+      "subject": "chemistry",
+      "year": 2018,
+      "questions": 50,
+      "pages": 4
+    },
+    {
+      "subject": "chemistry",
+      "year": 2019,
+      "questions": 50,
+      "pages": 4
+    },
+    {
+      "subject": "chemistry",
+      "year": 2020,
+      "questions": 40,
+      "pages": 3
+    },
+    {
+      "subject": "chemistry",
+      "year": 2021,
+      "questions": 40,
+      "pages": 3
+    },
+    {
+      "subject": "chemistry",
+      "year": 2022,
+      "questions": 40,
+      "pages": 3
+    },
+    {
+      "subject": "chemistry",
+      "year": 2023,
+      "questions": 40,
+      "pages": 3
+    },
+    {
+      "subject": "chemistry",
+      "year": 2024,
+      "questions": 40,
+      "pages": 3
+    },
+    {
+      "subject": "chemistry",
+      "year": 2025,
+      "questions": 40,
+      "pages": 3
+    },
+    {
+      "subject": "chemistry",
+      "year": 2026,
+      "questions": 40,
+      "pages": 3
+    },
+    {
+      "subject": "physics",
+      "year": 2015,
+      "questions": 49,
+      "pages": 4
+    },
+    {
+      "subject": "physics",
+      "year": 2016,
+      "questions": 50,
+      "pages": 4
+    },
+    {
+      "subject": "physics",
+      "year": 2017,
+      "questions": 50,
+      "pages": 4
+    },
+    {
+      "subject": "physics",
+      "year": 2018,
+      "questions": 50,
+      "pages": 4
+    },
+    {
+      "subject": "physics",
+      "year": 2019,
+      "questions": 48,
+      "pages": 4
+    },
+    {
+      "subject": "physics",
+      "year": 2020,
+      "questions": 39,
+      "pages": 3
+    },
+    {
+      "subject": "physics",
+      "year": 2021,
+      "questions": 40,
+      "pages": 3
+    },
+    {
+      "subject": "physics",
+      "year": 2022,
+      "questions": 40,
+      "pages": 3
+    },
+    {
+      "subject": "physics",
+      "year": 2023,
+      "questions": 50,
+      "pages": 4
+    },
+    {
+      "subject": "physics",
+      "year": 2024,
+      "questions": 50,
+      "pages": 4
+    },
+    {
+      "subject": "physics",
+      "year": 2025,
+      "questions": 40,
+      "pages": 3
+    },
+    {
+      "subject": "physics",
+      "year": 2026,
+      "questions": 40,
+      "pages": 3
+    },
+    {
+      "subject": "literature-in-english",
+      "year": 2016,
+      "questions": 40,
+      "pages": 3
+    },
+    {
+      "subject": "literature-in-english",
+      "year": 2017,
+      "questions": 40,
+      "pages": 3
+    },
+    {
+      "subject": "literature-in-english",
+      "year": 2018,
+      "questions": 40,
+      "pages": 3
+    },
+    {
+      "subject": "literature-in-english",
+      "year": 2019,
+      "questions": 39,
+      "pages": 3
+    },
+    {
+      "subject": "literature-in-english",
+      "year": 2020,
+      "questions": 40,
+      "pages": 3
+    },
+    {
+      "subject": "government",
+      "year": 2015,
+      "questions": 50,
+      "pages": 4
+    },
+    {
+      "subject": "government",
+      "year": 2016,
+      "questions": 50,
+      "pages": 4
+    },
+    {
+      "subject": "government",
+      "year": 2017,
+      "questions": 50,
+      "pages": 4
+    },
+    {
+      "subject": "government",
+      "year": 2018,
+      "questions": 50,
+      "pages": 4
+    },
+    {
+      "subject": "government",
+      "year": 2019,
+      "questions": 50,
+      "pages": 4
+    },
+    {
+      "subject": "government",
+      "year": 2020,
+      "questions": 40,
+      "pages": 3
+    },
+    {
+      "subject": "government",
+      "year": 2021,
+      "questions": 40,
+      "pages": 3
+    },
+    {
+      "subject": "government",
+      "year": 2022,
+      "questions": 40,
+      "pages": 3
+    },
+    {
+      "subject": "government",
+      "year": 2023,
+      "questions": 50,
+      "pages": 4
+    },
+    {
+      "subject": "government",
+      "year": 2024,
+      "questions": 50,
+      "pages": 4
+    },
+    {
+      "subject": "government",
+      "year": 2025,
+      "questions": 40,
+      "pages": 3
+    },
+    {
+      "subject": "government",
+      "year": 2026,
+      "questions": 50,
+      "pages": 4
+    },
+    {
+      "subject": "christian-religious-studies",
+      "year": 2015,
+      "questions": 50,
+      "pages": 4
+    },
+    {
+      "subject": "christian-religious-studies",
+      "year": 2019,
+      "questions": 94,
+      "pages": 7
+    }
+  ],
+  "empty": [],
+  "failed": [],
+  "total_questions": 3076
+}

@@ -1,0 +1,3907 @@
+{
+  "exam": "JAMB",
+  "subject": "english-language",
+  "year": 2016,
+  "source": "ALOC",
+  "contentSource": "historical",
+  "questionCount": 75,
+  "questions": [
+    {
+      "id": "c476f166-7d52-4716-8f2b-21d78898088a",
+      "text": "At the end of term in Forcados High School. Nene was saddled with the responsibility of",
+      "options": {
+        "A": "leading her house in the race",
+        "B": "packaging the gifts for presentation",
+        "C": "arranging the school hall for dinner",
+        "D": "organizing the carol night"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "<b>These questions are based on A.H. Mohammed's The Last Days at Forcados High School.</b>",
+      "imageUrl": null,
+      "questionNumber": 1,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "prose",
+        "subtopic": null,
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [],
+        "learningObjectives": [],
+        "curriculumAlignment": null,
+        "classificationConfidence": 0.8,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "06a8aaa3-51d1-461c-a187-bed2cc2645fa",
+      "text": "Efua was not in the good books of teachers at Forcados High School because",
+      "options": {
+        "A": "the students of Forcados did not like her",
+        "B": "she was expelled from her previous school",
+        "C": "she bribed the principal before she was admitted",
+        "D": "her admission into senior class was unusual"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "<b>These questions are based on A.H. Mohammed's The Last Days at Forcados High School.</b>",
+      "imageUrl": null,
+      "questionNumber": 2,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "prose",
+        "subtopic": null,
+        "difficultyScore": 3,
+        "estimatedTime": 60,
+        "tags": [],
+        "learningObjectives": [],
+        "curriculumAlignment": null,
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "fe764097-2267-4d00-b1e6-92e8be166a0c",
+      "text": "In the novel, Ansa looked around glumly when Jimi was engrossed in laughter and chatter because he was",
+      "options": {
+        "A": "neglected by Jimi",
+        "B": "anxious to go home",
+        "C": "distracted by a band playing on the field",
+        "D": "given twelve strokes of the cane by the principal"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "<b>These questions are based on A.H. Mohammed's The Last Days at Forcados High School.</b>",
+      "imageUrl": null,
+      "questionNumber": 3,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "prose",
+        "subtopic": null,
+        "difficultyScore": 3,
+        "estimatedTime": 60,
+        "tags": [],
+        "learningObjectives": [],
+        "curriculumAlignment": null,
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "db87058a-051e-4f24-bc44-42a2f3754e26",
+      "text": "Mama Shilifat had an affection for Jimi because she always gave him",
+      "options": {
+        "A": "money to buy chewing gum",
+        "B": "advice against bad students",
+        "C": "the courage to do well in his class",
+        "D": "the largest pieces of puff-puff"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "<b>These questions are based on A.H. Mohammed's The Last Days at Forcados High School.</b>",
+      "imageUrl": null,
+      "questionNumber": 4,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "comprehension",
+        "subtopic": "implied-meaning",
+        "difficultyScore": 3,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "comprehension",
+          "implied-meaning",
+          "writers-intention-mood-attitude-opinion"
+        ],
+        "learningObjectives": [
+          "deduce or infer the writers’ intentions including mood, attitude to the subject matter and opinion"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-COMPREHENSION",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "d60faf10-218f-4af2-916c-63b816b71423",
+      "text": "Ansa licked his lips and said furtively, look this is between you and me. Jimi would be angry if i told you but his brother is ---- well, we suspect he sometimes sells drugs and...'\n\nFrom the excerpt above, Ansa was talking to",
+      "options": {
+        "A": "Risikat and Nene",
+        "B": "Novi",
+        "C": "Caro",
+        "D": "Efua and Nene"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "<b>These questions are based on A.H. Mohammed's The Last Days at Forcados High School.</b>",
+      "imageUrl": null,
+      "questionNumber": 5,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "prose",
+        "subtopic": null,
+        "difficultyScore": 4,
+        "estimatedTime": 60,
+        "tags": [],
+        "learningObjectives": [],
+        "curriculumAlignment": null,
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "2fab6e72-9b92-4c30-acb3-c2d1cb75eee7",
+      "text": "The speculation amongst the students of Forcados High School was that Jimi was dating",
+      "options": {
+        "A": "Risikat",
+        "B": "Joke",
+        "C": "Caro",
+        "D": "Efua"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "<b>These questions are based on A.H. Mohammed's The Last Days at Forcados High School.</b>",
+      "imageUrl": null,
+      "questionNumber": 6,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "comprehension",
+        "subtopic": "implied-meaning",
+        "difficultyScore": 1,
+        "estimatedTime": 15,
+        "tags": [
+          "english-language",
+          "comprehension",
+          "implied-meaning",
+          "writers-intention-mood-attitude-opinion"
+        ],
+        "learningObjectives": [
+          "deduce or infer the writers’ intentions including mood, attitude to the subject matter and opinion"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-COMPREHENSION",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "5bf64bc0-e62f-427e-b44f-cc9e1607ee77",
+      "text": "Mr Solade sent Jimi to Ibadan for the holidays in order to",
+      "options": {
+        "A": "save Jimi from Wole's bad influence",
+        "B": "heed Jimi's request to stay with his friends",
+        "C": "allow Jimi spend some time with his friends",
+        "D": "allow Jimi to know more about Ibadan"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "<b>These questions are based on A.H. Mohammed's The Last Days at Forcados High School.</b>",
+      "imageUrl": null,
+      "questionNumber": 7,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "comprehension",
+        "subtopic": "implied-meaning",
+        "difficultyScore": 3,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "comprehension",
+          "implied-meaning",
+          "writers-intention-mood-attitude-opinion"
+        ],
+        "learningObjectives": [
+          "deduce or infer the writers’ intentions including mood, attitude to the subject matter and opinion"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-COMPREHENSION",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "ac5f5175-00d8-44a1-a0c8-233134c0a05a",
+      "text": "Students refused to sympathize with Efua when drinks spilled on her because",
+      "options": {
+        "A": "she would not accept their sympathy",
+        "B": "she was Jimi's only girlfriend",
+        "C": "they planned it to disgrace her",
+        "D": "they felt she was arrogant"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "<b>These questions are based on A.H. Mohammed's The Last Days at Forcados High School.</b>",
+      "imageUrl": null,
+      "questionNumber": 8,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "prose",
+        "subtopic": null,
+        "difficultyScore": 3,
+        "estimatedTime": 60,
+        "tags": [],
+        "learningObjectives": [],
+        "curriculumAlignment": null,
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "0045cb60-21da-47cd-9c9b-9612bd85c34d",
+      "text": "Which of the following best describes Mr Mallum?",
+      "options": {
+        "A": "He was a fat, tall man with wimpish behaviour",
+        "B": "He was a tall, wiry man with good diction",
+        "C": "He was crude, rash and impatient",
+        "D": "He was a small, wiry man with odd accent"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "<b>These questions are based on A.H. Mohammed's The Last Days at Forcados High School.</b>",
+      "imageUrl": null,
+      "questionNumber": 9,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "prose",
+        "subtopic": null,
+        "difficultyScore": 3,
+        "estimatedTime": 60,
+        "tags": [],
+        "learningObjectives": [],
+        "curriculumAlignment": null,
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "d175506e-6056-4297-a803-added7d0fa8d",
+      "text": "According to the novel, Efua was in Forcados High School because",
+      "options": {
+        "A": "her stepfather was a board member",
+        "B": "of her former principal's recommendation",
+        "C": "the school needed her mother's support",
+        "D": "of aunt Moni's gift to the school"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "<b>These questions are based on A.H. Mohammed's The Last Days at Forcados High School.</b>",
+      "imageUrl": null,
+      "questionNumber": 10,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "prose",
+        "subtopic": null,
+        "difficultyScore": 3,
+        "estimatedTime": 60,
+        "tags": [],
+        "learningObjectives": [],
+        "curriculumAlignment": null,
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "4480f54e-6df0-4624-b538-204ea8f22472",
+      "text": "Jimi and Efua, there's something fishy going on there....\nFrom the exercept above, the expression...something fishy refers to",
+      "options": {
+        "A": "Nene's fear that Efua and Jimi were no longer going out",
+        "B": "Nene's fear that Jimi was not determined to jilt Efua",
+        "C": "Nene's annoyance that Efua might snatch Jimi from her",
+        "D": "Nene's suspicion that Jimi and Efua were having a relationship"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "<b>These questions are based on A.H. Mohammed's The Last Days at Forcados High School.</b>",
+      "imageUrl": null,
+      "questionNumber": 11,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "comprehension",
+        "subtopic": "implied-meaning",
+        "difficultyScore": 4,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "comprehension",
+          "implied-meaning",
+          "writers-intention-mood-attitude-opinion"
+        ],
+        "learningObjectives": [
+          "deduce or infer the writers’ intentions including mood, attitude to the subject matter and opinion"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-COMPREHENSION",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "9a15e0f0-cd46-4ad3-a7a4-3908aadfd215",
+      "text": "Seyi Lawal, the head boy of the school was described as someone who",
+      "options": {
+        "A": "loved his job",
+        "B": "hated Physics practical",
+        "C": "loved interacting with girls",
+        "D": "hated hard-work"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "<b>These questions are based on A.H. Mohammed's The Last Days at Forcados High School.</b>",
+      "imageUrl": null,
+      "questionNumber": 12,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "prose",
+        "subtopic": null,
+        "difficultyScore": 1,
+        "estimatedTime": 20,
+        "tags": [],
+        "learningObjectives": [],
+        "curriculumAlignment": null,
+        "classificationConfidence": 0.8,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "6446ed23-4b84-404b-8ad1-e55a7262c351",
+      "text": "The author uses the novel to portray some of the",
+      "options": {
+        "A": "NGO's activities only",
+        "B": "environment conditions",
+        "C": "feelings of teachers only",
+        "D": "societal problems"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "<b>These questions are based on A.H. Mohammed's The Last Days at Forcados High School.</b>",
+      "imageUrl": null,
+      "questionNumber": 13,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "prose",
+        "subtopic": "theme-analysis",
+        "difficultyScore": 3,
+        "estimatedTime": 60,
+        "tags": [],
+        "learningObjectives": [],
+        "curriculumAlignment": null,
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "02d55dd3-179d-4657-bbbf-1696f2ae03c5",
+      "text": "Efua's guarded and hostile attitude towards boys could be traced to",
+      "options": {
+        "A": "the teachings she had from her cleric",
+        "B": "stories she had heard from her aunt",
+        "C": "the experience she had with her stepfather",
+        "D": "her innate sense of justice"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "<b>These questions are based on A.H. Mohammed's The Last Days at Forcados High School.</b>",
+      "imageUrl": null,
+      "questionNumber": 14,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "prose",
+        "subtopic": "characterisation",
+        "difficultyScore": 3,
+        "estimatedTime": 60,
+        "tags": [],
+        "learningObjectives": [],
+        "curriculumAlignment": null,
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "526443be-5451-49a4-823d-82010c9bbc08",
+      "text": "Jimi was very prominent in Forcados High School because he was",
+      "options": {
+        "A": "the son of a great scholar",
+        "B": "the only child of his parents",
+        "C": "one of the school prefects",
+        "D": "noted for his good paintings"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "<b>These questions are based on A.H. Mohammed's The Last Days at Forcados High School.</b>",
+      "imageUrl": null,
+      "questionNumber": 15,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "prose",
+        "subtopic": "characterisation",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [],
+        "learningObjectives": [],
+        "curriculumAlignment": null,
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "77cc427e-7469-4373-a08b-37163633fd94",
+      "text": "Mr. Rufus bore the brunt in the last promotion examination.",
+      "options": {
+        "A": "Mr Rufus failed the examination woefully",
+        "B": "Mr Rufus excelled in the examination",
+        "C": "Mr. Rufus was excited about the examination",
+        "D": "Mr. Rufus toyed with the examination"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "For this question, select the option that best explains the information conveyed in the question.",
+      "imageUrl": null,
+      "questionNumber": 16,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 3,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "fe6df0c9-c98b-4ce9-aa1f-55d7539b2828",
+      "text": "My friend is well off nowadays",
+      "options": {
+        "A": "My friend is financially sound",
+        "B": "My friend is well known to people",
+        "C": "My fiend is now well",
+        "D": "My friend has lost focus"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "For this question, select the option that best explains the information conveyed in the question.",
+      "imageUrl": null,
+      "questionNumber": 17,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "a8e3fb27-061b-43a5-9429-f9a842cf40b5",
+      "text": "The retired army officer did a yeoman's service to the nation",
+      "options": {
+        "A": "His activity brought disrepute to the nation",
+        "B": "His service to the nation was not exemplary",
+        "C": "He was showered with the responsibilty of the yeoman",
+        "D": "He was very loyal to the nation"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "For this question, select the option that best explains the information conveyed in the question.",
+      "imageUrl": null,
+      "questionNumber": 18,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "idioms-phrasal-verbs",
+        "difficultyScore": 3,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "idioms-phrasal-verbs",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "120a4f9c-d182-4a9a-84f1-02de70aef731",
+      "text": "He suddenly found himself in the thick of the situation",
+      "options": {
+        "A": "He did not agree with the situation",
+        "B": "He used his experience to settle the sitution",
+        "C": "He saved himself out of the situation",
+        "D": "He found himself deeply involved in the situation"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "For this question, select the option that best explains the information conveyed in the question.",
+      "imageUrl": null,
+      "questionNumber": 19,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "idioms-phrasal-verbs",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "idioms-phrasal-verbs",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "3fec189a-7004-4f07-98c9-25ba52659260",
+      "text": "Olu and Ado are about to come to blows.",
+      "options": {
+        "A": "They are about to agree with each other",
+        "B": "They are about to accept other people's opinion",
+        "C": "They are about to hit each other",
+        "D": "They are about to disagree with other people's"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "For this question, select the option that best explains the information conveyed in the question.",
+      "imageUrl": null,
+      "questionNumber": 20,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "051a762d-8c50-4682-acb2-58871a0b1078",
+      "text": "By refusing the offer, he has just cut down his own throat",
+      "options": {
+        "A": "He has made a big mistake",
+        "B": "He has made the right decision",
+        "C": "He has given up on his idea",
+        "D": "He has used the Knife on his throat"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "For this question, select the option that best explains the information conveyed in the question.",
+      "imageUrl": null,
+      "questionNumber": 21,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": null,
+        "difficultyScore": 3,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "32545822-2732-4de9-adf7-7f8eee99145d",
+      "text": "These job cuts are just the thin end of the wedge",
+      "options": {
+        "A": "Job cuts are very rampant",
+        "B": "Job cuts are the inconclusive",
+        "C": "Job cuts are the beginning of unpleasant situations",
+        "D": "Job cuts are the beginning of healthy rivalries"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "For this question, select the option that best explains the information conveyed in the question.",
+      "imageUrl": null,
+      "questionNumber": 22,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "idioms-phrasal-verbs",
+        "difficultyScore": 3,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "idioms-phrasal-verbs",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "c44e1730-1437-4ce5-9e97-df6bb98172fb",
+      "text": "Jumai will do well if she was given a fair crack of the whip.",
+      "options": {
+        "A": "She would do well if she was given a fair whip",
+        "B": "She would excel if she used the whip well",
+        "C": "She would do well if she was given equal opportunity",
+        "D": "She would do well if she was made to cry"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "For this question, select the option that best explains the information conveyed in the question.",
+      "imageUrl": null,
+      "questionNumber": 23,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "idioms-phrasal-verbs",
+        "difficultyScore": 3,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "idioms-phrasal-verbs",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "0557d480-ac5b-45d3-87e5-f4ba50481ad5",
+      "text": "Her death was a bolt from the blue to us",
+      "options": {
+        "A": "Her death bolted us together",
+        "B": "Her death caused confusion",
+        "C": "Her death sealed our hopes",
+        "D": "Her death was unexpected"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "For this question, select the option that best explains the information conveyed in the question.",
+      "imageUrl": null,
+      "questionNumber": 24,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "idioms-phrasal-verbs",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "idioms-phrasal-verbs",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "13ad677c-c62f-4aeb-a433-70ed8ccc9c32",
+      "text": "The students were nosing around.",
+      "options": {
+        "A": "They were roaming about",
+        "B": "They were searching for information",
+        "C": "They were playing around",
+        "D": "They were disseminating information"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "For this question, select the option that best explains the information conveyed in the question.",
+      "imageUrl": null,
+      "questionNumber": 25,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 3,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "05b467fd-0b9c-463b-9e71-8615e77c013e",
+      "text": "It is important not to let mistakes <i>blight</i>  your life",
+      "options": {
+        "A": "damage",
+        "B": "impart",
+        "C": "improve",
+        "D": "ruin"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "For this question, choose the option opposite in meaning to the word or phrase in italics",
+      "imageUrl": null,
+      "questionNumber": 26,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "058dd8be-28bf-4f67-8cef-103a71b158b6",
+      "text": "The film was shot in <i>decrepit</i> police station.",
+      "options": {
+        "A": "an improved",
+        "B": "a damaged",
+        "C": "an impoverished",
+        "D": "a dilapidated"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "For this question, choose the option opposite in meaning to the word or phrase in italics",
+      "imageUrl": null,
+      "questionNumber": 27,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 3,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": true
+      }
+    },
+    {
+      "id": "fd76a501-6c10-4610-a93f-26e9f994c73f",
+      "text": "Jumoke is fond of <i>carping</i> her sister",
+      "options": {
+        "A": "praising",
+        "B": "joking with",
+        "C": "complaining about",
+        "D": "faulting"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "For this question, choose the option opposite in meaning to the word or phrase in italics",
+      "imageUrl": null,
+      "questionNumber": 28,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 3,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "de4106ab-4fa3-4b78-860d-9954d28a98e0",
+      "text": "A cup of coffee <i>invigorated</i> him",
+      "options": {
+        "A": "destroyed",
+        "B": "energized",
+        "C": "angered",
+        "D": "debilitated"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "For this question, choose the option opposite in meaning to the word or phrase in italics",
+      "imageUrl": null,
+      "questionNumber": 29,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "synonyms-antonyms",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "synonyms-antonyms",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "32a4a3f5-1cab-4779-8741-ec5d4ec7b289",
+      "text": "It is <i>Iudicrous</i> to suggest that she was a government agent",
+      "options": {
+        "A": "odd",
+        "B": "exciting",
+        "C": "farcical",
+        "D": "sensible"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "For this question, choose the option opposite in meaning to the word or phrase in italics",
+      "imageUrl": null,
+      "questionNumber": 30,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 3,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "06d45580-9928-4b83-9a85-06ccbecfc157",
+      "text": "The idea makes me <i>cringe</i>",
+      "options": {
+        "A": "quiver",
+        "B": "tremble",
+        "C": "resolute",
+        "D": "writhe"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "For this question, choose the option opposite in meaning to the word or phrase in italics",
+      "imageUrl": null,
+      "questionNumber": 31,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 3,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "2db7b0d8-8e46-4b18-8f3e-1b4fac4dcb62",
+      "text": "His book was one of those that <i>galvanized</i> democracy",
+      "options": {
+        "A": "stimulated",
+        "B": "encouraged",
+        "C": "dissauded",
+        "D": "promoted"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "For this question, choose the option opposite in meaning to the word or phrase in italics",
+      "imageUrl": null,
+      "questionNumber": 32,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 3,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "87ab07da-2f7b-49ea-8812-81c7aaa86022",
+      "text": "He walks in a <i>gawky</i> way",
+      "options": {
+        "A": "suitable",
+        "B": "clumsy",
+        "C": "lumbering",
+        "D": "graceful"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "For this question, choose the option opposite in meaning to the word or phrase in italics",
+      "imageUrl": null,
+      "questionNumber": 33,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "9356a004-a448-4837-864d-0329f2092a24",
+      "text": "The nation is in a period of economic <i>flux</i>",
+      "options": {
+        "A": "modification",
+        "B": "change",
+        "C": "fluidity",
+        "D": "stability"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "For this question, choose the option opposite in meaning to the word or phrase in italics",
+      "imageUrl": null,
+      "questionNumber": 34,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "7ca7e2fe-be78-49dc-83ba-e94c85823d42",
+      "text": "Our son was highly active and <i>exuberant</i>",
+      "options": {
+        "A": "subdued",
+        "B": "fulsome",
+        "C": "lively",
+        "D": "bright"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "For this question, choose the option opposite in meaning to the word or phrase in italics",
+      "imageUrl": null,
+      "questionNumber": 35,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "synonyms-antonyms",
+        "difficultyScore": 3,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "synonyms-antonyms",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "21473253-7cdf-4891-b02d-fae9b335dbd3",
+      "text": "Mr. Ojo has a <i>fickle</i> character.",
+      "options": {
+        "A": "a genuine",
+        "B": "a stable",
+        "C": "an imperfect",
+        "D": "an unpredictable"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "For this question, choose the option nearest in meaning to the word or phrase in italics",
+      "imageUrl": null,
+      "questionNumber": 36,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "synonyms-antonyms",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "synonyms-antonyms",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "05e72473-e46a-4eaf-b215-c4ea90edcd40",
+      "text": "Bola takes......his father both in appearance and his manner",
+      "options": {
+        "A": "On",
+        "B": "from",
+        "C": "after",
+        "D": "upon"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "For these questions, choose the option that best complete the gap(s)",
+      "imageUrl": null,
+      "questionNumber": 37,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "grammar",
+        "subtopic": "parts-of-speech",
+        "difficultyScore": 3,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "grammar",
+          "parts-of-speech",
+          "word-classes-and-functions"
+        ],
+        "learningObjectives": [
+          "identify various grammatical patterns in use"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-GRAMMAR",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "076ac0f1-90f3-4d89-b102-37ae325c147a",
+      "text": ".........rich has its own problem",
+      "options": {
+        "A": "Being",
+        "B": "Been",
+        "C": "On being",
+        "D": "On been"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "For these questions, choose the option that best complete the gap(s)",
+      "imageUrl": null,
+      "questionNumber": 38,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "grammar",
+        "subtopic": "parts-of-speech",
+        "difficultyScore": 1,
+        "estimatedTime": 20,
+        "tags": [
+          "english-language",
+          "grammar",
+          "parts-of-speech",
+          "word-classes-and-functions"
+        ],
+        "learningObjectives": [
+          "identify various grammatical patterns in use"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-GRAMMAR",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "99973c1d-cab5-4d03-abb8-d9ec7d0d125b",
+      "text": "The doctor listened to my heartbeat with a .........",
+      "options": {
+        "A": "cardiograph",
+        "B": "stethoscope",
+        "C": "chromometer",
+        "D": "microscope"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "For these questions, choose the option that best complete the gap(s)",
+      "imageUrl": null,
+      "questionNumber": 39,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 1,
+        "estimatedTime": 15,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "cdf0b8ab-9866-44bc-9724-105d522dc0b4",
+      "text": "With strong determination, Adamu was able to .... the problem",
+      "options": {
+        "A": "surmount",
+        "B": "surpass",
+        "C": "defend",
+        "D": "know"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "For these questions, choose the option that best complete the gap(s)",
+      "imageUrl": null,
+      "questionNumber": 40,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 3,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "f9525f86-8b07-483a-aa4e-77ee5cb0a910",
+      "text": "It is impossible to say whether ......Ola and her sister will be offered jobs by the firm.",
+      "options": {
+        "A": "both",
+        "B": "either",
+        "C": "each",
+        "D": "neither"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "For these questions, choose the option that best complete the gap(s)",
+      "imageUrl": null,
+      "questionNumber": 41,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "grammar",
+        "subtopic": "agreement",
+        "difficultyScore": 3,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "grammar",
+          "agreement",
+          "word-classes-and-functions"
+        ],
+        "learningObjectives": [
+          "identify various grammatical patterns in use"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-GRAMMAR",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "50641559-3eb1-4aa2-8332-6905ba8187f5",
+      "text": "He decided to wait for the bus because he had..........",
+      "options": {
+        "A": "many luggages",
+        "B": "plenty luggages",
+        "C": "a lot of luggage",
+        "D": "too many luggage"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "For these questions, choose the option that best complete the gap(s)",
+      "imageUrl": null,
+      "questionNumber": 42,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "649f30ed-cca7-425e-a635-6625d28c59fe",
+      "text": "......lawyers enrolled at the Nigerian Bar last year....this year.",
+      "options": {
+        "A": "Very many/than",
+        "B": "Same/as",
+        "C": "More/than",
+        "D": "As/ much"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "For these questions, choose the option that best complete the gap(s)",
+      "imageUrl": null,
+      "questionNumber": 43,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "grammar",
+        "subtopic": "parts-of-speech",
+        "difficultyScore": 3,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "grammar",
+          "parts-of-speech",
+          "word-classes-and-functions"
+        ],
+        "learningObjectives": [
+          "identify various grammatical patterns in use"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-GRAMMAR",
+        "classificationConfidence": 0.8,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "befb58f0-5ff9-4ffa-97b0-0be1fabc3111",
+      "text": "The officer ....that he was not supposed to talk to the press on the matter",
+      "options": {
+        "A": "could have known",
+        "B": "shall know",
+        "C": "should have known",
+        "D": "will know"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "For these questions, choose the option that best complete the gap(s)",
+      "imageUrl": null,
+      "questionNumber": 44,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "grammar",
+        "subtopic": "tenses-aspect",
+        "difficultyScore": 3,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "grammar",
+          "tenses-aspect",
+          "word-classes-and-functions"
+        ],
+        "learningObjectives": [
+          "identify various grammatical patterns in use"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-GRAMMAR",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "5dcc02d0-7e41-4bd3-afa0-f097e5f813c9",
+      "text": "He said, ' We shouldn't do it ........?",
+      "options": {
+        "A": "should we",
+        "B": "should be",
+        "C": "didn't we",
+        "D": "said he"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "For these questions, choose the option that best complete the gap(s)",
+      "imageUrl": null,
+      "questionNumber": 45,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "grammar",
+        "subtopic": "question-tags",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "grammar",
+          "question-tags",
+          "word-classes-and-functions"
+        ],
+        "learningObjectives": [
+          "identify various grammatical patterns in use"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-GRAMMAR",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "b8624e58-02f8-4af8-a3ba-40b1d0ede2fc",
+      "text": "After too much exercise, some people suffer from cramp which is caused by the ......... of the muscles",
+      "options": {
+        "A": "contraction",
+        "B": "restriction",
+        "C": "conscription",
+        "D": "relaxation"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "For these questions, choose the option that best complete the gap(s)",
+      "imageUrl": null,
+      "questionNumber": 46,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "21fcaf3f-ad35-4e14-863b-2dfb316f42db",
+      "text": "'repri<u>e</u>ve''",
+      "options": {
+        "A": "rich",
+        "B": "police",
+        "C": "queer",
+        "D": "probity"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "For these questions, choose the option that has the same vowel sound as the ones represented by the letter (s) underlined",
+      "imageUrl": null,
+      "questionNumber": 47,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "cb41d0d8-3879-4648-a8a7-f650668eb1c8",
+      "text": "'D<u>oo</u>r''",
+      "options": {
+        "A": "food",
+        "B": "cough",
+        "C": "sure",
+        "D": "board"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "For these questions, choose the option that has the same vowel sound as the ones represented by the letter (s) underlined",
+      "imageUrl": null,
+      "questionNumber": 48,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 1,
+        "estimatedTime": 20,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "f0b32377-40a5-499e-81f2-48ed9ba637c1",
+      "text": "'fam<u>ou</u>s''",
+      "options": {
+        "A": "soup",
+        "B": "cook",
+        "C": "pilot",
+        "D": "colonel"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "For these questions, choose the option that have same vowel sound as the ones represented by the letter (s) underlined",
+      "imageUrl": null,
+      "questionNumber": 49,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "oral-english",
+        "subtopic": "vowel-sounds",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "oral-english",
+          "vowel-sounds",
+          "connected-speech"
+        ],
+        "learningObjectives": [
+          "identify correct pronunciation of individual words and articulation of connected speech"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-ORAL-ENGLISH",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "1ca9e034-99b3-4f99-ac94-f7cf3c1f54b4",
+      "text": "'<u>ch</u>oice''",
+      "options": {
+        "A": "schedule",
+        "B": "teach",
+        "C": "leisure",
+        "D": "machine"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "For these questions, choose the option that have the same consonant sound as the ones represented by the letter (s) underlined",
+      "imageUrl": null,
+      "questionNumber": 50,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 1,
+        "estimatedTime": 20,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "2007fd86-01e1-4f5a-8e07-f7c5c0d5358b",
+      "text": "<u>y</u>et'''",
+      "options": {
+        "A": "bury",
+        "B": "way",
+        "C": "vessel",
+        "D": "europe"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "For these questions, choose the option that have the same consonant sound as the ones represented by the letter (s) underlined",
+      "imageUrl": null,
+      "questionNumber": 51,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 1,
+        "estimatedTime": 10,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.8,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "8c353507-f572-4950-b324-812a39163e56",
+      "text": "task<u>ed</u>",
+      "options": {
+        "A": "bagged",
+        "B": "floored",
+        "C": "laughed",
+        "D": "shouted"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "For these questions, choose the option that have the same consonant sound as the ones represented by the letter (s) underlined",
+      "imageUrl": null,
+      "questionNumber": 52,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 1,
+        "estimatedTime": 10,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "31d3cfe5-9eb1-44a1-b40a-ea1546356295",
+      "text": "Risen",
+      "options": {
+        "A": "prison",
+        "B": "motion",
+        "C": "portion",
+        "D": "rising"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "For these questions, choose the option that rhyme with the given words.",
+      "imageUrl": null,
+      "questionNumber": 53,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 1,
+        "estimatedTime": 10,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "8b5fbadd-bfbe-44e5-874f-d1f8b1795610",
+      "text": "'terror''",
+      "options": {
+        "A": "tenor",
+        "B": "warrior",
+        "C": "error",
+        "D": "furrow"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "For these questions, choose the option that rhyme with the given words.",
+      "imageUrl": null,
+      "questionNumber": 54,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 1,
+        "estimatedTime": 15,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.8,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "53cc2534-b3f4-4f20-acf5-cc8f1118f9f2",
+      "text": "crowd",
+      "options": {
+        "A": "crow",
+        "B": "bard",
+        "C": "aloud",
+        "D": "crawl"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "For these questions, choose the option that rhyme with the given words.",
+      "imageUrl": null,
+      "questionNumber": 55,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 1,
+        "estimatedTime": 10,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "198f23ad-86c0-4c7b-b3e6-ae28433b88a4",
+      "text": "inoffensive",
+      "options": {
+        "A": "inOFfensive",
+        "B": "inoffenSIVE",
+        "C": "inofFENsive",
+        "D": "INoffensive"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "For these questions, choose the most appropriate stress pattern from the options. The Stressed syllable are written in capital letter (s)",
+      "imageUrl": null,
+      "questionNumber": 56,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "oral-english",
+        "subtopic": "word-stress-polysyllabic",
+        "difficultyScore": 1,
+        "estimatedTime": 20,
+        "tags": [
+          "english-language",
+          "oral-english",
+          "word-stress-polysyllabic",
+          "connected-speech"
+        ],
+        "learningObjectives": [
+          "identify correct pronunciation of individual words and articulation of connected speech"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-ORAL-ENGLISH",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "a81f58e1-3cae-4e89-b558-fec77fd84998",
+      "text": "obligation",
+      "options": {
+        "A": "obliGAtion",
+        "B": "OBligation",
+        "C": "obligaTION",
+        "D": "obLIgation"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "For these questions, choose the most appropriate stress pattern from the options. The Stressed syllable are written in capital letter (s)",
+      "imageUrl": null,
+      "questionNumber": 57,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "oral-english",
+        "subtopic": "vowel-sounds",
+        "difficultyScore": 1,
+        "estimatedTime": 10,
+        "tags": [
+          "english-language",
+          "oral-english",
+          "vowel-sounds",
+          "connected-speech"
+        ],
+        "learningObjectives": [
+          "identify correct pronunciation of individual words and articulation of connected speech"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-ORAL-ENGLISH",
+        "classificationConfidence": 0.8,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "3859ac52-9abc-44c5-ac82-70980e3067b2",
+      "text": "disagreement",
+      "options": {
+        "A": "disAgreement",
+        "B": "disaGREEment",
+        "C": "DISagreement",
+        "D": "disagreeMENT"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "For these questions, choose the most appropriate stress pattern from the options. The Stressed syllable are written in capital letter (s)",
+      "imageUrl": null,
+      "questionNumber": 58,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "oral-english",
+        "subtopic": "stress-intonation",
+        "difficultyScore": 1,
+        "estimatedTime": 20,
+        "tags": [
+          "english-language",
+          "oral-english",
+          "stress-intonation",
+          "connected-speech"
+        ],
+        "learningObjectives": [
+          "identify correct pronunciation of individual words and articulation of connected speech"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-ORAL-ENGLISH",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "d7a1b2ea-bf77-4d2c-b45d-82b79f53d01a",
+      "text": "The car CRUSHED him.",
+      "options": {
+        "A": "Who did the car crush?",
+        "B": "Did a car crush him?",
+        "C": "What crushed him?",
+        "D": "Did the car injure him?"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "The words in capital letters have the emphatic stress. Choose the option to which the given sentence relates.",
+      "imageUrl": null,
+      "questionNumber": 59,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "oral-english",
+        "subtopic": "vowel-sounds",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "oral-english",
+          "vowel-sounds",
+          "connected-speech"
+        ],
+        "learningObjectives": [
+          "identify correct pronunciation of individual words and articulation of connected speech"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-ORAL-ENGLISH",
+        "classificationConfidence": 0.6,
+        "needsReview": true
+      }
+    },
+    {
+      "id": "fde6d12d-db7a-4b3a-aad4-d42cb96999cc",
+      "text": "Lamide is VERY hostile?",
+      "options": {
+        "A": "Is Lamide so hostile?",
+        "B": "Is Lamide friendly?",
+        "C": "Was Lamide very hostile?",
+        "D": "Who is hostile?"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "The words in capital letters have the emphatic stress. Choose the option to which the given sentence relates.",
+      "imageUrl": null,
+      "questionNumber": 60,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "oral-english",
+        "subtopic": "question-tags",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "oral-english",
+          "question-tags",
+          "connected-speech"
+        ],
+        "learningObjectives": [
+          "identify correct pronunciation of individual words and articulation of connected speech"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-ORAL-ENGLISH",
+        "classificationConfidence": 0.8,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "315445c5-02c9-4fa3-b4c2-e319c132eb84",
+      "text": "My house is a BUNGALOW",
+      "options": {
+        "A": "Is my house a terrace ?",
+        "B": "was my house a bungalow?",
+        "C": "Is my house the bungalow?",
+        "D": "Is his house a bungalow?"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "The words in capital letters have the emphatic stress. Choose the option to which the given sentence relates.",
+      "imageUrl": null,
+      "questionNumber": 61,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "oral-english",
+        "subtopic": "question-tags",
+        "difficultyScore": 1,
+        "estimatedTime": 15,
+        "tags": [
+          "english-language",
+          "oral-english",
+          "question-tags",
+          "connected-speech"
+        ],
+        "learningObjectives": [
+          "identify correct pronunciation of individual words and articulation of connected speech"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-ORAL-ENGLISH",
+        "classificationConfidence": 0.8,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "970428bf-b4ef-4a76-8cd0-1ea79514d686",
+      "text": "Which of the following statements is true according to the passage?",
+      "options": {
+        "A": "Suspicion often stimulates inquisitiveness",
+        "B": "Every human conduct often gives rise to curiosity",
+        "C": "Our environment always inhibits curiosity",
+        "D": "Curiosity is effective where there is no room for it"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "Read the passage carefully and answer the question that follows. <br><br>\nCuriosity is as clear and definite as any of our urges. We wonder what is in a sealed telegram or in a letter which someone else is absorbed or what is being said in the telephone booth or in low conversation. This inquisitiveness is vastly stimulated by jealousy. Suspicion or any hint that we ourselves are directly or indirectly involved in. But there appears to be a fair amount of personal interest in other people's affairs even when they do not concern us except as a mystery to be unravelled or a tale to be told. The reports of a divorce suit will have news 'value' for many weeks, They constitute a story like a novel, a play or a moving picture. This is not an example of pure curiosity. However, since we readily identify ourselves with others' their joys and despair then become our own concern.  <br><br>\n\nAdapted from Harris, W. and L.G Wilson (1963) The University Handbook,New York: Holt Rinehart and Winston",
+      "imageUrl": null,
+      "questionNumber": 62,
+      "country": "NG",
+      "category": "passage-a",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": true,
+      "metadata": {
+        "topic": "comprehension",
+        "subtopic": "reading-comprehension",
+        "difficultyScore": 4,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "comprehension",
+          "reading-comprehension",
+          "writers-intention-mood-attitude-opinion"
+        ],
+        "learningObjectives": [
+          "deduce or infer the writers’ intentions including mood, attitude to the subject matter and opinion"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-COMPREHENSION",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "dabb7cbc-79aa-430b-8c4c-c15ff1d4db91",
+      "text": "The word absorbed as used in the passage, means",
+      "options": {
+        "A": "disturbed",
+        "B": "engrossed",
+        "C": "covered",
+        "D": "entailed"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "Read the passage carefully and answer the question that follows. <br><br>\nCuriosity is as clear and definite as any of our urges. We wonder what is in a sealed telegram or in a letter which someone else is absorbed or what is being said in the telephone booth or in low conversation. This inquisitiveness is vastly stimulated by jealousy. Suspicion or any hint that we ourselves are directly or indirectly involved in. But there appears to be a fair amount of personal interest in other people's affairs even when they do not concern us except as a mystery to be unravelled or a tale to be told. The reports of a divorce suit will have news 'value' for many weeks, They constitute a story like a novel, a play or a moving picture. This is not an example of pure curiosity. However, since we readily identify ourselves with others' their joys and despair then become our own concern.  <br><br>\n\nAdapted from Harris, W. and L.G Wilson (1963) The University Handbook,New York: Holt Rinehart and Winston",
+      "imageUrl": null,
+      "questionNumber": 63,
+      "country": "NG",
+      "category": "passage-a",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": true,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 4,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "bfddbc67-db69-44d7-a4a3-0805c55f2a7f",
+      "text": "From the passage, it can be deduced that curiosity thrives",
+      "options": {
+        "A": "through conducts that are inimical to our activities",
+        "B": "if we are able to probe into what others are thinking",
+        "C": "only if we become suspicious of people's motives",
+        "D": "if the subject of discussion is of interest to us"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "Read the passage carefully and answer the question that follows. <br><br>\nCuriosity is as clear and definite as any of our urges. We wonder what is in a sealed telegram or in a letter which someone else is absorbed or what is being said in the telephone booth or in low conversation. This inquisitiveness is vastly stimulated by jealousy. Suspicion or any hint that we ourselves are directly or indirectly involved in. But there appears to be a fair amount of personal interest in other people's affairs even when they do not concern us except as a mystery to be unravelled or a tale to be told. The reports of a divorce suit will have news 'value' for many weeks, They constitute a story like a novel, a play or a moving picture. This is not an example of pure curiosity. However, since we readily identify ourselves with others' their joys and despair then become our own concern.  <br><br>\n\nAdapted from Harris, W. and L.G Wilson (1963) The University Handbook,New York: Holt Rinehart and Winston",
+      "imageUrl": null,
+      "questionNumber": 64,
+      "country": "NG",
+      "category": "passage-a",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": true,
+      "metadata": {
+        "topic": "comprehension",
+        "subtopic": "implied-meaning",
+        "difficultyScore": 4,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "comprehension",
+          "implied-meaning",
+          "writers-intention-mood-attitude-opinion"
+        ],
+        "learningObjectives": [
+          "deduce or infer the writers’ intentions including mood, attitude to the subject matter and opinion"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-COMPREHENSION",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "a8348171-74dd-4492-a414-0ca1e47225dd",
+      "text": "The author seems to suggest that curiosity is",
+      "options": {
+        "A": "misleading",
+        "B": "inborn",
+        "C": "learned",
+        "D": "acquired"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "Read the passage carefully and answer the question that follows. <br><br>\nCuriosity is as clear and definite as any of our urges. We wonder what is in a sealed telegram or in a letter which someone else is absorbed or what is being said in the telephone booth or in low conversation. This inquisitiveness is vastly stimulated by jealousy. Suspicion or any hint that we ourselves are directly or indirectly involved in. But there appears to be a fair amount of personal interest in other people's affairs even when they do not concern us except as a mystery to be unravelled or a tale to be told. The reports of a divorce suit will have news 'value' for many weeks, They constitute a story like a novel, a play or a moving picture. This is not an example of pure curiosity. However, since we readily identify ourselves with others' their joys and despair then become our own concern.  <br><br>\n\nAdapted from Harris, W. and L.G Wilson (1963) The University Handbook,New York: Holt Rinehart and Winston",
+      "imageUrl": null,
+      "questionNumber": 65,
+      "country": "NG",
+      "category": "passage-a",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": true,
+      "metadata": {
+        "topic": "comprehension",
+        "subtopic": "implied-meaning",
+        "difficultyScore": 4,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "comprehension",
+          "implied-meaning",
+          "writers-intention-mood-attitude-opinion"
+        ],
+        "learningObjectives": [
+          "deduce or infer the writers’ intentions including mood, attitude to the subject matter and opinion"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-COMPREHENSION",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "66c37149-2494-4079-804f-cb854b637cdd",
+      "text": "Choose the most appropriate option for the gap labelled [....11.....] above",
+      "options": {
+        "A": "agitators",
+        "B": "witnesses",
+        "C": "congregations",
+        "D": "spectators"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "Boxing is sometimes called' the noble art of self defence'. According to some people, boxing appeals to the lowest instincts in the ....11....who have come to watch blood flow and their fellow human suffer Boxers who are medically fit appear in the ....12.... The referee sometimes allows the .....13... to go on for long so that one of the ...14... is reduced to a human punch bag.It may happen that the boxers are not well ...15... one being much stronger than the other, as a result of which he so much .....16... his opponent that he wins ....17.... Many boxers have suffered permanent brain.....18... in the ....19.... of punches that have been thrown at them during their....20....",
+      "imageUrl": null,
+      "questionNumber": 66,
+      "country": "NG",
+      "category": "register",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": true,
+      "metadata": {
+        "topic": "comprehension",
+        "subtopic": "vocabulary-in-context",
+        "difficultyScore": 3,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "comprehension",
+          "vocabulary-in-context",
+          "writers-intention-mood-attitude-opinion"
+        ],
+        "learningObjectives": [
+          "deduce or infer the writers’ intentions including mood, attitude to the subject matter and opinion"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-COMPREHENSION",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "bb53fc57-cb48-4418-8cef-9c135fcc014c",
+      "text": "Choose the most appropriate option for the gap labelled [....12.....] above",
+      "options": {
+        "A": "stage",
+        "B": "circle",
+        "C": "track",
+        "D": "ring"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "Boxing is sometimes called' the noble art of self defence'. According to some people, boxing appeals to the lowest instincts in the ....11....who have come to watch blood flow and their fellow human suffer Boxers who are medically fit appear in the ....12.... The referee sometimes allows the .....13... to go on for long so that one of the ...14... is reduced to a human punch bag.It may happen that the boxers are not well ...15... one being much stronger than the other, as a result of which he so much .....16... his opponent that he wins ....17.... Many boxers have suffered permanent brain.....18... in the ....19.... of punches that have been thrown at them during their....20....",
+      "imageUrl": null,
+      "questionNumber": 67,
+      "country": "NG",
+      "category": "register",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": true,
+      "metadata": {
+        "topic": "comprehension",
+        "subtopic": "vocabulary-in-context",
+        "difficultyScore": 3,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "comprehension",
+          "vocabulary-in-context",
+          "writers-intention-mood-attitude-opinion"
+        ],
+        "learningObjectives": [
+          "deduce or infer the writers’ intentions including mood, attitude to the subject matter and opinion"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-COMPREHENSION",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "3c375b71-a005-4af2-a071-2fb7e9244ab6",
+      "text": "Choose the most appropriate option for the gap labelled [....13.....] above",
+      "options": {
+        "A": "bout",
+        "B": "match",
+        "C": "performance",
+        "D": "contest"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "Boxing is sometimes called' the noble art of self defence'. According to some people, boxing appeals to the lowest instincts in the ....11....who have come to watch blood flow and their fellow human suffer Boxers who are medically fit appear in the ....12.... The referee sometimes allows the .....13... to go on for long so that one of the ...14... is reduced to a human punch bag.It may happen that the boxers are not well ...15... one being much stronger than the other, as a result of which he so much .....16... his opponent that he wins ....17.... Many boxers have suffered permanent brain.....18... in the ....19.... of punches that have been thrown at them during their....20....",
+      "imageUrl": null,
+      "questionNumber": 68,
+      "country": "NG",
+      "category": "register",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": true,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 3,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "c09dea2c-0ee0-43dd-a59c-b959ed2684a3",
+      "text": "Choose the most appropriate option for the gap labelled [....14.....] above",
+      "options": {
+        "A": "assailants",
+        "B": "disputants",
+        "C": "contestants",
+        "D": "brawlers"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "Boxing is sometimes called' the noble art of self defence'. According to some people, boxing appeals to the lowest instincts in the ....11....who have come to watch blood flow and their fellow human suffer Boxers who are medically fit appear in the ....12.... The referee sometimes allows the .....13... to go on for long so that one of the ...14... is reduced to a human punch bag.It may happen that the boxers are not well ...15... one being much stronger than the other, as a result of which he so much .....16... his opponent that he wins ....17.... Many boxers have suffered permanent brain.....18... in the ....19.... of punches that have been thrown at them during their....20....",
+      "imageUrl": null,
+      "questionNumber": 69,
+      "country": "NG",
+      "category": "register",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": true,
+      "metadata": {
+        "topic": "comprehension",
+        "subtopic": "vocabulary-in-context",
+        "difficultyScore": 3,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "comprehension",
+          "vocabulary-in-context",
+          "writers-intention-mood-attitude-opinion"
+        ],
+        "learningObjectives": [
+          "deduce or infer the writers’ intentions including mood, attitude to the subject matter and opinion"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-COMPREHENSION",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "570a6a89-185b-4d78-a654-84d0444f16a3",
+      "text": "Choose the most appropriate option for the gap labelled [....15.....] above",
+      "options": {
+        "A": "levelled",
+        "B": "groomed",
+        "C": "sparred",
+        "D": "staged"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "Boxing is sometimes called' the noble art of self defence'. According to some people, boxing appeals to the lowest instincts in the ....11....who have come to watch blood flow and their fellow human suffer Boxers who are medically fit appear in the ....12.... The referee sometimes allows the .....13... to go on for long so that one of the ...14... is reduced to a human punch bag.It may happen that the boxers are not well ...15... one being much stronger than the other, as a result of which he so much .....16... his opponent that he wins ....17.... Many boxers have suffered permanent brain.....18... in the ....19.... of punches that have been thrown at them during their....20....",
+      "imageUrl": null,
+      "questionNumber": 70,
+      "country": "NG",
+      "category": "register",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": true,
+      "metadata": {
+        "topic": "comprehension",
+        "subtopic": "vocabulary-in-context",
+        "difficultyScore": 4,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "comprehension",
+          "vocabulary-in-context",
+          "writers-intention-mood-attitude-opinion"
+        ],
+        "learningObjectives": [
+          "deduce or infer the writers’ intentions including mood, attitude to the subject matter and opinion"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-COMPREHENSION",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "727d26e0-8e0d-4b3d-8bec-2d126424f494",
+      "text": "Choose the most appropriate option for the gap labelled [....16.....] above",
+      "options": {
+        "A": "underrates",
+        "B": "overrates",
+        "C": "outclassess",
+        "D": "outfits"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "Boxing is sometimes called' the noble art of self defence'. According to some people, boxing appeals to the lowest instincts in the ....11....who have come to watch blood flow and their fellow human suffer Boxers who are medically fit appear in the ....12.... The referee sometimes allows the .....13... to go on for long so that one of the ...14... is reduced to a human punch bag.It may happen that the boxers are not well ...15... one being much stronger than the other, as a result of which he so much .....16... his opponent that he wins ....17.... Many boxers have suffered permanent brain.....18... in the ....19.... of punches that have been thrown at them during their....20....",
+      "imageUrl": null,
+      "questionNumber": 71,
+      "country": "NG",
+      "category": "register",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": true,
+      "metadata": {
+        "topic": "comprehension",
+        "subtopic": "vocabulary-in-context",
+        "difficultyScore": 4,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "comprehension",
+          "vocabulary-in-context",
+          "writers-intention-mood-attitude-opinion"
+        ],
+        "learningObjectives": [
+          "deduce or infer the writers’ intentions including mood, attitude to the subject matter and opinion"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-COMPREHENSION",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "eb583e5f-c7e8-47f7-ae84-84e868bb5fd1",
+      "text": "Choose the most appropriate option for the gap labelled [....17.....] above",
+      "options": {
+        "A": "by knock-out",
+        "B": "by a knock down",
+        "C": "by a punch-up",
+        "D": "by a punch down"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "Boxing is sometimes called' the noble art of self defence'. According to some people, boxing appeals to the lowest instincts in the ....11....who have come to watch blood flow and their fellow human suffer Boxers who are medically fit appear in the ....12.... The referee sometimes allows the .....13... to go on for long so that one of the ...14... is reduced to a human punch bag.It may happen that the boxers are not well ...15... one being much stronger than the other, as a result of which he so much .....16... his opponent that he wins ....17.... Many boxers have suffered permanent brain.....18... in the ....19.... of punches that have been thrown at them during their....20....",
+      "imageUrl": null,
+      "questionNumber": 72,
+      "country": "NG",
+      "category": "register",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": true,
+      "metadata": {
+        "topic": "comprehension",
+        "subtopic": "vocabulary-in-context",
+        "difficultyScore": 3,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "comprehension",
+          "vocabulary-in-context",
+          "writers-intention-mood-attitude-opinion"
+        ],
+        "learningObjectives": [
+          "deduce or infer the writers’ intentions including mood, attitude to the subject matter and opinion"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-COMPREHENSION",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "dbbc3da3-fba0-4e88-931b-f8cf63264191",
+      "text": "Choose the most appropriate option for the gap labelled [....18.....] above",
+      "options": {
+        "A": "drain",
+        "B": "fatigue",
+        "C": "damage",
+        "D": "sprain"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "Boxing is sometimes called' the noble art of self defence'. According to some people, boxing appeals to the lowest instincts in the ....11....who have come to watch blood flow and their fellow human suffer Boxers who are medically fit appear in the ....12.... The referee sometimes allows the .....13... to go on for long so that one of the ...14... is reduced to a human punch bag.It may happen that the boxers are not well ...15... one being much stronger than the other, as a result of which he so much .....16... his opponent that he wins ....17.... Many boxers have suffered permanent brain.....18... in the ....19.... of punches that have been thrown at them during their....20....",
+      "imageUrl": null,
+      "questionNumber": 73,
+      "country": "NG",
+      "category": "register",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": true,
+      "metadata": {
+        "topic": "comprehension",
+        "subtopic": "vocabulary-in-context",
+        "difficultyScore": 3,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "comprehension",
+          "vocabulary-in-context",
+          "writers-intention-mood-attitude-opinion"
+        ],
+        "learningObjectives": [
+          "deduce or infer the writers’ intentions including mood, attitude to the subject matter and opinion"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-COMPREHENSION",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "e548a204-e8ff-486a-b53f-c98d4c13b4b2",
+      "text": "Choose the most appropriate option for the gap labelled [....19.....] above",
+      "options": {
+        "A": "barrage",
+        "B": "clutter",
+        "C": "rattle",
+        "D": "racket"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "Boxing is sometimes called' the noble art of self defence'. According to some people, boxing appeals to the lowest instincts in the ....11....who have come to watch blood flow and their fellow human suffer Boxers who are medically fit appear in the ....12.... The referee sometimes allows the .....13... to go on for long so that one of the ...14... is reduced to a human punch bag.It may happen that the boxers are not well ...15... one being much stronger than the other, as a result of which he so much .....16... his opponent that he wins ....17.... Many boxers have suffered permanent brain.....18... in the ....19.... of punches that have been thrown at them during their....20....",
+      "imageUrl": null,
+      "questionNumber": 74,
+      "country": "NG",
+      "category": "register",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": true,
+      "metadata": {
+        "topic": "comprehension",
+        "subtopic": "vocabulary-in-context",
+        "difficultyScore": 3,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "comprehension",
+          "vocabulary-in-context",
+          "writers-intention-mood-attitude-opinion"
+        ],
+        "learningObjectives": [
+          "deduce or infer the writers’ intentions including mood, attitude to the subject matter and opinion"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-COMPREHENSION",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "6e9b089c-c09e-42ba-9274-6bce784b7458",
+      "text": "Choose the most appropriate option for the gap labelled [....20.....] above",
+      "options": {
+        "A": "career",
+        "B": "calling",
+        "C": "vacation",
+        "D": "routine"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2016,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "Boxing is sometimes called' the noble art of self defence'. According to some people, boxing appeals to the lowest instincts in the ....11....who have come to watch blood flow and their fellow human suffer Boxers who are medically fit appear in the ....12.... The referee sometimes allows the .....13... to go on for long so that one of the ...14... is reduced to a human punch bag.It may happen that the boxers are not well ...15... one being much stronger than the other, as a result of which he so much .....16... his opponent that he wins ....17.... Many boxers have suffered permanent brain.....18... in the ....19.... of punches that have been thrown at them during their....20....",
+      "imageUrl": null,
+      "questionNumber": 75,
+      "country": "NG",
+      "category": "register",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": true,
+      "metadata": {
+        "topic": "comprehension",
+        "subtopic": "vocabulary-in-context",
+        "difficultyScore": 3,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "comprehension",
+          "vocabulary-in-context",
+          "writers-intention-mood-attitude-opinion"
+        ],
+        "learningObjectives": [
+          "deduce or infer the writers’ intentions including mood, attitude to the subject matter and opinion"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-COMPREHENSION",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    }
+  ]
+}

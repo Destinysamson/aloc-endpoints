@@ -1,0 +1,4158 @@
+{
+  "exam": "JAMB",
+  "subject": "english-language",
+  "year": 2018,
+  "source": "ALOC",
+  "contentSource": "historical",
+  "questionCount": 79,
+  "questions": [
+    {
+      "id": "b07a01a4-8edf-4502-a545-b90b10f323ea",
+      "text": "According to this passage, it gives the child great pleasure",
+      "options": {
+        "A": "for Daddy to see the tower he has built",
+        "B": "to destroy the tower himself",
+        "C": "to see his tower accidentally destroyed",
+        "D": "to be helped to destroy the tower"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "In order to approach the problem of anxiety in play, let us consider the problem of anxiety in play, let us consider the activity of building and destroying a tower. Many a mother thinks that her little son is in a 'destructive stage' or even has a 'destructive personality' because after building a big, big tower, the boy cannot follow her advice to leave the tower for Daddy to see, but instead must kick it and make it collapse. The almost manic pleasure with which children watch the collapse in a second of the product of long play-labour has puzzled many, especially since the child does not appreciate it at all if his tower falls by accident or by a helpful uncle’s hand. He, the builder, must destroy it himself. This game, I should think, arises from the not so distant experience of sudden falls at the very time when standing upright on wobbly legs afforded a new and fascinating perspective on existence. The child who consequently learns to make a tower 'stand up' enjoys causing the same tower to waver and collapse; in addition to the active mastery over a previously passive event, it makes one feel stronger to know that there is somebody weaker ---- and towers, unlike little sister, can't cry and call, 'Mummy!'",
+      "imageUrl": null,
+      "questionNumber": 1,
+      "country": "NG",
+      "category": "passage-a",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": true,
+      "metadata": {
+        "topic": "comprehension",
+        "subtopic": "reading-comprehension",
+        "difficultyScore": 4,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "comprehension",
+          "reading-comprehension",
+          "writers-intention-mood-attitude-opinion"
+        ],
+        "learningObjectives": [
+          "deduce or infer the writers’ intentions including mood, attitude to the subject matter and opinion"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-COMPREHENSION",
+        "classificationConfidence": 0.9,
+        "needsReview": true
+      }
+    },
+    {
+      "id": "4b594115-fbd0-41c5-a209-3a7b103721dd",
+      "text": "What other feeling does the child derive from the fall of his tower apart from pleasure?",
+      "options": {
+        "A": "Strength",
+        "B": "Anxiety",
+        "C": "Pity",
+        "D": "Depression"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "In order to approach the problem of anxiety in play, let us consider the problem of anxiety in play, let us consider the activity of building and destroying a tower. Many a mother thinks that her little son is in a 'destructive stage' or even has a 'destructive personality' because after building a big, big tower, the boy cannot follow her advice to leave the tower for Daddy to see, but instead must kick it and make it collapse. The almost manic pleasure with which children watch the collapse in a second of the product of long play-labour has puzzled many, especially since the child does not appreciate it at all if his tower falls by accident or by a helpful uncle’s hand. He, the builder, must destroy it himself. This game, I should think, arises from the not so distant experience of sudden falls at the very time when standing upright on wobbly legs afforded a new and fascinating perspective on existence. The child who consequently learns to make a tower 'stand up' enjoys causing the same tower to waver and collapse; in addition to the active mastery over a previously passive event, it makes one feel stronger to know that there is somebody weaker ---- and towers, unlike little sister, can't cry and call, 'Mummy!'",
+      "imageUrl": null,
+      "questionNumber": 2,
+      "country": "NG",
+      "category": "passage-a",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": true,
+      "metadata": {
+        "topic": "prose",
+        "subtopic": null,
+        "difficultyScore": 4,
+        "estimatedTime": 60,
+        "tags": [],
+        "learningObjectives": [],
+        "curriculumAlignment": null,
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "522ddae2-01b9-467a-b18b-2313854cefa0",
+      "text": "How does the author try to explain this ‘destructive stage'?",
+      "options": {
+        "A": "It is the last stage in child development",
+        "B": "The child wants to displease his parents",
+        "C": "It grows out of the child's recent experiences of sudden falls",
+        "D": "The child is just going through a destructive stage"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "In order to approach the problem of anxiety in play, let us consider the problem of anxiety in play, let us consider the activity of building and destroying a tower. Many a mother thinks that her little son is in a 'destructive stage' or even has a 'destructive personality' because after building a big, big tower, the boy cannot follow her advice to leave the tower for Daddy to see, but instead must kick it and make it collapse. The almost manic pleasure with which children watch the collapse in a second of the product of long play-labour has puzzled many, especially since the child does not appreciate it at all if his tower falls by accident or by a helpful uncle’s hand. He, the builder, must destroy it himself. This game, I should think, arises from the not so distant experience of sudden falls at the very time when standing upright on wobbly legs afforded a new and fascinating perspective on existence. The child who consequently learns to make a tower 'stand up' enjoys causing the same tower to waver and collapse; in addition to the active mastery over a previously passive event, it makes one feel stronger to know that there is somebody weaker ---- and towers, unlike little sister, can't cry and call, 'Mummy!'",
+      "imageUrl": null,
+      "questionNumber": 3,
+      "country": "NG",
+      "category": "passage-a",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": true,
+      "metadata": {
+        "topic": "comprehension",
+        "subtopic": "reading-comprehension",
+        "difficultyScore": 4,
+        "estimatedTime": 120,
+        "tags": [
+          "english-language",
+          "comprehension",
+          "reading-comprehension",
+          "writers-intention-mood-attitude-opinion"
+        ],
+        "learningObjectives": [
+          "deduce or infer the writers’ intentions including mood, attitude to the subject matter and opinion"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-COMPREHENSION",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "417f29c3-e257-4b36-bb02-e234bb93416f",
+      "text": "The expression 'must kick it and make it collapse' in this context means",
+      "options": {
+        "A": "is forced to kick it and demolish it",
+        "B": "is obliged to kick it and make it collapse",
+        "C": "cannot resist the urge to demolish it",
+        "D": "ought to kick it and make it collapse"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "In order to approach the problem of anxiety in play, let us consider the problem of anxiety in play, let us consider the activity of building and destroying a tower. Many a mother thinks that her little son is in a 'destructive stage' or even has a 'destructive personality' because after building a big, big tower, the boy cannot follow her advice to leave the tower for Daddy to see, but instead must kick it and make it collapse. The almost manic pleasure with which children watch the collapse in a second of the product of long play-labour has puzzled many, especially since the child does not appreciate it at all if his tower falls by accident or by a helpful uncle’s hand. He, the builder, must destroy it himself. This game, I should think, arises from the not so distant experience of sudden falls at the very time when standing upright on wobbly legs afforded a new and fascinating perspective on existence. The child who consequently learns to make a tower 'stand up' enjoys causing the same tower to waver and collapse; in addition to the active mastery over a previously passive event, it makes one feel stronger to know that there is somebody weaker ---- and towers, unlike little sister, can't cry and call, 'Mummy!'",
+      "imageUrl": null,
+      "questionNumber": 4,
+      "country": "NG",
+      "category": "passage-a",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": true,
+      "metadata": {
+        "topic": "comprehension",
+        "subtopic": "vocabulary-in-context",
+        "difficultyScore": 4,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "comprehension",
+          "vocabulary-in-context",
+          "writers-intention-mood-attitude-opinion"
+        ],
+        "learningObjectives": [
+          "deduce or infer the writers’ intentions including mood, attitude to the subject matter and opinion"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-COMPREHENSION",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "91a57fb0-5173-42b6-ac20-03df9bb33a65",
+      "text": "In the passage 'manic pleasure' means",
+      "options": {
+        "A": "pleasure",
+        "B": "childish pleasure",
+        "C": "unlimited pleasure",
+        "D": "human pleasure"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "In order to approach the problem of anxiety in play, let us consider the problem of anxiety in play, let us consider the activity of building and destroying a tower. Many a mother thinks that her little son is in a 'destructive stage' or even has a 'destructive personality' because after building a big, big tower, the boy cannot follow her advice to leave the tower for Daddy to see, but instead must kick it and make it collapse. The almost manic pleasure with which children watch the collapse in a second of the product of long play-labour has puzzled many, especially since the child does not appreciate it at all if his tower falls by accident or by a helpful uncle’s hand. He, the builder, must destroy it himself. This game, I should think, arises from the not so distant experience of sudden falls at the very time when standing upright on wobbly legs afforded a new and fascinating perspective on existence. The child who consequently learns to make a tower 'stand up' enjoys causing the same tower to waver and collapse; in addition to the active mastery over a previously passive event, it makes one feel stronger to know that there is somebody weaker ---- and towers, unlike little sister, can't cry and call, 'Mummy!'",
+      "imageUrl": null,
+      "questionNumber": 5,
+      "country": "NG",
+      "category": "passage-a",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": true,
+      "metadata": {
+        "topic": "comprehension",
+        "subtopic": "vocabulary-in-context",
+        "difficultyScore": 4,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "comprehension",
+          "vocabulary-in-context",
+          "writers-intention-mood-attitude-opinion"
+        ],
+        "learningObjectives": [
+          "deduce or infer the writers’ intentions including mood, attitude to the subject matter and opinion"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-COMPREHENSION",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "eb83b87f-d014-44c9-8841-fe7bc291a24b",
+      "text": "From the way the story ended, it can be concluded that the",
+      "options": {
+        "A": "lamb did not survive the encounter",
+        "B": "wolf and the lamb parted amicably",
+        "C": "wolf had encountered the lamb's parents",
+        "D": "lamb offended the wolf quite seriously"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "A wolf, seeing a lamb drinking from a river, wanted to find a pretext for devouring him, He stood higher up the stream and accused the lamb of muddying the water so that he could not drink. The lamb said that he drank only the tip of his tongue and that in any case he was standing lower down the river, and could not possible disturb the water higher When this excuse failed him, the wolf said: 'Well, last year you insulted my father.' \"I wasn't even born then replied the lamb.’You are good at finding answer' said the wolf, 'but what do you mean by taking up so much of the path where I am walking?' The lamb, frightened at the wolf's angry tone and terrible aspect, told him, with all due submission, that he could not conceive how his walking on such a wide path could occasion him any inconvenience. 'What!' exclaimed the wolf, seemingly in great anger and indignation. <br><br>\n'You are as impudent as your father who seized me by the throat last year and caused me to be kept in a cage for three months'. 'If you will believe me,' said the lamb, 'my parents are poor simple creatures who live entirely by green stuff, we are none of us hunters of your species.' Ah! I see it's no use talking to you,' said the wolf, drawing up close to him. 'it runs in the blood of your family to hate us wolves, and therefore, as we have come so conveniently together, I'll just pay off a few of your forefathers scores before we part.' So saying, he leapt at the lamb from behind and garotted him. Adapted from Bennet. C.H(1978)",
+      "imageUrl": null,
+      "questionNumber": 6,
+      "country": "NG",
+      "category": "passage-b",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": true,
+      "metadata": {
+        "topic": "prose",
+        "subtopic": null,
+        "difficultyScore": 4,
+        "estimatedTime": 60,
+        "tags": [],
+        "learningObjectives": [],
+        "curriculumAlignment": null,
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "41b35bdb-6cc4-4e69-82dc-2566689ed012",
+      "text": "The expression 'when this excuse failed him' suggests that the",
+      "options": {
+        "A": "wolf only made up the charges levelled against the lamb",
+        "B": "lamb was more intelligent than the wolf",
+        "C": "lamb was prepared for the charges levelled against him",
+        "D": "wolf was uncertain of the charges levelled against the lamb"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "A wolf, seeing a lamb drinking from a river, wanted to find a pretext for devouring him, He stood higher up the stream and accused the lamb of muddying the water so that he could not drink. The lamb said that he drank only the tip of his tongue and that in any case he was standing lower down the river, and could not possible disturb the water higher When this excuse failed him, the wolf said: 'Well, last year you insulted my father.' \"I wasn't even born then replied the lamb.’You are good at finding answer' said the wolf, 'but what do you mean by taking up so much of the path where I am walking?' The lamb, frightened at the wolf's angry tone and terrible aspect, told him, with all due submission, that he could not conceive how his walking on such a wide path could occasion him any inconvenience. 'What!' exclaimed the wolf, seemingly in great anger and indignation. <br><br>\n'You are as impudent as your father who seized me by the throat last year and caused me to be kept in a cage for three months'. 'If you will believe me,' said the lamb, 'my parents are poor simple creatures who live entirely by green stuff, we are none of us hunters of your species.' Ah! I see it's no use talking to you,' said the wolf, drawing up close to him. 'it runs in the blood of your family to hate us wolves, and therefore, as we have come so conveniently together, I'll just pay off a few of your forefathers scores before we part.' So saying, he leapt at the lamb from behind and garotted him. Adapted from Bennet. C.H(1978)",
+      "imageUrl": null,
+      "questionNumber": 7,
+      "country": "NG",
+      "category": "passage-b",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": true,
+      "metadata": {
+        "topic": "prose",
+        "subtopic": null,
+        "difficultyScore": 4,
+        "estimatedTime": 60,
+        "tags": [],
+        "learningObjectives": [],
+        "curriculumAlignment": null,
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "6391e3d5-69a3-40e8-895b-96ee19712c12",
+      "text": "The charges levelled against the lamb are",
+      "options": {
+        "A": "wandering, insolence and disrespect",
+        "B": "exuberance, pollution, wickedness and stubbornness",
+        "C": "garrulity, loquacity, pride and arrogance",
+        "D": "pollution, insolence, obstruction and aggression"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "A wolf, seeing a lamb drinking from a river, wanted to find a pretext for devouring him, He stood higher up the stream and accused the lamb of muddying the water so that he could not drink. The lamb said that he drank only the tip of his tongue and that in any case he was standing lower down the river, and could not possible disturb the water higher When this excuse failed him, the wolf said: 'Well, last year you insulted my father.' \"I wasn't even born then replied the lamb.’You are good at finding answer' said the wolf, 'but what do you mean by taking up so much of the path where I am walking?' The lamb, frightened at the wolf's angry tone and terrible aspect, told him, with all due submission, that he could not conceive how his walking on such a wide path could occasion him any inconvenience. 'What!' exclaimed the wolf, seemingly in great anger and indignation. <br><br>\n'You are as impudent as your father who seized me by the throat last year and caused me to be kept in a cage for three months'. 'If you will believe me,' said the lamb, 'my parents are poor simple creatures who live entirely by green stuff, we are none of us hunters of your species.' Ah! I see it's no use talking to you,' said the wolf, drawing up close to him. 'it runs in the blood of your family to hate us wolves, and therefore, as we have come so conveniently together, I'll just pay off a few of your forefathers scores before we part.' So saying, he leapt at the lamb from behind and garotted him. Adapted from Bennet. C.H(1978)",
+      "imageUrl": null,
+      "questionNumber": 8,
+      "country": "NG",
+      "category": "passage-b",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": true,
+      "metadata": {
+        "topic": "comprehension",
+        "subtopic": "implied-meaning",
+        "difficultyScore": 4,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "comprehension",
+          "implied-meaning",
+          "writers-intention-mood-attitude-opinion"
+        ],
+        "learningObjectives": [
+          "deduce or infer the writers’ intentions including mood, attitude to the subject matter and opinion"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-COMPREHENSION",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "b3e96ff3-2b49-4de2-9f00-60c06d9d71fb",
+      "text": "The expression angry tone and terrible aspect refers to the wolf’s",
+      "options": {
+        "A": "sonorous voice and overbearing attitude",
+        "B": "towering size and thunderous voice",
+        "C": "loud voice and fretting movement",
+        "D": "harsh voice and menacing posture"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "A wolf, seeing a lamb drinking from a river, wanted to find a pretext for devouring him, He stood higher up the stream and accused the lamb of muddying the water so that he could not drink. The lamb said that he drank only the tip of his tongue and that in any case he was standing lower down the river, and could not possible disturb the water higher When this excuse failed him, the wolf said: 'Well, last year you insulted my father.' \"I wasn't even born then replied the lamb.’You are good at finding answer' said the wolf, 'but what do you mean by taking up so much of the path where I am walking?' The lamb, frightened at the wolf's angry tone and terrible aspect, told him, with all due submission, that he could not conceive how his walking on such a wide path could occasion him any inconvenience. 'What!' exclaimed the wolf, seemingly in great anger and indignation. <br><br>\n'You are as impudent as your father who seized me by the throat last year and caused me to be kept in a cage for three months'. 'If you will believe me,' said the lamb, 'my parents are poor simple creatures who live entirely by green stuff, we are none of us hunters of your species.' Ah! I see it's no use talking to you,' said the wolf, drawing up close to him. 'it runs in the blood of your family to hate us wolves, and therefore, as we have come so conveniently together, I'll just pay off a few of your forefathers scores before we part.' So saying, he leapt at the lamb from behind and garotted him. Adapted from Bennet. C.H(1978)",
+      "imageUrl": null,
+      "questionNumber": 9,
+      "country": "NG",
+      "category": "passage-b",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": true,
+      "metadata": {
+        "topic": "poetry",
+        "subtopic": null,
+        "difficultyScore": 4,
+        "estimatedTime": 60,
+        "tags": [],
+        "learningObjectives": [],
+        "curriculumAlignment": null,
+        "classificationConfidence": 0.8,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "52f7809c-9038-4327-b8de-8f199f7f8225",
+      "text": "Which of the following aptly describes the moral of the story?",
+      "options": {
+        "A": "the sins of the forefathers are visited upon the children no matter how long it takes",
+        "B": "if you have made up your mind to hang your dog, any rope will do for the purpose",
+        "C": "the law is weak in defence of the poor against the rich and mighty",
+        "D": "no matter how highly placed he is in society, the unmindful lawbreaker will always meet his nemesis."
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "A wolf, seeing a lamb drinking from a river, wanted to find a pretext for devouring him, He stood higher up the stream and accused the lamb of muddying the water so that he could not drink. The lamb said that he drank only the tip of his tongue and that in any case he was standing lower down the river, and could not possible disturb the water higher When this excuse failed him, the wolf said: 'Well, last year you insulted my father.' \"I wasn't even born then replied the lamb.’You are good at finding answer' said the wolf, 'but what do you mean by taking up so much of the path where I am walking?' The lamb, frightened at the wolf's angry tone and terrible aspect, told him, with all due submission, that he could not conceive how his walking on such a wide path could occasion him any inconvenience. 'What!' exclaimed the wolf, seemingly in great anger and indignation. <br><br>\n'You are as impudent as your father who seized me by the throat last year and caused me to be kept in a cage for three months'. 'If you will believe me,' said the lamb, 'my parents are poor simple creatures who live entirely by green stuff, we are none of us hunters of your species.' Ah! I see it's no use talking to you,' said the wolf, drawing up close to him. 'it runs in the blood of your family to hate us wolves, and therefore, as we have come so conveniently together, I'll just pay off a few of your forefathers scores before we part.' So saying, he leapt at the lamb from behind and garotted him. Adapted from Bennet. C.H(1978)",
+      "imageUrl": null,
+      "questionNumber": 10,
+      "country": "NG",
+      "category": "passage-b",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": true,
+      "metadata": {
+        "topic": "prose",
+        "subtopic": null,
+        "difficultyScore": 4,
+        "estimatedTime": 60,
+        "tags": [],
+        "learningObjectives": [],
+        "curriculumAlignment": null,
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "61bf7861-5618-49dd-a2c5-1b91ccc310b7",
+      "text": "Choose the option that best completes the gap, I'll find time for my _________ when I get _________with this difficult assignment.",
+      "options": {
+        "A": "past-time/over",
+        "B": "pass-time/over",
+        "C": "passtime/through",
+        "D": "pastime/through"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 11,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "c33d9286-9792-4892-bdab-2d00437938ff",
+      "text": "After so many trials, the experiment __________",
+      "options": {
+        "A": "paid up",
+        "B": "paid for",
+        "C": "paid out",
+        "D": "paid off"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 12,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "1f403f6f-96a5-4df8-be8a-c69b61b6edef",
+      "text": "Choose the option that best completes the gap. The chairman refused to shake __________ with the secretary",
+      "options": {
+        "A": "hand",
+        "B": "his hand",
+        "C": "hands",
+        "D": "his hands"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 13,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "grammar",
+        "subtopic": "parts-of-speech",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "grammar",
+          "parts-of-speech",
+          "word-classes-and-functions"
+        ],
+        "learningObjectives": [
+          "identify various grammatical patterns in use"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-GRAMMAR",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "89fe3a9b-f7d6-4abb-b34b-a762f99844e5",
+      "text": "Choose the option that best completes the gap. Wherever the leader went people struggled to catch a __________ of him",
+      "options": {
+        "A": "glimpse",
+        "B": "look",
+        "C": "view",
+        "D": "picture"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 14,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "b235bd40-25da-4362-882a-f44f73eb5a37",
+      "text": "Choose the option that best completes the gap. Mrs. Okoro __________ in this school since 1975",
+      "options": {
+        "A": "taught",
+        "B": "has been teaching",
+        "C": "was teaching",
+        "D": "is teaching"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 15,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "grammar",
+        "subtopic": "tenses-aspect",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "grammar",
+          "tenses-aspect",
+          "word-classes-and-functions"
+        ],
+        "learningObjectives": [
+          "identify various grammatical patterns in use"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-GRAMMAR",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "40cc3f73-1af9-4b06-85b3-943b7f9c9814",
+      "text": "Choose the option that best completes the gap.  I was seriously disappointed when the __________ between the two teams ended in a goalless draw",
+      "options": {
+        "A": "march",
+        "B": "marsh",
+        "C": "match",
+        "D": "martch"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 16,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 2,
+        "estimatedTime": 20,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "dd49a4e2-9d22-49c0-b14b-b08af1b3f01f",
+      "text": "Choose the option that best completes the gap. The young man looked carefully at the long document, but he couldn't make __________ what it meant",
+      "options": {
+        "A": "up",
+        "B": "out",
+        "C": "off",
+        "D": "through"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 17,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "2d8c084d-e253-4ff9-bdb2-a988aeb869f3",
+      "text": "Choose the option that best completes the gap. While the worshippers closed their eyes in prayer, a thief made __________ with the collection",
+      "options": {
+        "A": "away",
+        "B": "up",
+        "C": "by",
+        "D": "through"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 18,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "3be915fe-368b-416c-8e35-8161ee2a9a41",
+      "text": "Choose the option that best completes the gap.\n\nIf you keep playing with this door handle, it will get __________",
+      "options": {
+        "A": "loose",
+        "B": "lose",
+        "C": "loosed",
+        "D": "loosing"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 19,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "2104cd63-19d9-4322-b76c-6f72ff0be593",
+      "text": "<u>For all he cared: the game was as good as lost</u>",
+      "options": {
+        "A": "He did not care if the game as lost",
+        "B": "He could not care less if the game was lost",
+        "C": "He was almost certain that the game would be lost",
+        "D": "He was afraid the game would be lost"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "Choose the option nearest in meaning to the underlined.",
+      "imageUrl": null,
+      "questionNumber": 20,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "idioms-phrasal-verbs",
+        "difficultyScore": 3,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "idioms-phrasal-verbs",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "50125922-fa15-4ada-9c77-2f3ab4ae1f32",
+      "text": "The meeting was <u>cancelled</u> because of the convocation",
+      "options": {
+        "A": "brought up",
+        "B": "called off",
+        "C": "broke off",
+        "D": "phased out"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "Choose the option nearest in meaning to the underlined.",
+      "imageUrl": null,
+      "questionNumber": 21,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "synonyms-antonyms",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "synonyms-antonyms",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": true
+      }
+    },
+    {
+      "id": "863d90ad-dacf-4074-8e6a-fee57204227b",
+      "text": "Ayodeji is an <u>ardent</u> supporter of education for the child",
+      "options": {
+        "A": "cogent",
+        "B": "a passionate",
+        "C": "an ignorant",
+        "D": "an optimistic"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "Choose the option nearest in meaning to the underlined.",
+      "imageUrl": null,
+      "questionNumber": 22,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "2fc95c8e-4949-434f-9b4e-1589ad0eb848",
+      "text": "The <u>exhibition</u> was an eye-opener to all",
+      "options": {
+        "A": "style",
+        "B": "examination",
+        "C": "dispatch",
+        "D": "display"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "Choose the option nearest in meaning to the underlined.",
+      "imageUrl": null,
+      "questionNumber": 23,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "7cd1bfaf-253b-4cdf-95e4-1605ac3cafbe",
+      "text": "As a Journalist, Bola has always had a <u>nose</u> for stories",
+      "options": {
+        "A": "an instinct",
+        "B": "a command",
+        "C": "soft comment",
+        "D": "cynical statement"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "Choose the option nearest in meaning to the underlined.",
+      "imageUrl": null,
+      "questionNumber": 24,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "a4447096-e47a-4a96-9b16-be65af35084c",
+      "text": "Nwankwo was on the <u>verge</u> of signing a two-year contract with the club",
+      "options": {
+        "A": "brink",
+        "B": "summit",
+        "C": "height",
+        "D": "shore"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "Choose the option nearest in meaning to the underlined.",
+      "imageUrl": null,
+      "questionNumber": 25,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "synonyms-antonyms",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "synonyms-antonyms",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "6e858b9d-c7cc-4938-b959-c5a8e177cf01",
+      "text": "The Governor told the chief that he was only on a <u>routine</u> tour",
+      "options": {
+        "A": "normal and regular visit",
+        "B": "unplanned encounter",
+        "C": "surprise and impromptu check",
+        "D": "working, visit and homage"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "Choose the option nearest in meaning to the underlined.",
+      "imageUrl": null,
+      "questionNumber": 26,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "41d27a14-518b-4291-a445-e18056d188e4",
+      "text": "The new ruler is <u>big-hearted</u> in his dealing with the people",
+      "options": {
+        "A": "proud",
+        "B": "cruel",
+        "C": "soft",
+        "D": "generous"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "Choose the option nearest in meaning to the underlined.",
+      "imageUrl": null,
+      "questionNumber": 27,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "46be499d-b81d-40be-adc7-31559f1d9813",
+      "text": "The essay topic is <u>nebulous</u>",
+      "options": {
+        "A": "distinct",
+        "B": "incorrect",
+        "C": "vague",
+        "D": "clear"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "Choose the option nearest in meaning to the underlined.",
+      "imageUrl": null,
+      "questionNumber": 28,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 2,
+        "estimatedTime": 20,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "252bec87-6b21-4d9a-bc42-ab58926edbf1",
+      "text": "The events of last Friday show that there is no love lost between the Principal and the Vice-principal",
+      "options": {
+        "A": "They like each other",
+        "B": "They work independently",
+        "C": "They couldn't part company",
+        "D": "They dislike each other"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "Choose the option that best explains the information conveyed in the sentence.",
+      "imageUrl": null,
+      "questionNumber": 29,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "idioms-phrasal-verbs",
+        "difficultyScore": 3,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "idioms-phrasal-verbs",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "56723569-801c-4c68-a22c-a92fd47196fd",
+      "text": "If he were here, it could be more fun",
+      "options": {
+        "A": "He did not show up and so the occasion lacked much fun",
+        "B": "He was being expected to supply more fun",
+        "C": "There was no fun because he was not present",
+        "D": "He was expected but did not show up to liven up the occasion"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "Choose the option that best explains the information conveyed in the sentence.",
+      "imageUrl": null,
+      "questionNumber": 30,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 3,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.8,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "7cb2f5f3-d2b0-4375-8c26-52ad01b65da1",
+      "text": "Choose the option that best explains the information conveyed in the sentence. Adawo is an Imp",
+      "options": {
+        "A": "Adawo behaves queenly",
+        "B": "Adawo behaves differently",
+        "C": "Adawo behaves decently",
+        "D": "Adawo behaves badly"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "Choose the option that best explains the information conveyed in the sentence.",
+      "imageUrl": null,
+      "questionNumber": 31,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "comprehension",
+        "subtopic": "implied-meaning",
+        "difficultyScore": 3,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "comprehension",
+          "implied-meaning",
+          "writers-intention-mood-attitude-opinion"
+        ],
+        "learningObjectives": [
+          "deduce or infer the writers’ intentions including mood, attitude to the subject matter and opinion"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-COMPREHENSION",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "0dce5c6e-7282-4da8-a8d6-8582f130461a",
+      "text": "The man reasoned that there ought to be a limit to sycophancy",
+      "options": {
+        "A": "there can be no favour beyond a reasonable point",
+        "B": "sycophants need not talk all the time",
+        "C": "people should know when not to use flattery",
+        "D": "sycophants should know when to grant people requests"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "Choose the option that best explains the information conveyed in the sentence.",
+      "imageUrl": null,
+      "questionNumber": 32,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "comprehension",
+        "subtopic": "implied-meaning",
+        "difficultyScore": 3,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "comprehension",
+          "implied-meaning",
+          "writers-intention-mood-attitude-opinion"
+        ],
+        "learningObjectives": [
+          "deduce or infer the writers’ intentions including mood, attitude to the subject matter and opinion"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-COMPREHENSION",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "cba5a102-7577-4597-b0c6-f665dae36f01",
+      "text": "The organization is constantly in a state of flux",
+      "options": {
+        "A": "There are periodic changes in the organization",
+        "B": "The organization is facing a difficult period",
+        "C": "The organization is experiencing; good times",
+        "D": "The organization is moribund"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "Choose the option that best explains the information conveyed in the sentence.",
+      "imageUrl": null,
+      "questionNumber": 33,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "73c611e4-d2f0-4322-bc05-7d56a278ef0a",
+      "text": "The witness <i>averred</i> that she had seen Dosun at the scene of the crime",
+      "options": {
+        "A": "argued",
+        "B": "confirmed",
+        "C": "denied",
+        "D": "affirmed"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "Choose the option opposite in meaning to the word(s) or phrase in italics.",
+      "imageUrl": null,
+      "questionNumber": 34,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 3,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "22c232de-a6eb-44df-ac18-3363a2b73da2",
+      "text": "The governor's visit is an <i>unprecedented</i> event in the history of the social club",
+      "options": {
+        "A": "a perfect",
+        "B": "momentous",
+        "C": "an insignificant",
+        "D": "an unnecessary"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "Choose the option opposite in meaning to the word(s) or phrase in italics.",
+      "imageUrl": null,
+      "questionNumber": 35,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 3,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "68636c3c-fe03-4272-8459-199b8f75736d",
+      "text": "Our principal took exception to the <i>ignoble</i> role the teacher played in the matter",
+      "options": {
+        "A": "embarrassing",
+        "B": "honourable",
+        "C": "extraordinary",
+        "D": "dishonourable"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "Choose the option opposite in meaning to the word(s) or phrase in italics.",
+      "imageUrl": null,
+      "questionNumber": 36,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": null,
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "3bf38603-6e0e-4aec-81c7-67ca506eec2f",
+      "text": "He is <i>notorious</i> for his drunkenness",
+      "options": {
+        "A": "popular",
+        "B": "known",
+        "C": "well known",
+        "D": "renowned"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "Choose the option opposite in meaning to the word(s) or phrase in italics.",
+      "imageUrl": null,
+      "questionNumber": 37,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 3,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "d2b917fd-f4ef-4498-824e-72b630c224aa",
+      "text": "The <i>severity</i> of the harmattan helped me to complete my writing assignment in record time because i had no choice but to lock myself indoors",
+      "options": {
+        "A": "warmth",
+        "B": "mildness",
+        "C": "moderation",
+        "D": "leniency"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "Choose the option opposite in meaning to the word(s) or phrase in italics.",
+      "imageUrl": null,
+      "questionNumber": 38,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 4,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "d89d542f-6143-4d07-b28f-6126ac57f054",
+      "text": "This card <i>entitles</i> you to attend the film show",
+      "options": {
+        "A": "disqualifies",
+        "B": "discourages",
+        "C": "disenchants",
+        "D": "satisfies"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "Choose the option opposite in meaning to the word(s) or phrase in italics.",
+      "imageUrl": null,
+      "questionNumber": 39,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "2d6edd5d-4b6c-4702-b469-a922f418751a",
+      "text": "He is loved for his <i>altruism</i>",
+      "options": {
+        "A": "benevolence",
+        "B": "sincerity",
+        "C": "selfishness",
+        "D": "selflessness"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "Choose the option opposite in meaning to the word(s) or phrase in italics.",
+      "imageUrl": null,
+      "questionNumber": 40,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "synonyms-antonyms",
+        "difficultyScore": 1,
+        "estimatedTime": 20,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "synonyms-antonyms",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "7387d629-f5ce-4b91-a330-4d9cd4fdaaa2",
+      "text": "The Journalist said he was working </i>freelance</i>",
+      "options": {
+        "A": "tireless",
+        "B": "without pay",
+        "C": "satisfactory",
+        "D": "dependently"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "Choose the option opposite in meaning to the word(s) or phrase in italics.",
+      "imageUrl": null,
+      "questionNumber": 41,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 3,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "e65f1613-2f60-4b44-8c9b-ff3e6aa6f71f",
+      "text": "The Flying Eagles put up a <i>plucky</i> defence against their opponents",
+      "options": {
+        "A": "strong",
+        "B": "weak",
+        "C": "careless",
+        "D": "tactful"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "Choose the option opposite in meaning to the word(s) or phrase in italics.",
+      "imageUrl": null,
+      "questionNumber": 42,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "22cfc9ec-c703-4002-bc4b-2d52387acbfa",
+      "text": "We found a <i>shady</i> place for the display",
+      "options": {
+        "A": "an open",
+        "B": "an unsafe",
+        "C": "a stuffy",
+        "D": "an enclosure"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "Choose the option opposite in meaning to the word(s) or phrase in italics.",
+      "imageUrl": null,
+      "questionNumber": 43,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "157804e6-2307-4fbd-a28e-2eeb22e722a7",
+      "text": "The sea wave continue to ____________ the cliff on the west coast constantly",
+      "options": {
+        "A": "impair",
+        "B": "rub",
+        "C": "knock",
+        "D": "erode"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "Choose the word(s) or phrase(s) which best fill(s) the gap.",
+      "imageUrl": null,
+      "questionNumber": 44,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "457401cb-3dc2-4592-a70c-f3828e4752e7",
+      "text": "I would have been surprised if you ____________ the orange",
+      "options": {
+        "A": "plucked",
+        "B": "have plucked",
+        "C": "had plucked",
+        "D": "did pluck"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "Choose the word(s) or phrase(s) which best fill(s) the gap.",
+      "imageUrl": null,
+      "questionNumber": 45,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "grammar",
+        "subtopic": "tenses-aspect",
+        "difficultyScore": 3,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "grammar",
+          "tenses-aspect",
+          "word-classes-and-functions"
+        ],
+        "learningObjectives": [
+          "identify various grammatical patterns in use"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-GRAMMAR",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "81846e78-1633-4432-b893-8d5df3fd64f7",
+      "text": "By the time the plane reaches Harare, it __________in the air for twelve hours",
+      "options": {
+        "A": "has been",
+        "B": "would be",
+        "C": "would have been",
+        "D": "should be"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "Choose the word(s) or phrase(s) which best fill(s) the gap.",
+      "imageUrl": null,
+      "questionNumber": 46,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "grammar",
+        "subtopic": "tenses-aspect",
+        "difficultyScore": 3,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "grammar",
+          "tenses-aspect",
+          "word-classes-and-functions"
+        ],
+        "learningObjectives": [
+          "identify various grammatical patterns in use"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-GRAMMAR",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "6862d713-2e69-485f-b363-c47f4ced6e3f",
+      "text": "The patient is suffering from ____________",
+      "options": {
+        "A": "reumatism",
+        "B": "rheumantism",
+        "C": "rhuematism",
+        "D": "rheumatism"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "Choose the word(s) or phrase(s) which best fill(s) the gap.",
+      "imageUrl": null,
+      "questionNumber": 47,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "spelling-correct-incorrect",
+        "difficultyScore": 1,
+        "estimatedTime": 15,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "24abb2d7-68ec-465b-bc57-689a5b403206",
+      "text": "We saw Ifueko ____________ an egg on the wall",
+      "options": {
+        "A": "smashed",
+        "B": "smash",
+        "C": "smashing",
+        "D": "smashes"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "Choose the word(s) or phrase(s) which best fill(s) the gap.",
+      "imageUrl": null,
+      "questionNumber": 48,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "grammar",
+        "subtopic": "sentence-structure",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "grammar",
+          "sentence-structure",
+          "word-classes-and-functions"
+        ],
+        "learningObjectives": [
+          "identify various grammatical patterns in use"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-GRAMMAR",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "e1931296-b941-4a81-9f35-485f75821761",
+      "text": "Knowledge of figures of speech as well as of idiom and lexical items ____________ in this section",
+      "options": {
+        "A": "is tested",
+        "B": "have been tested",
+        "C": "are tested",
+        "D": "were tested"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "Choose the word(s) or phrase(s) which best fill(s) the gap.",
+      "imageUrl": null,
+      "questionNumber": 49,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "grammar",
+        "subtopic": "agreement",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "grammar",
+          "agreement",
+          "word-classes-and-functions"
+        ],
+        "learningObjectives": [
+          "identify various grammatical patterns in use"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-GRAMMAR",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "2b8e87ca-96d5-4867-aba4-5d59ed55f02c",
+      "text": "The answers to the questions were discussed ____________ the students",
+      "options": {
+        "A": "between",
+        "B": "by",
+        "C": "for",
+        "D": "to"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "Choose the word(s) or phrase(s) which best fill(s) the gap.",
+      "imageUrl": null,
+      "questionNumber": 50,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "grammar",
+        "subtopic": "agreement",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "grammar",
+          "agreement",
+          "word-classes-and-functions"
+        ],
+        "learningObjectives": [
+          "identify various grammatical patterns in use"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-GRAMMAR",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "a68f48f4-2db1-4151-9c56-9a0a6eaae552",
+      "text": "The shipping company advertised for ____________ accountants",
+      "options": {
+        "A": "two young but highly competent Nigerian",
+        "B": "young but highly competent two Nigerian",
+        "C": "two Nigerian, young, but highly competent",
+        "D": "highly competent, but young, two Nigerian"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "Choose the word(s) or phrase(s) which best fill(s) the gap.",
+      "imageUrl": null,
+      "questionNumber": 51,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "grammar",
+        "subtopic": "agreement",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "grammar",
+          "agreement",
+          "word-classes-and-functions"
+        ],
+        "learningObjectives": [
+          "identify various grammatical patterns in use"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-GRAMMAR",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "e51fa236-1ae1-4258-b2b0-db4109ba0d1b",
+      "text": "Choose the word(s) or phrase(s) which best fill(s) the gap. If it had rained, we would have had to postpone the concert. It didn't rain, so ____________",
+      "options": {
+        "A": "we won't have to",
+        "B": "we would have had to",
+        "C": "we wouldn't have to",
+        "D": "we didn't have to"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "Choose the word(s) or phrase(s) which best fill(s) the gap.",
+      "imageUrl": null,
+      "questionNumber": 52,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "grammar",
+        "subtopic": "tenses-aspect",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "grammar",
+          "tenses-aspect",
+          "word-classes-and-functions"
+        ],
+        "learningObjectives": [
+          "identify various grammatical patterns in use"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-GRAMMAR",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "580188da-d21e-4898-b6d1-179cca631e3e",
+      "text": "Now, I am used ____________ bread without butter",
+      "options": {
+        "A": "to eat",
+        "B": "in eating",
+        "C": "of eating",
+        "D": "to eating"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "Choose the word(s) or phrase(s) which best fill(s) the gap.",
+      "imageUrl": null,
+      "questionNumber": 53,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "grammar",
+        "subtopic": "parts-of-speech",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "grammar",
+          "parts-of-speech",
+          "word-classes-and-functions"
+        ],
+        "learningObjectives": [
+          "identify various grammatical patterns in use"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-GRAMMAR",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "f139be84-4884-4902-a2d2-b7996fd7dd36",
+      "text": "Choose the option that has a different stress pattern from the others.",
+      "options": {
+        "A": "ability",
+        "B": "registration",
+        "C": "quadruplicate",
+        "D": "revivalist"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 54,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "oral-english",
+        "subtopic": "stress-intonation",
+        "difficultyScore": 3,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "oral-english",
+          "stress-intonation",
+          "connected-speech"
+        ],
+        "learningObjectives": [
+          "identify correct pronunciation of individual words and articulation of connected speech"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-ORAL-ENGLISH",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "28e627d5-788b-4ee1-81a7-9ae46653501d",
+      "text": "<u>th</u>atch",
+      "options": {
+        "A": "clothing",
+        "B": "mother",
+        "C": "then",
+        "D": "method"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "Choose the option that has the same consonant sound as the one represented by the letter(s) underlined.",
+      "imageUrl": null,
+      "questionNumber": 56,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 1,
+        "estimatedTime": 15,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "777f3106-2e1a-473d-8087-d47592443e89",
+      "text": "<u>ch</u>ateau",
+      "options": {
+        "A": "chart",
+        "B": "church",
+        "C": "champagne",
+        "D": "chemical"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "Choose the option that has the same consonant sound as the one represented by the letter(s) underlined.",
+      "imageUrl": null,
+      "questionNumber": 57,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 1,
+        "estimatedTime": 20,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "272712e7-9274-401b-ba42-59cf034a7fda",
+      "text": "Choose the option that has the same consonant sound as the one represented by the letter(s) emboldened.\n\n<b>J</b>oint",
+      "options": {
+        "A": "dagger",
+        "B": "advantage",
+        "C": "guardian",
+        "D": "mightier"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 58,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "oral-english",
+        "subtopic": "consonant-sounds",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "oral-english",
+          "consonant-sounds",
+          "connected-speech"
+        ],
+        "learningObjectives": [
+          "identify correct pronunciation of individual words and articulation of connected speech"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-ORAL-ENGLISH",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "a8e0424b-e382-4e8e-a464-ac9fa53b3a8f",
+      "text": "choose the option opposite in meaning to the word(s) in italics. The manager commended the players for the <i>narrow</i> victory.",
+      "options": {
+        "A": "Difficult",
+        "B": "Unexpected",
+        "C": "Easy",
+        "D": "Expected"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 59,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "synonyms-antonyms",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "synonyms-antonyms",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "b418397b-8419-4a77-8bbd-36c73318b524",
+      "text": "choose the option that best completes the gap(s).\n\nI am not sure that all _____ well with John.",
+      "options": {
+        "A": "Were",
+        "B": "Is",
+        "C": "Are",
+        "D": "Will"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 60,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "grammar",
+        "subtopic": "agreement",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "grammar",
+          "agreement",
+          "word-classes-and-functions"
+        ],
+        "learningObjectives": [
+          "identify various grammatical patterns in use"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-GRAMMAR",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "706b3cae-e37c-4f2c-82e5-f195dd554e6b",
+      "text": "choose the option nearest in meaning to the underlined. Thousands of students <u>are candidates</u> for the examination but only very few pass",
+      "options": {
+        "A": "Come in",
+        "B": "Call for",
+        "C": "Go into",
+        "D": "Enter for"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 61,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "8c7ddb62-cb22-43c4-92c4-bc70eba63e56",
+      "text": "choose the option that best completes the gap(s). We look forward to _______ from you very soon.",
+      "options": {
+        "A": "Have heard",
+        "B": "Hear",
+        "C": "Hearing",
+        "D": "Heard"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 62,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "grammar",
+        "subtopic": "tenses-aspect",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "grammar",
+          "tenses-aspect",
+          "word-classes-and-functions"
+        ],
+        "learningObjectives": [
+          "identify various grammatical patterns in use"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-GRAMMAR",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "ce540030-33fe-4bd9-9551-e5f6238b6aab",
+      "text": "choose the option nearest in meaning to the italicized words or expressions.\n\n  The French classes were always funny because we considered French a <i>strange</i> tongue.",
+      "options": {
+        "A": "Awkward",
+        "B": "Foreign",
+        "C": "Funny",
+        "D": "Uninteresting"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 63,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "synonyms-antonyms",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "synonyms-antonyms",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "fab6d9ca-963a-4e1c-8c51-7db3f577f5b6",
+      "text": "choose the option opposite in meaning to the word(s) in italics.\n\n  Everyone testifies to the <i>unique</i> taste of our flavor.",
+      "options": {
+        "A": "Offensive",
+        "B": "Common",
+        "C": "Uncommon",
+        "D": "Sufficient"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 64,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "synonyms-antonyms",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "synonyms-antonyms",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "2e6af946-137e-4ddb-bb58-24889fd673a6",
+      "text": "Choose the option that best completes the gap. All God's prophets were given the great __________ to preach salvation to people",
+      "options": {
+        "A": "Commision",
+        "B": "Commition",
+        "C": "Comission",
+        "D": "Commission"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 65,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "spelling-correct-incorrect",
+        "difficultyScore": 2,
+        "estimatedTime": 20,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "b59abab2-0f55-4fe4-bd9f-17a4a9540c89",
+      "text": "choose the option that best completes the gap(s).\n\nThe principal _________ our mobile phones.",
+      "options": {
+        "A": "Seized",
+        "B": "Ceased",
+        "C": "Siezed",
+        "D": "Seased"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 66,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 2,
+        "estimatedTime": 20,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "c0a4ca17-f870-4839-9fd9-358ec02ae893",
+      "text": "choose the word(s) or phrase(s) which best fill(s) the gap(s).\n\nFor fear of being caught, the thief shouted and cursed the slow bank manager in a language ________much for words.",
+      "options": {
+        "A": "Way",
+        "B": "Too",
+        "C": "Very",
+        "D": "So"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 67,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "acad99e8-8e5e-4074-aeb5-25e8cff0d8aa",
+      "text": "choose the option nearest in meaning to the italicized words or expressions.\n\n  The coach invited me to his office having found me <i>mettlesome</i>",
+      "options": {
+        "A": "Courageous",
+        "B": "Hardworking",
+        "C": "Hardhearted",
+        "D": "Weak"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 68,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "synonyms-antonyms",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "synonyms-antonyms",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "e1bfc40e-c553-4c41-bcdc-942f4cfa048f",
+      "text": "choose the option that best completes the gap(s).\n\nYou may now ___________ with your presentation.",
+      "options": {
+        "A": "Precede",
+        "B": "Preceed",
+        "C": "Procede",
+        "D": "Proceed"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 69,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "spelling-correct-incorrect",
+        "difficultyScore": 1,
+        "estimatedTime": 20,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "720c6786-5c56-48d4-a72e-3eeab1cea24b",
+      "text": "choose the option opposite in meaning to the word(s) in italics.\n\n  Father Francis thanked God for the <i>abundance</i> of blessings his family received",
+      "options": {
+        "A": "Nature",
+        "B": "Quantity",
+        "C": "Quality",
+        "D": "Paucity"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 70,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "synonyms-antonyms",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "synonyms-antonyms",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "b51e7da0-3418-4e63-bab2-5f51f6a8b82d",
+      "text": "The pastor asked the women to _________ their hearts to God in prayers.",
+      "options": {
+        "A": "Bare",
+        "B": "Bear",
+        "C": "Bar",
+        "D": "Barrr"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "choose the word(s) or phrase(s) which best fill(s) the gap(s).",
+      "imageUrl": null,
+      "questionNumber": 71,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "cd8cdea8-c00a-4494-b915-4b6f9aee1014",
+      "text": "We saw you earlier but we could not stop you because we did not know __________.",
+      "options": {
+        "A": "Where you were going.",
+        "B": "Where you are going",
+        "C": "Where are you going.",
+        "D": "Where were you going."
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "choose the word(s) or phrase(s) which best fill(s) the gap(s).",
+      "imageUrl": null,
+      "questionNumber": 72,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "grammar",
+        "subtopic": "sentence-structure",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "grammar",
+          "sentence-structure",
+          "word-classes-and-functions"
+        ],
+        "learningObjectives": [
+          "identify various grammatical patterns in use"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-GRAMMAR",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "e0e6418e-1275-4f03-92cc-5537c0a23812",
+      "text": "choose the option opposite in meaning to the word(s) in italics.\n\n  It is <i>customary</i> to find young men and women in sports.",
+      "options": {
+        "A": "Common",
+        "B": "Unusual",
+        "C": "Unideal",
+        "D": "Unnecessary"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 73,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "synonyms-antonyms",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "synonyms-antonyms",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "5df359e3-152e-41dc-8c22-f47d36093dab",
+      "text": "High mortality rate is becoming increasingly <i>predominant</i>.",
+      "options": {
+        "A": "Controlled",
+        "B": "Rampant",
+        "C": "Unchecked",
+        "D": "Dangerous"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "choose the option nearest in meaning to the italicized words or expressions.",
+      "imageUrl": null,
+      "questionNumber": 74,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "16e15e46-ef08-40dc-b1c7-fa05394dd404",
+      "text": "The rapist claimed that the woman’s <i>voluptuous</i> hips attracted him",
+      "options": {
+        "A": "Strong",
+        "B": "Generous",
+        "C": "Round",
+        "D": "Sexy"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "choose the option nearest in meaning to the italicized words or expressions.",
+      "imageUrl": null,
+      "questionNumber": 75,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "4c26ee4d-55bb-4772-aa7b-58f7dbd80fb3",
+      "text": "Select the option that best explains the information conveyed in the sentence.\n\n  Grandma told the boys a story that cheered them up.",
+      "options": {
+        "A": "The story made them cry.",
+        "B": "The story made them scared.",
+        "C": "The story made them delighted.",
+        "D": "The story made them uninterested"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 76,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "comprehension",
+        "subtopic": "implied-meaning",
+        "difficultyScore": 3,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "comprehension",
+          "implied-meaning",
+          "writers-intention-mood-attitude-opinion"
+        ],
+        "learningObjectives": [
+          "deduce or infer the writers’ intentions including mood, attitude to the subject matter and opinion"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-COMPREHENSION",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "931adb49-4e38-4c15-aea8-7c2e8b653602",
+      "text": "choose the option that best completes the gap.\n\n  The cliff is popularly known for ___________ morning beauty.",
+      "options": {
+        "A": "It",
+        "B": "It’s",
+        "C": "Its’",
+        "D": "Its"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 77,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "grammar",
+        "subtopic": "agreement",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "grammar",
+          "agreement",
+          "word-classes-and-functions"
+        ],
+        "learningObjectives": [
+          "identify various grammatical patterns in use"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-GRAMMAR",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "b84b2a30-3040-4a43-aa9d-c205b5300629",
+      "text": "select the option that best explains the information conveyed in the sentence.\n\n  The team adapted to the new tactic as clean as a whistle.",
+      "options": {
+        "A": "They adapted to the pattern perfectly",
+        "B": "They needed a whistle to be able to adapt to the pattern.",
+        "C": "They adapted to the tactic with little errors",
+        "D": "They found it difficult to adapt to the new tactic."
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 78,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "idioms-phrasal-verbs",
+        "difficultyScore": 4,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "idioms-phrasal-verbs",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "f58a4bda-b147-4db6-9ad7-eec214b81ab1",
+      "text": "choose the option opposite in meaning to the word(s) in italics.\n\n  The driver was discharged while the car owner was ___________ for fraud.",
+      "options": {
+        "A": "remanded",
+        "B": "detained",
+        "C": "acquitted",
+        "D": "sued"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 79,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "synonyms-antonyms",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "synonyms-antonyms",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "5d1df101-ae8b-46b0-95d9-490e04d5d1fa",
+      "text": "choose the option nearest in meaning to the italicized words or expressions.\n\n  The police later discovered that Audu <i>feigned</i> death.",
+      "options": {
+        "A": "Cheated",
+        "B": "Assumed",
+        "C": "Suggested",
+        "D": "Faked"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2018,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 80,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "synonyms-antonyms",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "synonyms-antonyms",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    }
+  ]
+}

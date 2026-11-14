@@ -1,0 +1,3039 @@
+{
+  "exam": "JAMB",
+  "subject": "english-language",
+  "year": 2021,
+  "source": "ALOC",
+  "contentSource": "historical",
+  "questionCount": 57,
+  "questions": [
+    {
+      "id": "0574f969-0a6d-4392-8440-e296b56a5b0d",
+      "text": "A suitable title for the passage is",
+      "options": {
+        "A": "Knowing fatigue",
+        "B": "Fatigue",
+        "C": "Tiredness and fatigue",
+        "D": "Body machine"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2021,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "Read the passages below and answer the questions that follow: \n<br><br>\nEveryone is tired or fatigued at some time. The major cycle in your life is work, fatigue and rest in that order. Fatigue is characteristic of your body. It does not occur in a man-made machine which operates as long as its parts are intact and it has fuel. But your body, a living machine, has a definite limitation - its work continues, it gradually loses its responsiveness, becomes less irritable, turns out less work and finally may not respond at all. The feeling of fatigue usually expresses itself in three ways: first, there is a feeling of tiredness and a marked desire for rest. Second, efficiency is greatly reduced. Third, there may be definite physiological changes in your body, low blood pressure, loss of muscle tone, tremors, and poor muscular coordination, and in other ways. Fatigue, however, may express itself in many ways for there are many different forms of it. The fatigue of a student. for example, who has worked all evening on a difficult lesson, is different from that of a labourer who has worked all day at a back- breaking task, or that of a business executive who worries with the stress and strain of organisation.",
+      "imageUrl": null,
+      "questionNumber": 1,
+      "country": "NG",
+      "category": "passage-a",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": true,
+      "metadata": {
+        "topic": "comprehension",
+        "subtopic": "main-points-topic-sentences",
+        "difficultyScore": 4,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "comprehension",
+          "main-points-topic-sentences",
+          "writers-intention-mood-attitude-opinion"
+        ],
+        "learningObjectives": [
+          "deduce or infer the writers’ intentions including mood, attitude to the subject matter and opinion"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-COMPREHENSION",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "407f1682-3309-4dbd-a38f-07f732505dfb",
+      "text": "According to the passage, the worst stage of fatigue is",
+      "options": {
+        "A": "feeling of tiredness",
+        "B": "poor muscular coordination",
+        "C": "reduced efficiency",
+        "D": "desire for rest"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2021,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "Read the passages below and answer the questions that follow: \n<br><br>\nEveryone is tired or fatigued at some time. The major cycle in your life is work, fatigue and rest in that order. Fatigue is characteristic of your body. It does not occur in a man-made machine which operates as long as its parts are intact and it has fuel. But your body, a living machine, has a definite limitation - its work continues, it gradually loses its responsiveness, becomes less irritable, turns out less work and finally may not respond at all. The feeling of fatigue usually expresses itself in three ways: first, there is a feeling of tiredness and a marked desire for rest. Second, efficiency is greatly reduced. Third, there may be definite physiological changes in your body, low blood pressure, loss of muscle tone, tremors, and poor muscular coordination, and in other ways. Fatigue, however, may express itself in many ways for there are many different forms of it. The fatigue of a student. for example, who has worked all evening on a difficult lesson, is different from that of a labourer who has worked all day at a back- breaking task, or that of a business executive who worries with the stress and strain of organisation.",
+      "imageUrl": null,
+      "questionNumber": 2,
+      "country": "NG",
+      "category": "passage-a",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": true,
+      "metadata": {
+        "topic": "comprehension",
+        "subtopic": "reading-comprehension",
+        "difficultyScore": 4,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "comprehension",
+          "reading-comprehension",
+          "writers-intention-mood-attitude-opinion"
+        ],
+        "learningObjectives": [
+          "deduce or infer the writers’ intentions including mood, attitude to the subject matter and opinion"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-COMPREHENSION",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "22388c9d-9338-48c4-8b12-f38234d2a685",
+      "text": "t can be inferred from the passage that",
+      "options": {
+        "A": "every task can eventually result in fatigue",
+        "B": "only difficult lessons lead to fatigue",
+        "C": "a labourer must work all day before expressing fatigue",
+        "D": "rest is needed only when you experience fatigue"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2021,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "Read the passages below and answer the questions that follow: \n<br><br>\nEveryone is tired or fatigued at some time. The major cycle in your life is work, fatigue and rest in that order. Fatigue is characteristic of your body. It does not occur in a man-made machine which operates as long as its parts are intact and it has fuel. But your body, a living machine, has a definite limitation - its work continues, it gradually loses its responsiveness, becomes less irritable, turns out less work and finally may not respond at all. The feeling of fatigue usually expresses itself in three ways: first, there is a feeling of tiredness and a marked desire for rest. Second, efficiency is greatly reduced. Third, there may be definite physiological changes in your body, low blood pressure, loss of muscle tone, tremors, and poor muscular coordination, and in other ways. Fatigue, however, may express itself in many ways for there are many different forms of it. The fatigue of a student. for example, who has worked all evening on a difficult lesson, is different from that of a labourer who has worked all day at a back- breaking task, or that of a business executive who worries with the stress and strain of organisation.",
+      "imageUrl": null,
+      "questionNumber": 3,
+      "country": "NG",
+      "category": "passage-a",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": true,
+      "metadata": {
+        "topic": "comprehension",
+        "subtopic": "implied-meaning",
+        "difficultyScore": 4,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "comprehension",
+          "implied-meaning",
+          "writers-intention-mood-attitude-opinion"
+        ],
+        "learningObjectives": [
+          "deduce or infer the writers’ intentions including mood, attitude to the subject matter and opinion"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-COMPREHENSION",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "ed9c24bd-b2a2-40b3-9200-73e3501feebf",
+      "text": "It is advisable that one should rest once",
+      "options": {
+        "A": "there is a feeling of tiredness",
+        "B": "there is no longer interest in the task",
+        "C": "there is onset of physiological changes in the body",
+        "D": "the task becomes difficult"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2021,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "Read the passages below and answer the questions that follow: \n<br><br>\nEveryone is tired or fatigued at some time. The major cycle in your life is work, fatigue and rest in that order. Fatigue is characteristic of your body. It does not occur in a man-made machine which operates as long as its parts are intact and it has fuel. But your body, a living machine, has a definite limitation - its work continues, it gradually loses its responsiveness, becomes less irritable, turns out less work and finally may not respond at all. The feeling of fatigue usually expresses itself in three ways: first, there is a feeling of tiredness and a marked desire for rest. Second, efficiency is greatly reduced. Third, there may be definite physiological changes in your body, low blood pressure, loss of muscle tone, tremors, and poor muscular coordination, and in other ways. Fatigue, however, may express itself in many ways for there are many different forms of it. The fatigue of a student. for example, who has worked all evening on a difficult lesson, is different from that of a labourer who has worked all day at a back- breaking task, or that of a business executive who worries with the stress and strain of organisation.",
+      "imageUrl": null,
+      "questionNumber": 4,
+      "country": "NG",
+      "category": "passage-a",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": true,
+      "metadata": {
+        "topic": "comprehension",
+        "subtopic": "reading-comprehension",
+        "difficultyScore": 4,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "comprehension",
+          "reading-comprehension",
+          "writers-intention-mood-attitude-opinion"
+        ],
+        "learningObjectives": [
+          "deduce or infer the writers’ intentions including mood, attitude to the subject matter and opinion"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-COMPREHENSION",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "6b73aa23-8b14-48c0-9b48-cd0462fbfeb5",
+      "text": "definite limitation used to describe the human body in the passage means that",
+      "options": {
+        "A": "the body cannot be made to work continuously like a machine",
+        "B": "the body should only perform simple tasks",
+        "C": "body parts must be limited",
+        "D": "the body is equal to man-made machines."
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2021,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "Read the passages below and answer the questions that follow: \n<br><br>\nEveryone is tired or fatigued at some time. The major cycle in your life is work, fatigue and rest in that order. Fatigue is characteristic of your body. It does not occur in a man-made machine which operates as long as its parts are intact and it has fuel. But your body, a living machine, has a definite limitation - its work continues, it gradually loses its responsiveness, becomes less irritable, turns out less work and finally may not respond at all. The feeling of fatigue usually expresses itself in three ways: first, there is a feeling of tiredness and a marked desire for rest. Second, efficiency is greatly reduced. Third, there may be definite physiological changes in your body, low blood pressure, loss of muscle tone, tremors, and poor muscular coordination, and in other ways. Fatigue, however, may express itself in many ways for there are many different forms of it. The fatigue of a student. for example, who has worked all evening on a difficult lesson, is different from that of a labourer who has worked all day at a back- breaking task, or that of a business executive who worries with the stress and strain of organisation.",
+      "imageUrl": null,
+      "questionNumber": 5,
+      "country": "NG",
+      "category": "passage-a",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": true,
+      "metadata": {
+        "topic": "comprehension",
+        "subtopic": "implied-meaning",
+        "difficultyScore": 4,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "comprehension",
+          "implied-meaning",
+          "writers-intention-mood-attitude-opinion"
+        ],
+        "learningObjectives": [
+          "deduce or infer the writers’ intentions including mood, attitude to the subject matter and opinion"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-COMPREHENSION",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "3e267b33-cf69-435f-9b96-24d5d06bc432",
+      "text": "Which of the following is not true according to the passage?",
+      "options": {
+        "A": "the competence level in the use of English has fallen greatly",
+        "B": "what used to be in the past could be considered extreme",
+        "C": "the writer is advocating for the use of indigenous language for teaching and learning",
+        "D": "English language is the official language in Nigeria"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2021,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "It is normal in Nigeria to use proficiency in the use of English language as a barometer for evaluating the height of any person's educational attainment. Today, many teachers resort quite often to the use of vernacular in the teaching of their subjects. One is often dismayed at the incompetence of many teachers, even graduates in the use of English language. Throughout the colonial period, up to 1960, Nigerian formal education was patterned after the English system. The \"accent\" was on English and an educated Nigerian was one who was only African in colour but English in thought and culture. The ability to speak English fluently and if possible with an Oxford accent was the hallmark of excellence even if the speaker was empty of thought and ideas. In those days it was a serious offence for a secondary school boy or girl to \"laugh in the vernacular\". But we now swung to the other extreme. Nigeria would say they are not English people, some would say they did not specialise in English in the university. But the country has adopted the English language as its official, the language of instruction at schools, parliamentary proceedings, conduct of official business and indeed the lingua franca. If the language is to continue to be used, then it is imperative that we all agree on the pattern of correctness in the language so that communication can be effective.",
+      "imageUrl": null,
+      "questionNumber": 7,
+      "country": "NG",
+      "category": "passage-b",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": true,
+      "metadata": {
+        "topic": "comprehension",
+        "subtopic": "reading-comprehension",
+        "difficultyScore": 4,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "comprehension",
+          "reading-comprehension",
+          "writers-intention-mood-attitude-opinion"
+        ],
+        "learningObjectives": [
+          "deduce or infer the writers’ intentions including mood, attitude to the subject matter and opinion"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-COMPREHENSION",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "375d2557-1a17-46b2-a2a9-ee7c36e6eccc",
+      "text": "During the colonial period, according to the passage, an educated Nigerian was one who",
+      "options": {
+        "A": "has travelled to Oxford",
+        "B": "is English in thought and culture",
+        "C": "looks African in colour",
+        "D": "has the English accent"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2021,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "It is normal in Nigeria to use proficiency in the use of English language as a barometer for evaluating the height of any person's educational attainment. Today, many teachers resort quite often to the use of vernacular in the teaching of their subjects. One is often dismayed at the incompetence of many teachers, even graduates in the use of English language. Throughout the colonial period, up to 1960, Nigerian formal education was patterned after the English system. The \"accent\" was on English and an educated Nigerian was one who was only African in colour but English in thought and culture. The ability to speak English fluently and if possible with an Oxford accent was the hallmark of excellence even if the speaker was empty of thought and ideas. In those days it was a serious offence for a secondary school boy or girl to \"laugh in the vernacular\". But we now swung to the other extreme. Nigeria would say they are not English people, some would say they did not specialise in English in the university. But the country has adopted the English language as its official, the language of instruction at schools, parliamentary proceedings, conduct of official business and indeed the lingua franca. If the language is to continue to be used, then it is imperative that we all agree on the pattern of correctness in the language so that communication can be effective.",
+      "imageUrl": null,
+      "questionNumber": 8,
+      "country": "NG",
+      "category": "passage-b",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": true,
+      "metadata": {
+        "topic": "prose",
+        "subtopic": null,
+        "difficultyScore": 4,
+        "estimatedTime": 60,
+        "tags": [],
+        "learningObjectives": [],
+        "curriculumAlignment": null,
+        "classificationConfidence": 0.8,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "93e1ffd4-3d71-47e2-b103-c5eabd696bce",
+      "text": "From the passage, it is evident that",
+      "options": {
+        "A": "we need to agree on the pattern of correctness in the use of English language",
+        "B": "fluency in English leads to empty thought and ideas",
+        "C": "Nigerians would say they are not English people because they hate the language",
+        "D": "Every undergraduate needs to specialise in English."
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2021,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "It is normal in Nigeria to use proficiency in the use of English language as a barometer for evaluating the height of any person's educational attainment. Today, many teachers resort quite often to the use of vernacular in the teaching of their subjects. One is often dismayed at the incompetence of many teachers, even graduates in the use of English language. Throughout the colonial period, up to 1960, Nigerian formal education was patterned after the English system. The \"accent\" was on English and an educated Nigerian was one who was only African in colour but English in thought and culture. The ability to speak English fluently and if possible with an Oxford accent was the hallmark of excellence even if the speaker was empty of thought and ideas. In those days it was a serious offence for a secondary school boy or girl to \"laugh in the vernacular\". But we now swung to the other extreme. Nigeria would say they are not English people, some would say they did not specialise in English in the university. But the country has adopted the English language as its official, the language of instruction at schools, parliamentary proceedings, conduct of official business and indeed the lingua franca. If the language is to continue to be used, then it is imperative that we all agree on the pattern of correctness in the language so that communication can be effective.",
+      "imageUrl": null,
+      "questionNumber": 9,
+      "country": "NG",
+      "category": "passage-b",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": true,
+      "metadata": {
+        "topic": "comprehension",
+        "subtopic": "main-points-topic-sentences",
+        "difficultyScore": 4,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "comprehension",
+          "main-points-topic-sentences",
+          "writers-intention-mood-attitude-opinion"
+        ],
+        "learningObjectives": [
+          "deduce or infer the writers’ intentions including mood, attitude to the subject matter and opinion"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-COMPREHENSION",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "a1810b53-c0c0-4cd3-b277-5ccedfe110ec",
+      "text": "Considering it a serious offence to \"laugh in vernacular\" as indicated in the passage, can be viewed as",
+      "options": {
+        "A": "normal",
+        "B": "extreme",
+        "C": "correctness",
+        "D": "proper"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2021,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "It is normal in Nigeria to use proficiency in the use of English language as a barometer for evaluating the height of any person's educational attainment. Today, many teachers resort quite often to the use of vernacular in the teaching of their subjects. One is often dismayed at the incompetence of many teachers, even graduates in the use of English language. Throughout the colonial period, up to 1960, Nigerian formal education was patterned after the English system. The \"accent\" was on English and an educated Nigerian was one who was only African in colour but English in thought and culture. The ability to speak English fluently and if possible with an Oxford accent was the hallmark of excellence even if the speaker was empty of thought and ideas. In those days it was a serious offence for a secondary school boy or girl to \"laugh in the vernacular\". But we now swung to the other extreme. Nigeria would say they are not English people, some would say they did not specialise in English in the university. But the country has adopted the English language as its official, the language of instruction at schools, parliamentary proceedings, conduct of official business and indeed the lingua franca. If the language is to continue to be used, then it is imperative that we all agree on the pattern of correctness in the language so that communication can be effective.",
+      "imageUrl": null,
+      "questionNumber": 10,
+      "country": "NG",
+      "category": "passage-b",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": true,
+      "metadata": {
+        "topic": "comprehension",
+        "subtopic": "implied-meaning",
+        "difficultyScore": 4,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "comprehension",
+          "implied-meaning",
+          "writers-intention-mood-attitude-opinion"
+        ],
+        "learningObjectives": [
+          "deduce or infer the writers’ intentions including mood, attitude to the subject matter and opinion"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-COMPREHENSION",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "94520f24-4ea2-40f7-b69f-734af05aa696",
+      "text": "In question number 11 above choose the best option from letters A- E that best complete the gap",
+      "options": {
+        "A": "house",
+        "B": "colony",
+        "C": "settlement",
+        "D": "abode",
+        "E": "habitat"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2021,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "In the passage below, the numbered gaps (11-20) indicate missing words. From the options lettered A- E the most appropriate option. <br><br>\nThe head of the -11- is called the queen bee. She is -12-than the rest of the bees. Her main task in the colony is to lay eggs. Most of the other bees are the -13- bees. These bees collect nectar and -14- from flowers. The nectar that is carried by the worker bees is deposited on the hive and then -15- into honey. The worker bees also help to look after the young bees. As soon as they are -16-, the worker bees feed the young bees with pollen and nectar. The third type of bee found in the colony is the -17- or male bee. The main task of such a bee is to -18- with a new queen. The queen bee has a life span of about three years. During this period, she would have - 19- more than half a million eggs. When the queen bee is dying, a new queen would be groomed. This new queen will eventually take over the duties of the old queen when the -20- dies.",
+      "imageUrl": null,
+      "questionNumber": 11,
+      "country": "NG",
+      "category": "passage-c",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": true,
+      "metadata": {
+        "topic": "comprehension",
+        "subtopic": "cloze-test",
+        "difficultyScore": 4,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "comprehension",
+          "cloze-test",
+          "writers-intention-mood-attitude-opinion"
+        ],
+        "learningObjectives": [
+          "deduce or infer the writers’ intentions including mood, attitude to the subject matter and opinion"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-COMPREHENSION",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "f52412a4-a984-4b96-82cf-0cdd2ab5a4c9",
+      "text": "In question number 12 above choose the best option from letters A- E that best complete the gap",
+      "options": {
+        "A": "larger",
+        "B": "enormous",
+        "C": "thicker",
+        "D": "older",
+        "E": "wiser"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2021,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "In the passage below, the numbered gaps (11-20) indicate missing words. From the options lettered A- E the most appropriate option. <br><br>\nThe head of the -11- is called the queen bee. She is -12-than the rest of the bees. Her main task in the colony is to lay eggs. Most of the other bees are the -13- bees. These bees collect nectar and -14- from flowers. The nectar that is carried by the worker bees is deposited on the hive and then -15- into honey. The worker bees also help to look after the young bees. As soon as they are -16-, the worker bees feed the young bees with pollen and nectar. The third type of bee found in the colony is the -17- or male bee. The main task of such a bee is to -18- with a new queen. The queen bee has a life span of about three years. During this period, she would have - 19- more than half a million eggs. When the queen bee is dying, a new queen would be groomed. This new queen will eventually take over the duties of the old queen when the -20- dies.",
+      "imageUrl": null,
+      "questionNumber": 12,
+      "country": "NG",
+      "category": "passage-c",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": true,
+      "metadata": {
+        "topic": "comprehension",
+        "subtopic": "cloze-test",
+        "difficultyScore": 4,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "comprehension",
+          "cloze-test",
+          "writers-intention-mood-attitude-opinion"
+        ],
+        "learningObjectives": [
+          "deduce or infer the writers’ intentions including mood, attitude to the subject matter and opinion"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-COMPREHENSION",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "bdde50a0-326a-4c47-b775-1eba3bc27c8d",
+      "text": "In question number 13 above choose the best option from letters A- E that best complete the gap",
+      "options": {
+        "A": "servant",
+        "B": "maid",
+        "C": "workers",
+        "D": "errand",
+        "E": "worker"
+      },
+      "correctAnswer": "E",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2021,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "In the passage below, the numbered gaps (11-20) indicate missing words. From the options lettered A- E the most appropriate option. <br><br>\nThe head of the -11- is called the queen bee. She is -12-than the rest of the bees. Her main task in the colony is to lay eggs. Most of the other bees are the -13- bees. These bees collect nectar and -14- from flowers. The nectar that is carried by the worker bees is deposited on the hive and then -15- into honey. The worker bees also help to look after the young bees. As soon as they are -16-, the worker bees feed the young bees with pollen and nectar. The third type of bee found in the colony is the -17- or male bee. The main task of such a bee is to -18- with a new queen. The queen bee has a life span of about three years. During this period, she would have - 19- more than half a million eggs. When the queen bee is dying, a new queen would be groomed. This new queen will eventually take over the duties of the old queen when the -20- dies.",
+      "imageUrl": null,
+      "questionNumber": 13,
+      "country": "NG",
+      "category": "passage-c",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": true,
+      "metadata": {
+        "topic": "comprehension",
+        "subtopic": "cloze-test",
+        "difficultyScore": 3,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "comprehension",
+          "cloze-test",
+          "writers-intention-mood-attitude-opinion"
+        ],
+        "learningObjectives": [
+          "deduce or infer the writers’ intentions including mood, attitude to the subject matter and opinion"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-COMPREHENSION",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "0d2dea06-6946-4be1-8dfd-1ba5b18c91e4",
+      "text": "In question number 14 above choose the best option from letters A- E that best complete the gap",
+      "options": {
+        "A": "fruits",
+        "B": "seed",
+        "C": "pollen",
+        "D": "grains",
+        "E": "leaves"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2021,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "In the passage below, the numbered gaps (11-20) indicate missing words. From the options lettered A- E the most appropriate option. <br><br>\nThe head of the -11- is called the queen bee. She is -12-than the rest of the bees. Her main task in the colony is to lay eggs. Most of the other bees are the -13- bees. These bees collect nectar and -14- from flowers. The nectar that is carried by the worker bees is deposited on the hive and then -15- into honey. The worker bees also help to look after the young bees. As soon as they are -16-, the worker bees feed the young bees with pollen and nectar. The third type of bee found in the colony is the -17- or male bee. The main task of such a bee is to -18- with a new queen. The queen bee has a life span of about three years. During this period, she would have - 19- more than half a million eggs. When the queen bee is dying, a new queen would be groomed. This new queen will eventually take over the duties of the old queen when the -20- dies.",
+      "imageUrl": null,
+      "questionNumber": 14,
+      "country": "NG",
+      "category": "passage-c",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": true,
+      "metadata": {
+        "topic": "comprehension",
+        "subtopic": "cloze-test",
+        "difficultyScore": 3,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "comprehension",
+          "cloze-test",
+          "writers-intention-mood-attitude-opinion"
+        ],
+        "learningObjectives": [
+          "deduce or infer the writers’ intentions including mood, attitude to the subject matter and opinion"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-COMPREHENSION",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "94a8b66e-b559-4680-985f-c77a74aae39d",
+      "text": "In question number 15 above choose the best option from letters A- E that best complete the gap",
+      "options": {
+        "A": "filtered",
+        "B": "converted",
+        "C": "refined",
+        "D": "cooked",
+        "E": "baked"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2021,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "In the passage below, the numbered gaps (11-20) indicate missing words. From the options lettered A- E the most appropriate option. <br><br>\nThe head of the -11- is called the queen bee. She is -12-than the rest of the bees. Her main task in the colony is to lay eggs. Most of the other bees are the -13- bees. These bees collect nectar and -14- from flowers. The nectar that is carried by the worker bees is deposited on the hive and then -15- into honey. The worker bees also help to look after the young bees. As soon as they are -16-, the worker bees feed the young bees with pollen and nectar. The third type of bee found in the colony is the -17- or male bee. The main task of such a bee is to -18- with a new queen. The queen bee has a life span of about three years. During this period, she would have - 19- more than half a million eggs. When the queen bee is dying, a new queen would be groomed. This new queen will eventually take over the duties of the old queen when the -20- dies.",
+      "imageUrl": null,
+      "questionNumber": 15,
+      "country": "NG",
+      "category": "passage-c",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": true,
+      "metadata": {
+        "topic": "comprehension",
+        "subtopic": "cloze-test",
+        "difficultyScore": 4,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "comprehension",
+          "cloze-test",
+          "writers-intention-mood-attitude-opinion"
+        ],
+        "learningObjectives": [
+          "deduce or infer the writers’ intentions including mood, attitude to the subject matter and opinion"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-COMPREHENSION",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "00d0bc62-186e-4531-8544-4fdc430be7ef",
+      "text": "In question number 16 above choose the best option from letters A- E that best complete the gap",
+      "options": {
+        "A": "born",
+        "B": "hatched",
+        "C": "transformed",
+        "D": "raised",
+        "E": "weaned"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2021,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "In the passage below, the numbered gaps (11-20) indicate missing words. From the options lettered A- E the most appropriate option. <br><br>\nThe head of the -11- is called the queen bee. She is -12-than the rest of the bees. Her main task in the colony is to lay eggs. Most of the other bees are the -13- bees. These bees collect nectar and -14- from flowers. The nectar that is carried by the worker bees is deposited on the hive and then -15- into honey. The worker bees also help to look after the young bees. As soon as they are -16-, the worker bees feed the young bees with pollen and nectar. The third type of bee found in the colony is the -17- or male bee. The main task of such a bee is to -18- with a new queen. The queen bee has a life span of about three years. During this period, she would have - 19- more than half a million eggs. When the queen bee is dying, a new queen would be groomed. This new queen will eventually take over the duties of the old queen when the -20- dies.",
+      "imageUrl": null,
+      "questionNumber": 16,
+      "country": "NG",
+      "category": "passage-c",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": true,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": null,
+        "difficultyScore": 3,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.8,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "55de36bb-1f78-4404-b87a-e058f7928cff",
+      "text": "In question number 17 above choose the best option from letters A- E that best complete the gap",
+      "options": {
+        "A": "alpha",
+        "B": "adult",
+        "C": "drone",
+        "D": "chief",
+        "E": "leader"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2021,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "In the passage below, the numbered gaps (11-20) indicate missing words. From the options lettered A- E the most appropriate option. <br><br>\nThe head of the -11- is called the queen bee. She is -12-than the rest of the bees. Her main task in the colony is to lay eggs. Most of the other bees are the -13- bees. These bees collect nectar and -14- from flowers. The nectar that is carried by the worker bees is deposited on the hive and then -15- into honey. The worker bees also help to look after the young bees. As soon as they are -16-, the worker bees feed the young bees with pollen and nectar. The third type of bee found in the colony is the -17- or male bee. The main task of such a bee is to -18- with a new queen. The queen bee has a life span of about three years. During this period, she would have - 19- more than half a million eggs. When the queen bee is dying, a new queen would be groomed. This new queen will eventually take over the duties of the old queen when the -20- dies.",
+      "imageUrl": null,
+      "questionNumber": 17,
+      "country": "NG",
+      "category": "passage-c",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": true,
+      "metadata": {
+        "topic": "comprehension",
+        "subtopic": "cloze-test",
+        "difficultyScore": 4,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "comprehension",
+          "cloze-test",
+          "writers-intention-mood-attitude-opinion"
+        ],
+        "learningObjectives": [
+          "deduce or infer the writers’ intentions including mood, attitude to the subject matter and opinion"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-COMPREHENSION",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "b8c1b0a4-e6a8-46db-942d-3ecb4c106897",
+      "text": "In question number 18 above choose the best option from letters A- E that best complete the gap",
+      "options": {
+        "A": "mate",
+        "B": "sleep",
+        "C": "romance",
+        "D": "protect",
+        "E": "lead"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2021,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "In the passage below, the numbered gaps (11-20) indicate missing words. From the options lettered A- E the most appropriate option. <br><br>\nThe head of the -11- is called the queen bee. She is -12-than the rest of the bees. Her main task in the colony is to lay eggs. Most of the other bees are the -13- bees. These bees collect nectar and -14- from flowers. The nectar that is carried by the worker bees is deposited on the hive and then -15- into honey. The worker bees also help to look after the young bees. As soon as they are -16-, the worker bees feed the young bees with pollen and nectar. The third type of bee found in the colony is the -17- or male bee. The main task of such a bee is to -18- with a new queen. The queen bee has a life span of about three years. During this period, she would have - 19- more than half a million eggs. When the queen bee is dying, a new queen would be groomed. This new queen will eventually take over the duties of the old queen when the -20- dies.",
+      "imageUrl": null,
+      "questionNumber": 18,
+      "country": "NG",
+      "category": "passage-c",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": true,
+      "metadata": {
+        "topic": "comprehension",
+        "subtopic": "cloze-test",
+        "difficultyScore": 4,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "comprehension",
+          "cloze-test",
+          "writers-intention-mood-attitude-opinion"
+        ],
+        "learningObjectives": [
+          "deduce or infer the writers’ intentions including mood, attitude to the subject matter and opinion"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-COMPREHENSION",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "5dd70d92-b9b1-451e-802f-05ead352cc0f",
+      "text": "In question number 19 above choose the best option from letters A- E that best complete the gap",
+      "options": {
+        "A": "laid",
+        "B": "born",
+        "C": "delivered",
+        "D": "produced",
+        "E": "donated"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2021,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "In the passage below, the numbered gaps (11-20) indicate missing words. From the options lettered A- E the most appropriate option. <br><br>\nThe head of the -11- is called the queen bee. She is -12-than the rest of the bees. Her main task in the colony is to lay eggs. Most of the other bees are the -13- bees. These bees collect nectar and -14- from flowers. The nectar that is carried by the worker bees is deposited on the hive and then -15- into honey. The worker bees also help to look after the young bees. As soon as they are -16-, the worker bees feed the young bees with pollen and nectar. The third type of bee found in the colony is the -17- or male bee. The main task of such a bee is to -18- with a new queen. The queen bee has a life span of about three years. During this period, she would have - 19- more than half a million eggs. When the queen bee is dying, a new queen would be groomed. This new queen will eventually take over the duties of the old queen when the -20- dies.",
+      "imageUrl": null,
+      "questionNumber": 19,
+      "country": "NG",
+      "category": "passage-c",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": true,
+      "metadata": {
+        "topic": "comprehension",
+        "subtopic": "cloze-test",
+        "difficultyScore": 3,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "comprehension",
+          "cloze-test",
+          "writers-intention-mood-attitude-opinion"
+        ],
+        "learningObjectives": [
+          "deduce or infer the writers’ intentions including mood, attitude to the subject matter and opinion"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-COMPREHENSION",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "702e908d-7516-4b12-8ebf-51b3146b5886",
+      "text": "In question number 20 above choose the best option from letters A- E that best complete the gap",
+      "options": {
+        "A": "former",
+        "B": "latter",
+        "C": "earlier",
+        "D": "bee",
+        "E": "princess"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2021,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "In the passage below, the numbered gaps (11-20) indicate missing words. From the options lettered A- E the most appropriate option. <br><br>\nThe head of the -11- is called the queen bee. She is -12-than the rest of the bees. Her main task in the colony is to lay eggs. Most of the other bees are the -13- bees. These bees collect nectar and -14- from flowers. The nectar that is carried by the worker bees is deposited on the hive and then -15- into honey. The worker bees also help to look after the young bees. As soon as they are -16-, the worker bees feed the young bees with pollen and nectar. The third type of bee found in the colony is the -17- or male bee. The main task of such a bee is to -18- with a new queen. The queen bee has a life span of about three years. During this period, she would have - 19- more than half a million eggs. When the queen bee is dying, a new queen would be groomed. This new queen will eventually take over the duties of the old queen when the -20- dies.",
+      "imageUrl": null,
+      "questionNumber": 20,
+      "country": "NG",
+      "category": "passage-c",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": true,
+      "metadata": {
+        "topic": "comprehension",
+        "subtopic": "cloze-test",
+        "difficultyScore": 3,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "comprehension",
+          "cloze-test",
+          "writers-intention-mood-attitude-opinion"
+        ],
+        "learningObjectives": [
+          "deduce or infer the writers’ intentions including mood, attitude to the subject matter and opinion"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-COMPREHENSION",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "be3450c9-d967-49d6-9cd1-8ee579dc841b",
+      "text": "He maintained that Nigerians need a leader with an <u>iron fist</u>",
+      "options": {
+        "A": "fist made of iron",
+        "B": "severe in treatment",
+        "C": "difiicult to please",
+        "D": "strong as iron"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2021,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "choose the most appropriate option nearest in meaning to the word(s) underlined.",
+      "imageUrl": null,
+      "questionNumber": 21,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "idioms-phrasal-verbs",
+        "difficultyScore": 3,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "idioms-phrasal-verbs",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "3f139604-355f-4f3e-aa22-005fc264d690",
+      "text": "The emphasis placed on good moral conduct by the society in the past seems to have been <u>relaxed</u>",
+      "options": {
+        "A": "avoided",
+        "B": "improved",
+        "C": "weakened",
+        "D": "outdated"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2021,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "choose the most appropriate option nearest in meaning to the word(s) underlined.",
+      "imageUrl": null,
+      "questionNumber": 22,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 3,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "992c4d03-cfed-4e98-9afa-5aeaa4b8417a",
+      "text": "The matter was considered a <u>private</u> concern of the chairman to handle",
+      "options": {
+        "A": "personal",
+        "B": "known",
+        "C": "public",
+        "D": "open"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2021,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "choose the most appropriate option nearest in meaning to the word(s) underlined.",
+      "imageUrl": null,
+      "questionNumber": 23,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "5519f4b9-7c5e-4810-9315-9f092b85c2af",
+      "text": "He was underrated at the <u>preliminary</u> stage of the competition",
+      "options": {
+        "A": "advance",
+        "B": "initial",
+        "C": "selection",
+        "D": "crucial"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2021,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "choose the most appropriate option nearest in meaning to the word(s) underlined.",
+      "imageUrl": null,
+      "questionNumber": 24,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "79415217-0b6f-4827-a755-bddadf59f06a",
+      "text": "The office assistant was dismissed for <u>pilfering</u>",
+      "options": {
+        "A": "fighting",
+        "B": "incompetence",
+        "C": "stealing",
+        "D": "mismanagement"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2021,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "choose the most appropriate option nearest in meaning to the word(s) underlined.",
+      "imageUrl": null,
+      "questionNumber": 25,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 1,
+        "estimatedTime": 20,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "a77ece03-1375-41b4-bc7e-2d138aa871ca",
+      "text": "Almost everyone she had worked with took advantage of her <u>meekness</u>",
+      "options": {
+        "A": "gentleness",
+        "B": "weakness",
+        "C": "steadfastness",
+        "D": "generosity"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2021,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "choose the most appropriate option nearest in meaning to the word(s) underlined.",
+      "imageUrl": null,
+      "questionNumber": 26,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "bd1010b4-2792-4f71-b46d-cbf1fe4df058",
+      "text": "Barely six months after his father's demise, he has nothing left again of his <u>patrimony</u>",
+      "options": {
+        "A": "inheritance",
+        "B": "property",
+        "C": "reputation",
+        "D": "valuables"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2021,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "choose the most appropriate option nearest in meaning to the word(s) underlined.",
+      "imageUrl": null,
+      "questionNumber": 27,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "ea1600d7-6009-430e-916e-01ad860ae679",
+      "text": "choose the most appropriate option nearest in meaning to the word(s) underlined.\n\nHis grandfather was one of the few <u>patriotic</u> Nigerians who ever lived.",
+      "options": {
+        "A": "obedient",
+        "B": "lover of Nigeria",
+        "C": "calculative",
+        "D": "careless"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2021,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "choose the most appropriate option nearest in meaning to the word(s) underlined.",
+      "imageUrl": null,
+      "questionNumber": 28,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "synonyms-antonyms",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "synonyms-antonyms",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "6a9f7f9c-a93b-446b-abc1-6b414fe60d12",
+      "text": "Many people believed that such an action is <u>unbecoming</u> of a leader",
+      "options": {
+        "A": "forthcoming",
+        "B": ". not befitting",
+        "C": "unwanted",
+        "D": "not necessary"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2021,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "choose the most appropriate option nearest in meaning to the word(s) underlined.",
+      "imageUrl": null,
+      "questionNumber": 29,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "2d64ddc0-411e-4160-94c3-4382f9ccd401",
+      "text": "The governor was <u>incoherent</u> in his speech",
+      "options": {
+        "A": "uncoordinated",
+        "B": "talkative",
+        "C": "confused",
+        "D": "eloquent"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2021,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "choose the most appropriate option nearest in meaning to the word(s) underlined.",
+      "imageUrl": null,
+      "questionNumber": 30,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "8ba9c5b9-19b9-41a1-82fb-696c7d720986",
+      "text": "The lady has devised a means of <u>tackling</u> her current challenges.",
+      "options": {
+        "A": "attacking",
+        "B": "avoiding",
+        "C": "handling",
+        "D": "suspending"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2021,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "choose the option nearly opposite in meaning to the word(s) underlined",
+      "imageUrl": null,
+      "questionNumber": 31,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "52de0b84-6078-4756-9461-3cbed5adf49d",
+      "text": "One hundred and forty kilometres per hour is a <u>reasonable</u> speed limit.",
+      "options": {
+        "A": "acceptable",
+        "B": "unbelievable",
+        "C": "outrageous",
+        "D": "detestable"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2021,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "choose the option nearly opposite in meaning to the word(s) underlined",
+      "imageUrl": null,
+      "questionNumber": 32,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "synonyms-antonyms",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "synonyms-antonyms",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "620e8c73-cca5-4d51-95ca-e439f55257bd",
+      "text": "The annual festival attracts <u>dignitaries</u> from both home and abroad.",
+      "options": {
+        "A": "spectators",
+        "B": "celebrities",
+        "C": "chieftains",
+        "D": "nonentities"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2021,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "choose the option nearly opposite in meaning to the word(s) underlined",
+      "imageUrl": null,
+      "questionNumber": 33,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "synonyms-antonyms",
+        "difficultyScore": 3,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "synonyms-antonyms",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "b0b66a6f-6aa1-4baa-8867-40645e1db248",
+      "text": "The soldiers were <u>remorseful</u> for their inhuman treatment of the civilians.",
+      "options": {
+        "A": "boastful",
+        "B": "sad",
+        "C": "successful",
+        "D": "reliable"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2021,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "choose the option nearly opposite in meaning to the word(s) underlined",
+      "imageUrl": null,
+      "questionNumber": 34,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "208205f1-26d9-4491-8a86-fb89386f6307",
+      "text": "nsecurity has <u>escalated</u> since the present government came into power.",
+      "options": {
+        "A": "abated",
+        "B": "increased",
+        "C": "proliferated",
+        "D": "metamorphosed"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2021,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "choose the option nearly opposite in meaning to the word(s) underlined",
+      "imageUrl": null,
+      "questionNumber": 35,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "synonyms-antonyms",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "synonyms-antonyms",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "26b4eb6c-325f-405c-bd07-1f6dd5986c5c",
+      "text": "It is <u>embarrassing</u> to accept our mistakes and tender an apology.",
+      "options": {
+        "A": "acceptable",
+        "B": "honourable",
+        "C": "detestable",
+        "D": "pardonable"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2021,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "choose the option nearly opposite in meaning to the word(s) underlined",
+      "imageUrl": null,
+      "questionNumber": 36,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 3,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "2c1b59f3-6c90-4e60-ac49-6e1b51591078",
+      "text": "The lawmakers are perceived to be the <u>greediest</u> set of politicians.",
+      "options": {
+        "A": "selfless",
+        "B": "unwanted",
+        "C": "popular",
+        "D": "corrupt"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2021,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "choose the option nearly opposite in meaning to the word(s) underlined",
+      "imageUrl": null,
+      "questionNumber": 37,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "ece8c60e-fd6c-4bf5-af34-d3230a84cd46",
+      "text": "James found the photocopied material <u>invaluable</u> while preparing for the examination",
+      "options": {
+        "A": "Valuable",
+        "B": "worthwhile",
+        "C": "worthless",
+        "D": "important"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2021,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "choose the option nearly opposite in meaning to the word(s) underlined",
+      "imageUrl": null,
+      "questionNumber": 38,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 1,
+        "estimatedTime": 20,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "37fcf0eb-11fa-452d-95c1-87a9452deb09",
+      "text": "Mr. Akin's health has greatly <u>degenerated</u> in the last week.",
+      "options": {
+        "A": "improved",
+        "B": "deteriorated",
+        "C": "expanded",
+        "D": "abated"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2021,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "choose the option nearly opposite in meaning to the word(s) underlined",
+      "imageUrl": null,
+      "questionNumber": 39,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "synonyms-antonyms",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "synonyms-antonyms",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "4e40afe0-ff49-46f2-8791-4a42a06a3792",
+      "text": "The incumbent president <u>conceded</u> defeat before the final result was announced.",
+      "options": {
+        "A": "accepted",
+        "B": "rejected",
+        "C": "opposed",
+        "D": "challenged"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2021,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "choose the option nearly opposite in meaning to the word(s) underlined",
+      "imageUrl": null,
+      "questionNumber": 40,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "synonyms-antonyms",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "synonyms-antonyms",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "2236b640-787d-4068-ad16-64db2a8a76e7",
+      "text": "choose the option with the correct spelling from the options lettered A-E",
+      "options": {
+        "A": "Interprete",
+        "B": "Interpret",
+        "C": "Inteprete",
+        "D": "Interprette",
+        "E": "Interrpret"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2021,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 41,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "spelling-correct-incorrect",
+        "difficultyScore": 2,
+        "estimatedTime": 20,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "8dc89a7c-b67f-44fc-98ad-d5c947281f8b",
+      "text": "Biography",
+      "options": {
+        "A": "bioGRAphy",
+        "B": "BIography",
+        "C": "biograPHY",
+        "D": "biOgraphy"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2021,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "choose the option with the correct emphatic stress indicated in capital letters from the options lettered A-D",
+      "imageUrl": null,
+      "questionNumber": 44,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "oral-english",
+        "subtopic": "vowel-sounds",
+        "difficultyScore": 1,
+        "estimatedTime": 10,
+        "tags": [
+          "english-language",
+          "oral-english",
+          "vowel-sounds",
+          "connected-speech"
+        ],
+        "learningObjectives": [
+          "identify correct pronunciation of individual words and articulation of connected speech"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-ORAL-ENGLISH",
+        "classificationConfidence": 0.8,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "01673a20-aa75-42a7-9cdf-b554d49c3d93",
+      "text": "Successful",
+      "options": {
+        "A": "SUccessful",
+        "B": "suCcessful",
+        "C": "sucCEssful",
+        "D": "succESSful"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2021,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "choose the option with the correct emphatic stress indicated in capital letters from the options lettered A-D",
+      "imageUrl": null,
+      "questionNumber": 45,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "oral-english",
+        "subtopic": "stress-intonation",
+        "difficultyScore": 1,
+        "estimatedTime": 20,
+        "tags": [
+          "english-language",
+          "oral-english",
+          "stress-intonation",
+          "connected-speech"
+        ],
+        "learningObjectives": [
+          "identify correct pronunciation of individual words and articulation of connected speech"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-ORAL-ENGLISH",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "62ac9fac-8c41-48d9-9813-fbd19d08844d",
+      "text": "Democracy",
+      "options": {
+        "A": "DEmocracy",
+        "B": "deMOcracy",
+        "C": "demoCRAcy",
+        "D": "democraCY"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2021,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "choose the option with the correct emphatic stress indicated in capital letters from the options lettered A-D",
+      "imageUrl": null,
+      "questionNumber": 46,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "oral-english",
+        "subtopic": "stress-intonation",
+        "difficultyScore": 1,
+        "estimatedTime": 10,
+        "tags": [
+          "english-language",
+          "oral-english",
+          "stress-intonation",
+          "connected-speech"
+        ],
+        "learningObjectives": [
+          "identify correct pronunciation of individual words and articulation of connected speech"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-ORAL-ENGLISH",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "827ca2df-384e-4068-8af1-b54901a61e70",
+      "text": "Conventional",
+      "options": {
+        "A": "conVENtional",
+        "B": "CONventional",
+        "C": "convenTIOnal",
+        "D": "conventioNAL"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2021,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "choose the option with the correct emphatic stress indicated in capital letters from the options lettered A-D",
+      "imageUrl": null,
+      "questionNumber": 47,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "oral-english",
+        "subtopic": "stress-intonation",
+        "difficultyScore": 1,
+        "estimatedTime": 15,
+        "tags": [
+          "english-language",
+          "oral-english",
+          "stress-intonation",
+          "connected-speech"
+        ],
+        "learningObjectives": [
+          "identify correct pronunciation of individual words and articulation of connected speech"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-ORAL-ENGLISH",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "cbb17781-50d9-4aa5-bf89-72bf55b3aa6a",
+      "text": "The two friends made promises to _____ when they met last year",
+      "options": {
+        "A": "each other",
+        "B": "one another",
+        "C": "theirselves",
+        "D": "themselves"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2021,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "complete the statement from the options lettered A-D",
+      "imageUrl": null,
+      "questionNumber": 48,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "grammar",
+        "subtopic": "agreement",
+        "difficultyScore": 1,
+        "estimatedTime": 20,
+        "tags": [
+          "english-language",
+          "grammar",
+          "agreement",
+          "word-classes-and-functions"
+        ],
+        "learningObjectives": [
+          "identify various grammatical patterns in use"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-GRAMMAR",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "dff37228-78e4-4f15-a452-fd2949154d6c",
+      "text": "The meeting was organised at _______ instance ?",
+      "options": {
+        "A": "whom",
+        "B": "whose's",
+        "C": "whose",
+        "D": "whom's"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2021,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "complete the statement from the options lettered A-D",
+      "imageUrl": null,
+      "questionNumber": 49,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "grammar",
+        "subtopic": "parts-of-speech",
+        "difficultyScore": 1,
+        "estimatedTime": 20,
+        "tags": [
+          "english-language",
+          "grammar",
+          "parts-of-speech",
+          "word-classes-and-functions"
+        ],
+        "learningObjectives": [
+          "identify various grammatical patterns in use"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-GRAMMAR",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "90ae80b8-0503-4489-ad5c-31ba8011ec6f",
+      "text": "Mr. Jude made the meeting _____his poor health",
+      "options": {
+        "A": "even though",
+        "B": "inspite of",
+        "C": "in spite of",
+        "D": "despite that"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2021,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "complete the statement from the options lettered A-D",
+      "imageUrl": null,
+      "questionNumber": 50,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "grammar",
+        "subtopic": "agreement",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "grammar",
+          "agreement",
+          "word-classes-and-functions"
+        ],
+        "learningObjectives": [
+          "identify various grammatical patterns in use"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-GRAMMAR",
+        "classificationConfidence": 0.8,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "a6bc977d-5d4d-417c-b78e-8a9c004ecff3",
+      "text": "The manager met the ______ who came visiting last week",
+      "options": {
+        "A": "dark tall good-looking American",
+        "B": "good-looking tall dark American",
+        "C": "Tall dark American good-looking",
+        "D": "American dark tall good-looking"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2021,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "complete the statement from the options lettered A-D",
+      "imageUrl": null,
+      "questionNumber": 51,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "grammar",
+        "subtopic": "degree-comparison",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "grammar",
+          "degree-comparison",
+          "word-classes-and-functions"
+        ],
+        "learningObjectives": [
+          "identify various grammatical patterns in use"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-GRAMMAR",
+        "classificationConfidence": 0.8,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "835a1e99-7ec9-43a6-81b6-3872a5d87929",
+      "text": "H<u>ea</u>d",
+      "options": {
+        "A": "bead",
+        "B": "red",
+        "C": "rear",
+        "D": "stir",
+        "E": "heel"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2021,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "choose the option that has the same vowel sound as the letter(s) underlined from the options lettered A-E",
+      "imageUrl": null,
+      "questionNumber": 52,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "oral-english",
+        "subtopic": "vowel-sounds",
+        "difficultyScore": 2,
+        "estimatedTime": 20,
+        "tags": [
+          "english-language",
+          "oral-english",
+          "vowel-sounds",
+          "connected-speech"
+        ],
+        "learningObjectives": [
+          "identify correct pronunciation of individual words and articulation of connected speech"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-ORAL-ENGLISH",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "5714712b-a270-44dd-9b05-ccc04651a4b8",
+      "text": "M<u>oo</u>n",
+      "options": {
+        "A": "cook",
+        "B": "loop",
+        "C": "pull",
+        "D": "look",
+        "E": "double"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2021,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "choose the option that has the same vowel sound as the letter(s) underlined from the options lettered A-E",
+      "imageUrl": null,
+      "questionNumber": 53,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "oral-english",
+        "subtopic": "vowel-sounds",
+        "difficultyScore": 1,
+        "estimatedTime": 15,
+        "tags": [
+          "english-language",
+          "oral-english",
+          "vowel-sounds",
+          "connected-speech"
+        ],
+        "learningObjectives": [
+          "identify correct pronunciation of individual words and articulation of connected speech"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-ORAL-ENGLISH",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "c83e6af9-5c3c-4956-8ae0-93795a29bbbf",
+      "text": "Cr<u>ee</u>p",
+      "options": {
+        "A": "beep",
+        "B": "bring",
+        "C": "tread",
+        "D": "credit",
+        "E": "ship"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2021,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "choose the option that has the same vowel sound as the letter(s) underlined from the options lettered A-E",
+      "imageUrl": null,
+      "questionNumber": 54,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "oral-english",
+        "subtopic": "vowel-sounds",
+        "difficultyScore": 1,
+        "estimatedTime": 20,
+        "tags": [
+          "english-language",
+          "oral-english",
+          "vowel-sounds",
+          "connected-speech"
+        ],
+        "learningObjectives": [
+          "identify correct pronunciation of individual words and articulation of connected speech"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-ORAL-ENGLISH",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "ab059783-c533-45c4-b035-1301898c1a6e",
+      "text": "<u>K</u>ing",
+      "options": {
+        "A": "that",
+        "B": "think",
+        "C": "thine",
+        "D": "tongue",
+        "E": "tone"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2021,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "choose the option that has the same consonant sound as the letter(s) underlined from the options lettered A-E",
+      "imageUrl": null,
+      "questionNumber": 55,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "oral-english",
+        "subtopic": "vowel-sounds",
+        "difficultyScore": 2,
+        "estimatedTime": 20,
+        "tags": [
+          "english-language",
+          "oral-english",
+          "vowel-sounds",
+          "connected-speech"
+        ],
+        "learningObjectives": [
+          "identify correct pronunciation of individual words and articulation of connected speech"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-ORAL-ENGLISH",
+        "classificationConfidence": 0.8,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "59c64fc3-bcc9-4f01-9ad9-78960fa3e4b8",
+      "text": "<u>T</u>each",
+      "options": {
+        "A": "deviate",
+        "B": "through",
+        "C": "wrath",
+        "D": "both",
+        "E": "listen"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2021,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "choose the option that has the same consonant sound as the letter(s) underlined from the options lettered A-E",
+      "imageUrl": null,
+      "questionNumber": 56,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "oral-english",
+        "subtopic": "vowel-sounds",
+        "difficultyScore": 1,
+        "estimatedTime": 10,
+        "tags": [
+          "english-language",
+          "oral-english",
+          "vowel-sounds",
+          "connected-speech"
+        ],
+        "learningObjectives": [
+          "identify correct pronunciation of individual words and articulation of connected speech"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-ORAL-ENGLISH",
+        "classificationConfidence": 0.8,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "d7f273a5-25de-4d9b-bbf3-d88a658f5792",
+      "text": "<u>B</u>ark",
+      "options": {
+        "A": "climb",
+        "B": "tomb",
+        "C": "curb",
+        "D": "doubt",
+        "E": "dumb"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2021,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "choose the option that has the same consonant sound as the letter(s) underlined from the options lettered A-E",
+      "imageUrl": null,
+      "questionNumber": 57,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "vocabulary",
+        "subtopic": "contextual-meaning",
+        "difficultyScore": 1,
+        "estimatedTime": 15,
+        "tags": [
+          "english-language",
+          "vocabulary",
+          "contextual-meaning",
+          "spelling-correct-incorrect"
+        ],
+        "learningObjectives": [
+          "differentiate between correct and incorrect spellings"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-VOCABULARY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "c46f20d9-54dc-494c-8fb8-57973929de5b",
+      "text": "The Parents Teachers Association promised to build a CAFETERIA.",
+      "options": {
+        "A": "Does the alumni association promised to build a cafeteria?",
+        "B": "Does the school authority promised to build a library?",
+        "C": "Did the parents teachers association promise to build a library?",
+        "D": "Does the parents teachers association promised to demolish a cafeteria?"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2021,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "choose the option that best answers the question from the options lettered A-D",
+      "imageUrl": null,
+      "questionNumber": 58,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "grammar",
+        "subtopic": "agreement",
+        "difficultyScore": 3,
+        "estimatedTime": 60,
+        "tags": [
+          "english-language",
+          "grammar",
+          "agreement",
+          "word-classes-and-functions"
+        ],
+        "learningObjectives": [
+          "identify various grammatical patterns in use"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-GRAMMAR",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "e9d3b352-e7f3-4d98-a421-782bfc43372c",
+      "text": "He SLAPPED the teacher.",
+      "options": {
+        "A": "Did he greet the teacher?",
+        "B": "Did the teacher flog him?",
+        "C": "Did he slap the nurse?",
+        "D": "Did he praise the principal?"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2021,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "choose the option that best answers the question from the options lettered A-D",
+      "imageUrl": null,
+      "questionNumber": 59,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "oral-english",
+        "subtopic": "stress-intonation",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "oral-english",
+          "stress-intonation",
+          "connected-speech"
+        ],
+        "learningObjectives": [
+          "identify correct pronunciation of individual words and articulation of connected speech"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-ORAL-ENGLISH",
+        "classificationConfidence": 0.7,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "11fb27f5-bd88-47b0-bcd2-4095e6fd089b",
+      "text": "He travels every WEEKEND",
+      "options": {
+        "A": "Does he sleep every weekend?",
+        "B": "Does he wash every week days?",
+        "C": "Does he travel every month?",
+        "D": "Does he travel every day?"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "english-language",
+      "year": 2021,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "choose the option that best answers the question from the options lettered A-D",
+      "imageUrl": null,
+      "questionNumber": 60,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "hasPassage": false,
+      "metadata": {
+        "topic": "oral-english",
+        "subtopic": "word-stress-polysyllabic",
+        "difficultyScore": 2,
+        "estimatedTime": 30,
+        "tags": [
+          "english-language",
+          "oral-english",
+          "word-stress-polysyllabic",
+          "connected-speech"
+        ],
+        "learningObjectives": [
+          "identify correct pronunciation of individual words and articulation of connected speech"
+        ],
+        "curriculumAlignment": "JAMB-SS3-ENGLISH-LANGUAGE-ORAL-ENGLISH",
+        "classificationConfidence": 0.8,
+        "needsReview": false
+      }
+    }
+  ]
+}

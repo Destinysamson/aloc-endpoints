@@ -1,0 +1,2488 @@
+{
+  "exam": "JAMB",
+  "subject": "mathematics",
+  "year": 2017,
+  "source": "ALOC",
+  "contentSource": "historical",
+  "questionCount": 48,
+  "questions": [
+    {
+      "id": "e7b95a2e-e35d-462d-8778-c6f043421339",
+      "text": "Given T = { even numbers from 1 to 12 }\nN = {common factors of 6, 8 and 12}\nFind T ∩ N",
+      "options": {
+        "A": "{2, 3}",
+        "B": "{2, 3, 4}",
+        "C": "{3, 4, 6}",
+        "D": "{2}"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2017,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 1,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "algebra",
+        "subtopic": "sets",
+        "difficultyScore": 2,
+        "estimatedTime": 60,
+        "tags": [
+          "mathematics",
+          "algebra",
+          "sets",
+          "determinants"
+        ],
+        "learningObjectives": [
+          "Compute the inverse of a 2 x 2 matrix."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-ALGEBRA",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "082ad2e0-c056-48e5-9b04-20578265d235",
+      "text": "What is the next number in the series 2, 1, 1/2, 1/4 ...",
+      "options": {
+        "A": "1/3",
+        "B": "2/8",
+        "C": "3/7",
+        "D": "1/8"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2017,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 2,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "algebra",
+        "subtopic": "sequences-series",
+        "difficultyScore": 2,
+        "estimatedTime": 60,
+        "tags": [
+          "mathematics",
+          "algebra",
+          "sequences-series",
+          "determinants"
+        ],
+        "learningObjectives": [
+          "Compute the inverse of a 2 x 2 matrix."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-ALGEBRA",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "9e61d221-ec6e-46c2-8809-a1b380f2fcc5",
+      "text": "If U = {x : x is an integer and 1 ≤ x ≤ 20 }\nE1 = {x: x is a multiple of 3}\nE2 = {x: x is a multiple of 4} and an integer is picked at random from U, find the probability that it is not in E2",
+      "options": {
+        "A": "3/4",
+        "B": "3/10",
+        "C": "1/4",
+        "D": "1/20"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2017,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 3,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "statistics",
+        "subtopic": "probability",
+        "difficultyScore": 4,
+        "estimatedTime": 120,
+        "tags": [
+          "mathematics",
+          "statistics",
+          "probability"
+        ],
+        "learningObjectives": [
+          "Resolve simple probability problems, including addition and multiplication rules for mutual and independent events."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-STATISTICS",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "9d90d466-6234-434b-ba59-e79bf493697a",
+      "text": "The curved surface area of a cylinder 5cm high is 110cm2. Find the radius of its base\nπ = 22/7",
+      "options": {
+        "A": "2.6cm",
+        "B": "3.5cm",
+        "C": "3.6cm",
+        "D": "7.0cm"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2017,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 4,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "geometry",
+        "subtopic": "mensuration",
+        "difficultyScore": 3,
+        "estimatedTime": 120,
+        "tags": [
+          "mathematics",
+          "geometry",
+          "mensuration",
+          "coordinate-geometry"
+        ],
+        "learningObjectives": [
+          "Find the equation of a straight line using two-point, point-slope, slope-intercept and general forms."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-GEOMETRY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "d138c0f9-f8f4-4751-996a-8e77b7b27895",
+      "text": "If two graphs Y = px<sup>2</sup> + q and y = 2x<sup>2</sup> − 1 intersect at x =2, find the value of p in terms of q",
+      "options": {
+        "A": "q − 8/7",
+        "B": "7 − q/4",
+        "C": "8 − q/2",
+        "D": "7 + q/8"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2017,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 5,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "algebra",
+        "subtopic": "quadratic-equations",
+        "difficultyScore": 3,
+        "estimatedTime": 120,
+        "tags": [
+          "mathematics",
+          "algebra",
+          "quadratic-equations",
+          "determinants"
+        ],
+        "learningObjectives": [
+          "Compute the inverse of a 2 x 2 matrix."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-ALGEBRA",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "17e710f4-ead9-4e8d-8696-0cb4de600bb0",
+      "text": "Evaluate (sin45° + sin30° ) in surd form",
+      "options": {
+        "A": "√3/2√2",
+        "B": "√3 − 1/2",
+        "C": "1/2 √2",
+        "D": "1+√2/2"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2017,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": "https://res.cloudinary.com/aloc-ng/image/upload/v1724005730/ALOC-Questions/Mathematics/2017/MATH_JAMB_2017_Q6_SOLUTION_xedzj5.jpg",
+      "questionNumber": 6,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "trigonometry",
+        "subtopic": null,
+        "difficultyScore": 2,
+        "estimatedTime": 60,
+        "tags": [
+          "mathematics",
+          "trigonometry",
+          "graphs-of-trig"
+        ],
+        "learningObjectives": [
+          "Resolve problems involving the graphs of sine and cosine functions."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-TRIGONOMETRY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "d98a6161-1c0d-4a64-9e25-1388952b1689",
+      "text": "If y = x Sin x, find dy/dx when x = π/2",
+      "options": {
+        "A": "−π/2",
+        "B": "-1",
+        "C": "1",
+        "D": "π/2"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2017,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 7,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "calculus",
+        "subtopic": "differentiation",
+        "difficultyScore": 3,
+        "estimatedTime": 120,
+        "tags": [
+          "mathematics",
+          "calculus",
+          "differentiation",
+          "integration"
+        ],
+        "learningObjectives": [
+          "Calculate the area under a curve for simple cases."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-CALCULUS",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "f8ffe1ac-419e-4808-805b-11bb59fd0b4b",
+      "text": "If temperature t is directly proportional to heat h, and when t = 20oC, h = 50 J, find t when h = 60J",
+      "options": {
+        "A": "24°C",
+        "B": "20°C",
+        "C": "34°C",
+        "D": "30°C"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2017,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 8,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "algebra",
+        "subtopic": null,
+        "difficultyScore": 3,
+        "estimatedTime": 120,
+        "tags": [
+          "mathematics",
+          "algebra",
+          "determinants"
+        ],
+        "learningObjectives": [
+          "Compute the inverse of a 2 x 2 matrix."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-ALGEBRA",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "bb069591-f456-4436-83bc-f6bda96fb538",
+      "text": "Evaluate 1 - (1/5 x 2/3) + ( 5 + 2/3)",
+      "options": {
+        "A": "4",
+        "B": "3",
+        "C": "2(2/3)",
+        "D": "98/15"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2017,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 9,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "number-theory",
+        "subtopic": "fractions-decimals",
+        "difficultyScore": 3,
+        "estimatedTime": 120,
+        "tags": [
+          "mathematics",
+          "number-theory",
+          "fractions-decimals",
+          "shares-vat"
+        ],
+        "learningObjectives": [
+          "Solve problems involving shares and value added tax."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-NUMBER-THEORY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "8c25d930-a218-4ccb-a018-45f653be5236",
+      "text": "Given m = N√(SL/T) make T the subject of the formula",
+      "options": {
+        "A": "NSL/M",
+        "B": "N<sup>2</sup>SL/M<sup>2</sup>",
+        "C": "N<sup>2</sup>SLM",
+        "D": "NSL/M<sup>2</sup>"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2017,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 10,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "algebra",
+        "subtopic": "equations",
+        "difficultyScore": 3,
+        "estimatedTime": 120,
+        "tags": [
+          "mathematics",
+          "algebra",
+          "equations",
+          "determinants"
+        ],
+        "learningObjectives": [
+          "Compute the inverse of a 2 x 2 matrix."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-ALGEBRA",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "6e0f7b15-cf1b-46e9-a99f-16debf225df3",
+      "text": "Simplify 3<sup>n−1</sup> ×  (27<sup>n+1</sup>)/81<sup>n</sup>",
+      "options": {
+        "A": "32<sup>2n</sup>",
+        "B": "9",
+        "C": "3<sup>n</sup>",
+        "D": "3<sup>n + 1</sup>"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2017,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <msup>\n      <mn>27</mn>\n      <mrow class=\"MJX-TeXAtom-ORD\">\n        <mi>n</mi>\n        <mo>+</mo>\n        <mn>1</mn>\n      </mrow>\n    </msup>\n    <msup>\n      <mn>81</mn>\n      <mi>n</mi>\n    </msup>\n  </mfrac>\n</math>",
+      "imageUrl": null,
+      "questionNumber": 11,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "algebra",
+        "subtopic": "indices-logarithms",
+        "difficultyScore": 3,
+        "estimatedTime": 120,
+        "tags": [
+          "mathematics",
+          "algebra",
+          "indices-logarithms",
+          "determinants"
+        ],
+        "learningObjectives": [
+          "Compute the inverse of a 2 x 2 matrix."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-ALGEBRA",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "6d20527c-7b7f-489f-b0a1-4e9f418fcf22",
+      "text": "The locus of a point which is equidistant from the line PQ forms a",
+      "options": {
+        "A": "circle centre P",
+        "B": "pair of parallel lines each opposite to PQ",
+        "C": "circle centre Q",
+        "D": "perpendicular line to PQ"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2017,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 12,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "geometry",
+        "subtopic": "loci",
+        "difficultyScore": 2,
+        "estimatedTime": 60,
+        "tags": [
+          "mathematics",
+          "geometry",
+          "loci",
+          "coordinate-geometry"
+        ],
+        "learningObjectives": [
+          "Find the equation of a straight line using two-point, point-slope, slope-intercept and general forms."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-GEOMETRY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "776b8b95-5e26-46b4-aad8-242bb7ce7da9",
+      "text": "Given the quadrilateral RSTO inscribed in the circle with O as centre. Find the size angle x and given RST = 60°",
+      "options": {
+        "A": "100o",
+        "B": "140°",
+        "C": "120°",
+        "D": "10°"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2017,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": "https://res.cloudinary.com/aloc-ng/image/upload/v1724005763/ALOC-Questions/Mathematics/2017/MATH_JAMB_2017_Q13_ynoyk0.jpg",
+      "questionNumber": 13,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "geometry",
+        "subtopic": "circles",
+        "difficultyScore": 3,
+        "estimatedTime": 120,
+        "tags": [
+          "mathematics",
+          "geometry",
+          "circles",
+          "coordinate-geometry"
+        ],
+        "learningObjectives": [
+          "Find the equation of a straight line using two-point, point-slope, slope-intercept and general forms."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-GEOMETRY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "b5acbe01-f772-433e-aba7-f39f45c34ec8",
+      "text": "Find the sum of the range and the mode of the set of numbers 10, 9, 10, 9, 8, 7, 7, 10, 8, 10, 8, 4, 6, 9, 10, 9, 7, 10, 6, 5",
+      "options": {
+        "A": "16",
+        "B": "14",
+        "C": "12",
+        "D": "10"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2017,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 14,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "statistics",
+        "subtopic": "mean-median-mode",
+        "difficultyScore": 3,
+        "estimatedTime": 120,
+        "tags": [
+          "mathematics",
+          "statistics",
+          "mean-median-mode",
+          "probability"
+        ],
+        "learningObjectives": [
+          "Resolve simple probability problems, including addition and multiplication rules for mutual and independent events."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-STATISTICS",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "44260889-475c-4111-8dbc-871b474c8909",
+      "text": "The base in which the operation was performed was",
+      "options": {
+        "A": "6",
+        "B": "2",
+        "C": "4",
+        "D": "5"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2017,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": "https://res.cloudinary.com/aloc-ng/image/upload/v1724005796/ALOC-Questions/Mathematics/2017/MATH_JAMB_2017_Q16_aborgr.jpg",
+      "questionNumber": 16,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "number-theory",
+        "subtopic": "number-bases",
+        "difficultyScore": 1,
+        "estimatedTime": 20,
+        "tags": [
+          "mathematics",
+          "number-theory",
+          "number-bases",
+          "shares-vat"
+        ],
+        "learningObjectives": [
+          "Solve problems involving shares and value added tax."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-NUMBER-THEORY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "d529a756-49c8-4bf3-8e94-6dce5bb462f7",
+      "text": "The value of x + x ( xx) when x = 2 is",
+      "options": {
+        "A": "16",
+        "B": "10",
+        "C": "18",
+        "D": "24"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2017,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 17,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "algebra",
+        "subtopic": null,
+        "difficultyScore": 2,
+        "estimatedTime": 60,
+        "tags": [
+          "mathematics",
+          "algebra",
+          "determinants"
+        ],
+        "learningObjectives": [
+          "Compute the inverse of a 2 x 2 matrix."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-ALGEBRA",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "f7742d8f-5160-430c-8713-046d29a9c399",
+      "text": "In a regular polygon, each interior angle doubles its corresponding exterior angle. Find the number of sides of the polygon",
+      "options": {
+        "A": "8",
+        "B": "6",
+        "C": "4",
+        "D": "3"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2017,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 18,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "geometry",
+        "subtopic": "polygons",
+        "difficultyScore": 4,
+        "estimatedTime": 300,
+        "tags": [
+          "mathematics",
+          "geometry",
+          "polygons",
+          "coordinate-geometry"
+        ],
+        "learningObjectives": [
+          "Find the equation of a straight line using two-point, point-slope, slope-intercept and general forms."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-GEOMETRY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "1c681117-5c86-4c2d-aa39-c6c9643d10b6",
+      "text": "A cylindrical tank has a capacity of 3080m3. What is the depth of the tank if the diameter of its base is 14m? Take pi = 22/7.",
+      "options": {
+        "A": "23m",
+        "B": "25m",
+        "C": "20m",
+        "D": "22m"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2017,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 19,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "geometry",
+        "subtopic": "mensuration",
+        "difficultyScore": 3,
+        "estimatedTime": 120,
+        "tags": [
+          "mathematics",
+          "geometry",
+          "mensuration",
+          "coordinate-geometry"
+        ],
+        "learningObjectives": [
+          "Find the equation of a straight line using two-point, point-slope, slope-intercept and general forms."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-GEOMETRY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "cd02ddb7-746f-4983-929e-aaa826f34566",
+      "text": "Simplify 4√27 + 5√12 − 3√75",
+      "options": {
+        "A": "7",
+        "B": "-7",
+        "C": "-7√3",
+        "D": "7√3"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2017,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 20,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "algebra",
+        "subtopic": "surds",
+        "difficultyScore": 3,
+        "estimatedTime": 120,
+        "tags": [
+          "mathematics",
+          "algebra",
+          "surds",
+          "determinants"
+        ],
+        "learningObjectives": [
+          "Compute the inverse of a 2 x 2 matrix."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-ALGEBRA",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "e4640ab4-ffcb-423b-9516-08c18094dd69",
+      "text": "A man covered a distance of 50 miles on his first trip, on a later trip he traveled 300 miles while going 3 times as fast. His new time compared with the old distance was?",
+      "options": {
+        "A": "three times as much",
+        "B": "the same",
+        "C": "twice as much",
+        "D": "half as much"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2017,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 21,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "calculus",
+        "subtopic": "rates-of-change",
+        "difficultyScore": 3,
+        "estimatedTime": 120,
+        "tags": [
+          "mathematics",
+          "calculus",
+          "rates-of-change",
+          "integration"
+        ],
+        "learningObjectives": [
+          "Calculate the area under a curve for simple cases."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-CALCULUS",
+        "classificationConfidence": 0.8,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "4a8f80d4-2794-4d42-a192-b945f9f54156",
+      "text": "In the figure, find x",
+      "options": {
+        "A": "40°",
+        "B": "55°",
+        "C": "50°",
+        "D": "60°"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2017,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": "https://res.cloudinary.com/aloc-ng/image/upload/v1724005818/ALOC-Questions/Mathematics/2017/MATH_JAMB_2017_Q22_hjbo4i.jpg",
+      "questionNumber": 22,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "geometry",
+        "subtopic": "angles",
+        "difficultyScore": 2,
+        "estimatedTime": 60,
+        "tags": [
+          "mathematics",
+          "geometry",
+          "angles",
+          "coordinate-geometry"
+        ],
+        "learningObjectives": [
+          "Find the equation of a straight line using two-point, point-slope, slope-intercept and general forms."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-GEOMETRY",
+        "classificationConfidence": 0.8,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "f1eabd44-c671-4b73-865c-5bfcdae449e3",
+      "text": "Divide 4x<sup>23</sup>  - 3x + 1 by 2x - 1",
+      "options": {
+        "A": "2x<sup>2</sup>  -x + 1",
+        "B": "2x<sup>2</sup>  - x -1",
+        "C": "2x<sup>2</sup>  + x + 1",
+        "D": "2x<sup>2</sup>  + x -1"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2017,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 23,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "algebra",
+        "subtopic": "polynomials",
+        "difficultyScore": 4,
+        "estimatedTime": 300,
+        "tags": [
+          "mathematics",
+          "algebra",
+          "polynomials",
+          "determinants"
+        ],
+        "learningObjectives": [
+          "Compute the inverse of a 2 x 2 matrix."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-ALGEBRA",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "df4fcb57-7905-4136-9082-81cda35f3953",
+      "text": "A car dealer bought a second-hand car for 250,000 and spent N 70,000 refurbishing it. He then sold the car for N400,000. What is the percentage gain?",
+      "options": {
+        "A": "60%",
+        "B": "32%",
+        "C": "25%",
+        "D": "20%"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2017,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 24,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "number-theory",
+        "subtopic": "percentage",
+        "difficultyScore": 2,
+        "estimatedTime": 60,
+        "tags": [
+          "mathematics",
+          "number-theory",
+          "percentage",
+          "shares-vat"
+        ],
+        "learningObjectives": [
+          "Solve problems involving shares and value added tax."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-NUMBER-THEORY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "2516102f-5377-4617-9473-19fbcc199c70",
+      "text": "Find the number of ways that the letters of the word EXCELLENCE be arranged",
+      "options": {
+        "A": "(10!2!2!)/2!",
+        "B": "(10!4!)/2!",
+        "C": "10!/4!2!2!",
+        "D": "10!/2!2!"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2017,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 25,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "further-topics",
+        "subtopic": null,
+        "difficultyScore": 4,
+        "estimatedTime": 180,
+        "tags": [
+          "mathematics",
+          "further-topics",
+          "permutations-combinations"
+        ],
+        "learningObjectives": [
+          "Resolve simple problems involving permutation and combination, including linear and circular arrangements."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-FURTHER-TOPICS",
+        "classificationConfidence": 0.8,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "84e7a1e5-bbbb-4428-a7ed-117694711013",
+      "text": "Evaluate 0.00000231/0.007\n and leave the answer in standard form",
+      "options": {
+        "A": "3.3 x 10<sup>-4</sup>",
+        "B": "3.3 x 10<sup>-3</sup>",
+        "C": "3.3 x 10<sup>-5</sup>",
+        "D": "3.3 x 10<sup>-8</sup>"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2017,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 26,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "number-theory",
+        "subtopic": "fractions-decimals",
+        "difficultyScore": 2,
+        "estimatedTime": 60,
+        "tags": [
+          "mathematics",
+          "number-theory",
+          "fractions-decimals",
+          "shares-vat"
+        ],
+        "learningObjectives": [
+          "Solve problems involving shares and value added tax."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-NUMBER-THEORY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "2f362676-d9ba-4272-bc1c-23c62aa1c4bf",
+      "text": "If a rod 10cm in length was measured as 10.5cm, calculate the percentage error",
+      "options": {
+        "A": "5%",
+        "B": "10%",
+        "C": "8%",
+        "D": "7%"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2017,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 27,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "number-theory",
+        "subtopic": "percentage-error",
+        "difficultyScore": 2,
+        "estimatedTime": 60,
+        "tags": [
+          "mathematics",
+          "number-theory",
+          "percentage-error",
+          "shares-vat"
+        ],
+        "learningObjectives": [
+          "Solve problems involving shares and value added tax."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-NUMBER-THEORY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "506952ac-a3f4-4607-9a6a-c68c2d4abf48",
+      "text": "Find the principal which amounts to ₦ 5,500 at a simple interest in 5 years at 2% per annum",
+      "options": {
+        "A": "₦ 4,900",
+        "B": "₦ 5,000",
+        "C": "₦ 4,700",
+        "D": "₦ 4,000"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2017,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 28,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "number-theory",
+        "subtopic": "simple-interest",
+        "difficultyScore": 2,
+        "estimatedTime": 60,
+        "tags": [
+          "mathematics",
+          "number-theory",
+          "simple-interest",
+          "shares-vat"
+        ],
+        "learningObjectives": [
+          "Solve problems involving shares and value added tax."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-NUMBER-THEORY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "473b0147-b694-4955-bd68-26455b868b3f",
+      "text": "The pie chart shows the allocation of money to each sector in a farm. The total amount allocated to the farm is ₦ 80 000. Find the amount allocated to fertilizer",
+      "options": {
+        "A": "₦ 35, 000",
+        "B": "₦ 40,000",
+        "C": "₦ 25,000",
+        "D": "₦ 20,000"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2017,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": "https://res.cloudinary.com/aloc-ng/image/upload/v1724005849/ALOC-Questions/Mathematics/2017/MATH_JAMB_2017_Q29_a1bx8w.jpg",
+      "questionNumber": 29,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "statistics",
+        "subtopic": "pie-charts",
+        "difficultyScore": 2,
+        "estimatedTime": 60,
+        "tags": [
+          "mathematics",
+          "statistics",
+          "pie-charts",
+          "probability"
+        ],
+        "learningObjectives": [
+          "Resolve simple probability problems, including addition and multiplication rules for mutual and independent events."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-STATISTICS",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "521c2b63-f894-4616-b8e8-b74cda99c249",
+      "text": "In how many ways can the word MATHEMATICS be arranged?",
+      "options": {
+        "A": "11!/9!2!",
+        "B": "11!/9!2!2!",
+        "C": "11!/2!2!2!",
+        "D": "11!/2!2!"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2017,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 30,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "further-topics",
+        "subtopic": "permutations-combinations",
+        "difficultyScore": 3,
+        "estimatedTime": 120,
+        "tags": [
+          "mathematics",
+          "further-topics",
+          "permutations-combinations"
+        ],
+        "learningObjectives": [
+          "Resolve simple problems involving permutation and combination, including linear and circular arrangements."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-FURTHER-TOPICS",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "537ec068-6a6d-4a4d-a42f-7b584c7ba0c5",
+      "text": "In how many ways can the word MACICITA be arranged?",
+      "options": {
+        "A": "8!/2!",
+        "B": "8!/3!2!",
+        "C": "8!/2!2!2!",
+        "D": "8!"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2017,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 31,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "algebra-further",
+        "subtopic": "permutations-combinations",
+        "difficultyScore": 3,
+        "estimatedTime": 120,
+        "tags": [],
+        "learningObjectives": [],
+        "curriculumAlignment": null,
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "38ba42c3-e3b1-41db-a739-8e80e7594625",
+      "text": "y is inversely proportional to x and y is 6 when x = 7. Find the constant of the variation",
+      "options": {
+        "A": "47",
+        "B": "42",
+        "C": "54",
+        "D": "46"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2017,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 32,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "number-theory",
+        "subtopic": "variation",
+        "difficultyScore": 2,
+        "estimatedTime": 60,
+        "tags": [
+          "mathematics",
+          "number-theory",
+          "variation",
+          "shares-vat"
+        ],
+        "learningObjectives": [
+          "Solve problems involving shares and value added tax."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-NUMBER-THEORY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "aaad12ab-c824-4add-a46e-9bf8f4a9c0d5",
+      "text": "Find the equation of the locus of a point p (x, y) such that pv = pw, where v= (1, 1) and w = (3, 5)",
+      "options": {
+        "A": "2x + 2y = 9",
+        "B": "2x + 3y = 8",
+        "C": "2x + y = 9",
+        "D": "x + 2y = 8"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2017,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 33,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "geometry",
+        "subtopic": "loci",
+        "difficultyScore": 4,
+        "estimatedTime": 240,
+        "tags": [
+          "mathematics",
+          "geometry",
+          "loci",
+          "coordinate-geometry"
+        ],
+        "learningObjectives": [
+          "Find the equation of a straight line using two-point, point-slope, slope-intercept and general forms."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-GEOMETRY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "d57d1a9b-9a27-428e-a1b6-fc16b747f516",
+      "text": "Find ∫(x<sup>2</sup>  + 3x − 5)dx",
+      "options": {
+        "A": "x3/3  - 3x2/2 - 5x + k",
+        "B": "x3/3 - 3x2/2\n + 5x + k",
+        "C": "x3/3  + 3x2/2 - 5x + k",
+        "D": "x3/3  + 3x2/2\n + 5x + k"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2017,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 34,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "calculus",
+        "subtopic": "integration",
+        "difficultyScore": 3,
+        "estimatedTime": 120,
+        "tags": [
+          "mathematics",
+          "calculus",
+          "integration"
+        ],
+        "learningObjectives": [
+          "Calculate the area under a curve for simple cases."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-CALCULUS",
+        "classificationConfidence": 1,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "804c0658-30d9-4f08-8431-9b4385ea381d",
+      "text": "In the diagram above MN is a chord of a circle KMN centre O and radius 10cm. If < MON = 140°, find, to the nearest cm, the length of the chord MN.",
+      "options": {
+        "A": "10cm",
+        "B": "19cm",
+        "C": "17cm",
+        "D": "12cm"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2017,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": "https://res.cloudinary.com/aloc-ng/image/upload/v1724005931/ALOC-Questions/Mathematics/2017/MATH_JAMB_2017_Q35_znubyc.png",
+      "questionNumber": 35,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "geometry",
+        "subtopic": "circles",
+        "difficultyScore": 3,
+        "estimatedTime": 120,
+        "tags": [
+          "mathematics",
+          "geometry",
+          "circles",
+          "coordinate-geometry"
+        ],
+        "learningObjectives": [
+          "Find the equation of a straight line using two-point, point-slope, slope-intercept and general forms."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-GEOMETRY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "2f9a4b5f-b614-4153-b4ba-277498f200dd",
+      "text": "Factorize completely X<sup>2</sup> +2XY+Y<sup>2</sup> +3X+3Y-18",
+      "options": {
+        "A": "(x + y + 6)(x + y -3)",
+        "B": "(x - y - 6)(x - y + 3)",
+        "C": "(x - y + 6)(x - y - 3)",
+        "D": "(x + y - 6)(x + y + 3)"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2017,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 36,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "algebra",
+        "subtopic": "polynomials",
+        "difficultyScore": 3,
+        "estimatedTime": 120,
+        "tags": [
+          "mathematics",
+          "algebra",
+          "polynomials",
+          "determinants"
+        ],
+        "learningObjectives": [
+          "Compute the inverse of a 2 x 2 matrix."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-ALGEBRA",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "67577d9f-771e-4323-b3cf-2a5037eac85f",
+      "text": "Make S the subject of the relation\np = s + (sm<sup>2</sup>)/nr",
+      "options": {
+        "A": "s = nrpn/r+m<sup>2</sup>",
+        "B": "s = nr + m<sup>2</sup> /mrp",
+        "C": "s = nrp/mr\n + m<sup>2</sup>",
+        "D": "s = nrp/nr\n + m<sup>2</sup>"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2017,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mrow>\n      <mi>s</mi>\n      <msup>\n        <mi>m</mi>\n        <mn>2</mn>\n      </msup>\n    </mrow>\n    <mrow>\n      <mi>n</mi>\n      <mi>r</mi>\n    </mrow>\n  </mfrac>\n</math>",
+      "imageUrl": null,
+      "questionNumber": 37,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "algebra",
+        "subtopic": "simultaneous-equations",
+        "difficultyScore": 3,
+        "estimatedTime": 120,
+        "tags": [
+          "mathematics",
+          "algebra",
+          "simultaneous-equations",
+          "determinants"
+        ],
+        "learningObjectives": [
+          "Compute the inverse of a 2 x 2 matrix."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-ALGEBRA",
+        "classificationConfidence": 0.8,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "fe122570-b072-408a-a9d2-f24995fb9de0",
+      "text": "The operation * on the set R of real number is defined by x * y = 3x + 2y − 1, find 3* − 1",
+      "options": {
+        "A": "9",
+        "B": "-9",
+        "C": "6",
+        "D": "-6"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2017,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 38,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "algebra",
+        "subtopic": "sets",
+        "difficultyScore": 2,
+        "estimatedTime": 60,
+        "tags": [
+          "mathematics",
+          "algebra",
+          "sets",
+          "determinants"
+        ],
+        "learningObjectives": [
+          "Compute the inverse of a 2 x 2 matrix."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-ALGEBRA",
+        "classificationConfidence": 0.8,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "73135685-14d3-4e34-893d-078d8d71c752",
+      "text": "Find the gradient of the line joining the points (3, 2) and (1, 4)",
+      "options": {
+        "A": "3/2",
+        "B": "2/1",
+        "C": "-1",
+        "D": "3/2"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2017,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 39,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "geometry",
+        "subtopic": "coordinate-geometry",
+        "difficultyScore": 2,
+        "estimatedTime": 60,
+        "tags": [
+          "mathematics",
+          "geometry",
+          "coordinate-geometry"
+        ],
+        "learningObjectives": [
+          "Find the equation of a straight line using two-point, point-slope, slope-intercept and general forms."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-GEOMETRY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "ac0fc244-ebd2-47a5-80f3-8567508a158f",
+      "text": "If (2√3−√2)/(√3+2√2) = m + n √ 6, find the values of m and n respectively",
+      "options": {
+        "A": "1, − 2",
+        "B": "− 2, n = 1",
+        "C": "−2/5 , 1",
+        "D": "2/3"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2017,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mrow>\n      <mn>2</mn>\n      <msqrt>\n        <mn>3</mn>\n      </msqrt>\n      <mo>&#x2212;<!-- − --></mo>\n      <msqrt>\n        <mn>2</mn>\n      </msqrt>\n    </mrow>\n    <mrow>\n      <msqrt>\n        <mn>3</mn>\n      </msqrt>\n      <mo>+</mo>\n      <mn>2</mn>\n      <msqrt>\n        <mn>2</mn>\n      </msqrt>\n    </mrow>\n  </mfrac>\n</math>",
+      "imageUrl": null,
+      "questionNumber": 41,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "algebra",
+        "subtopic": "surds",
+        "difficultyScore": 4,
+        "estimatedTime": 300,
+        "tags": [
+          "mathematics",
+          "algebra",
+          "surds",
+          "determinants"
+        ],
+        "learningObjectives": [
+          "Compute the inverse of a 2 x 2 matrix."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-ALGEBRA",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "47aba9fd-4f57-432b-8a71-924f938e6d2e",
+      "text": "If α and β are the roots of the equation 3x<sup>2</sup + 5x - 2 = 0, find the value of 1/α + 1/β",
+      "options": {
+        "A": "-5/4",
+        "B": "-2/3",
+        "C": "1/2",
+        "D": "5/2"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2017,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 42,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "algebra",
+        "subtopic": "quadratic-equations",
+        "difficultyScore": 3,
+        "estimatedTime": 120,
+        "tags": [
+          "mathematics",
+          "algebra",
+          "quadratic-equations",
+          "determinants"
+        ],
+        "learningObjectives": [
+          "Compute the inverse of a 2 x 2 matrix."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-ALGEBRA",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "b88420a2-b0a9-4276-a15c-5787937b5a8a",
+      "text": "Find the range of the following set of numbers 0.4, −0.4, 0.3, 0.47, −0.53, 0.2 and −0.2",
+      "options": {
+        "A": "1.03",
+        "B": "0.07",
+        "C": "0.03",
+        "D": "1.0"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2017,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 43,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "statistics",
+        "subtopic": "mean-median-mode",
+        "difficultyScore": 2,
+        "estimatedTime": 60,
+        "tags": [
+          "mathematics",
+          "statistics",
+          "mean-median-mode",
+          "probability"
+        ],
+        "learningObjectives": [
+          "Resolve simple probability problems, including addition and multiplication rules for mutual and independent events."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-STATISTICS",
+        "classificationConfidence": 0.8,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "ea6eecb4-0e2f-4291-ae64-d0ef76c8f919",
+      "text": "Evaluate 1 − (1/5 x 1(2/3)) + (5 + 1(2/3))",
+      "options": {
+        "A": "4",
+        "B": "3",
+        "C": "22/3",
+        "D": "3(2/3)"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2017,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 44,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "number-theory",
+        "subtopic": "fractions-decimals",
+        "difficultyScore": 3,
+        "estimatedTime": 120,
+        "tags": [
+          "mathematics",
+          "number-theory",
+          "fractions-decimals",
+          "shares-vat"
+        ],
+        "learningObjectives": [
+          "Solve problems involving shares and value added tax."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-NUMBER-THEORY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "023bd465-f8a7-435d-b967-4f2a719f5af7",
+      "text": "What is the product of 2x<sup>2</sup − x + 1 and 3 − 2x",
+      "options": {
+        "A": "4x<sup>3</sup> − 8x<sup>2</sup> + 5x + 3",
+        "B": "−4x<sup>3</sup> + 8x<sup>2</sup> − 5x + 3",
+        "C": "−4x<sup>3</sup> − 8x<sup>2</sup> + 5x + 3",
+        "D": "4x<sup>3</sup> + 8x<sup>2</sup> − 5x + 3"
+      },
+      "correctAnswer": "B",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2017,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 45,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "algebra",
+        "subtopic": "polynomials",
+        "difficultyScore": 4,
+        "estimatedTime": 180,
+        "tags": [
+          "mathematics",
+          "algebra",
+          "polynomials",
+          "determinants"
+        ],
+        "learningObjectives": [
+          "Compute the inverse of a 2 x 2 matrix."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-ALGEBRA",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "8fdd5267-7cc3-4617-a5df-662f5a9842ab",
+      "text": "A card is picked at random from a pack of 52 well shuffled playing cards. Find the probability of NOT picking a red cards in the pack. If there are 13 red card in the pack",
+      "options": {
+        "A": "3/4",
+        "B": "2/3",
+        "C": "1/3",
+        "D": "1/4"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2017,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 46,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "statistics",
+        "subtopic": "probability",
+        "difficultyScore": 2,
+        "estimatedTime": 60,
+        "tags": [
+          "mathematics",
+          "statistics",
+          "probability"
+        ],
+        "learningObjectives": [
+          "Resolve simple probability problems, including addition and multiplication rules for mutual and independent events."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-STATISTICS",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "0e01f64f-555d-48ad-a70f-c04c14cb5865",
+      "text": "The time taken to a piece of work is inversely proportional to the number of men employed. If it takes 45 men to do a piece of work in 5 days, how long will it take 25 men?",
+      "options": {
+        "A": "15 days",
+        "B": "12 days",
+        "C": "5days",
+        "D": "9days"
+      },
+      "correctAnswer": "D",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2017,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": null,
+      "questionNumber": 47,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "number-theory",
+        "subtopic": null,
+        "difficultyScore": 3,
+        "estimatedTime": 120,
+        "tags": [
+          "mathematics",
+          "number-theory",
+          "shares-vat"
+        ],
+        "learningObjectives": [
+          "Solve problems involving shares and value added tax."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-NUMBER-THEORY",
+        "classificationConfidence": 0.8,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "a10e0c80-e3e4-4b6d-91c0-37259b76952d",
+      "text": "The bar chart above is a representation of a candidate’s scores in UTME in 2014, find his total scores",
+      "options": {
+        "A": "210",
+        "B": "240",
+        "C": "340",
+        "D": "200"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2017,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": "https://res.cloudinary.com/aloc-ng/image/upload/v1724006153/ALOC-Questions/Mathematics/2017/MATH_JAMB_2017_Q48_vd1jdm.png",
+      "questionNumber": 48,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "statistics",
+        "subtopic": "frequency-distribution",
+        "difficultyScore": 2,
+        "estimatedTime": 60,
+        "tags": [
+          "mathematics",
+          "statistics",
+          "frequency-distribution",
+          "probability"
+        ],
+        "learningObjectives": [
+          "Resolve simple probability problems, including addition and multiplication rules for mutual and independent events."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-STATISTICS",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "aee2c460-8e31-421a-af59-242577749e38",
+      "text": "From the diagram above, find the value of x",
+      "options": {
+        "A": "15°",
+        "B": "45°",
+        "C": "25°",
+        "D": "30°"
+      },
+      "correctAnswer": "A",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2017,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": null,
+      "imageUrl": "https://res.cloudinary.com/aloc-ng/image/upload/v1724006172/ALOC-Questions/Mathematics/2017/MATH_JAMB_2017_Q49_casyy2.png",
+      "questionNumber": 49,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "geometry",
+        "subtopic": "angles",
+        "difficultyScore": 2,
+        "estimatedTime": 60,
+        "tags": [
+          "mathematics",
+          "geometry",
+          "angles",
+          "coordinate-geometry"
+        ],
+        "learningObjectives": [
+          "Find the equation of a straight line using two-point, point-slope, slope-intercept and general forms."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-GEOMETRY",
+        "classificationConfidence": 0.8,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "d708e85b-feeb-48d5-9cd0-8bfe6f56d614",
+      "text": "Determine the distance between point P(3, 4) and Q(4,5)",
+      "options": {
+        "A": "2",
+        "B": "√5",
+        "C": "√2",
+        "D": "1"
+      },
+      "correctAnswer": "C",
+      "examType": "jamb",
+      "subject": "mathematics",
+      "year": 2017,
+      "educationLevel": "senior_secondary",
+      "classLevel": null,
+      "section": "SOLUTION: <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mtable columnalign=\"right left right left right left right left right left right left\" rowspacing=\"3pt\" columnspacing=\"0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em\" displaystyle=\"true\">\n    <mtr>\n      <mtd />\n      <mtd>\n        <mi></mi>\n        <mo stretchy=\"false\">(</mo>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <msub>\n            <mrow class=\"MJX-TeXAtom-ORD\">\n              <mi>x</mi>\n            </mrow>\n            <mrow class=\"MJX-TeXAtom-ORD\">\n              <mn>1</mn>\n            </mrow>\n          </msub>\n        </mrow>\n        <mo>,</mo>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <msub>\n            <mrow class=\"MJX-TeXAtom-ORD\">\n              <mi>y</mi>\n            </mrow>\n            <mrow class=\"MJX-TeXAtom-ORD\">\n              <mn>1</mn>\n            </mrow>\n          </msub>\n        </mrow>\n        <mo stretchy=\"false\">)</mo>\n        <mo>=</mo>\n        <mo stretchy=\"false\">(</mo>\n        <mn>3</mn>\n        <mo>,</mo>\n        <mn>4</mn>\n        <mo stretchy=\"false\">)</mo>\n        <mo>,</mo>\n        <mtext>&#xA0;</mtext>\n        <mo stretchy=\"false\">(</mo>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <msub>\n            <mrow class=\"MJX-TeXAtom-ORD\">\n              <mi>x</mi>\n            </mrow>\n            <mrow class=\"MJX-TeXAtom-ORD\">\n              <mn>2</mn>\n            </mrow>\n          </msub>\n        </mrow>\n        <mo>,</mo>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <msub>\n            <mrow class=\"MJX-TeXAtom-ORD\">\n              <mi>y</mi>\n            </mrow>\n            <mrow class=\"MJX-TeXAtom-ORD\">\n              <mn>2</mn>\n            </mrow>\n          </msub>\n        </mrow>\n        <mo stretchy=\"false\">)</mo>\n        <mo>=</mo>\n        <mo stretchy=\"false\">(</mo>\n        <mn>4</mn>\n        <mo>,</mo>\n        <mn>5</mn>\n        <mo stretchy=\"false\">)</mo>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd />\n      <mtd>\n        <mi>d</mi>\n        <mo>=</mo>\n        <msqrt>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <msup>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mo stretchy=\"false\">(</mo>\n                <mrow class=\"MJX-TeXAtom-ORD\">\n                  <msub>\n                    <mrow class=\"MJX-TeXAtom-ORD\">\n                      <mi>x</mi>\n                    </mrow>\n                    <mrow class=\"MJX-TeXAtom-ORD\">\n                      <mn>2</mn>\n                    </mrow>\n                  </msub>\n                </mrow>\n                <mo>&#x2212;<!-- − --></mo>\n                <mrow class=\"MJX-TeXAtom-ORD\">\n                  <msub>\n                    <mrow class=\"MJX-TeXAtom-ORD\">\n                      <mi>x</mi>\n                    </mrow>\n                    <mrow class=\"MJX-TeXAtom-ORD\">\n                      <mn>1</mn>\n                    </mrow>\n                  </msub>\n                </mrow>\n                <mo stretchy=\"false\">)</mo>\n              </mrow>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mn>2</mn>\n              </mrow>\n            </msup>\n          </mrow>\n          <mo>+</mo>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <msup>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mo stretchy=\"false\">(</mo>\n                <mrow class=\"MJX-TeXAtom-ORD\">\n                  <msub>\n                    <mrow class=\"MJX-TeXAtom-ORD\">\n                      <mi>y</mi>\n                    </mrow>\n                    <mrow class=\"MJX-TeXAtom-ORD\">\n                      <mn>2</mn>\n                    </mrow>\n                  </msub>\n                </mrow>\n                <mo>&#x2212;<!-- − --></mo>\n                <mrow class=\"MJX-TeXAtom-ORD\">\n                  <msub>\n                    <mrow class=\"MJX-TeXAtom-ORD\">\n                      <mi>y</mi>\n                    </mrow>\n                    <mrow class=\"MJX-TeXAtom-ORD\">\n                      <mn>1</mn>\n                    </mrow>\n                  </msub>\n                </mrow>\n                <mo stretchy=\"false\">)</mo>\n              </mrow>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mn>2</mn>\n              </mrow>\n            </msup>\n          </mrow>\n        </msqrt>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd />\n      <mtd>\n        <mi>d</mi>\n        <mo>=</mo>\n        <msqrt>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <msup>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mo stretchy=\"false\">(</mo>\n                <mn>4</mn>\n                <mo>&#x2212;<!-- − --></mo>\n                <mn>3</mn>\n                <mo stretchy=\"false\">)</mo>\n              </mrow>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mn>2</mn>\n              </mrow>\n            </msup>\n          </mrow>\n          <mo>+</mo>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <msup>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mo stretchy=\"false\">(</mo>\n                <mn>5</mn>\n                <mo>&#x2212;<!-- − --></mo>\n                <mn>4</mn>\n                <mo stretchy=\"false\">)</mo>\n              </mrow>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mn>2</mn>\n              </mrow>\n            </msup>\n          </mrow>\n        </msqrt>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd />\n      <mtd>\n        <mi>d</mi>\n        <mo>=</mo>\n        <msqrt>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <msup>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mn>1</mn>\n              </mrow>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mn>2</mn>\n              </mrow>\n            </msup>\n          </mrow>\n          <mo>+</mo>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <msup>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mn>1</mn>\n              </mrow>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mn>2</mn>\n              </mrow>\n            </msup>\n          </mrow>\n        </msqrt>\n        <mo>=</mo>\n        <msqrt>\n          <mn>2</mn>\n        </msqrt>\n      </mtd>\n    </mtr>\n  </mtable>\n</math>",
+      "imageUrl": null,
+      "questionNumber": 50,
+      "country": "NG",
+      "category": "others",
+      "institution": null,
+      "state": null,
+      "provenance": {
+        "contentSource": "historical",
+        "licenseType": null,
+        "isLicensed": false,
+        "validationScore": null,
+        "generatorVersion": null,
+        "batchRequestId": null,
+        "reviewStatus": "approved",
+        "curriculumMapping": null,
+        "isGapFill": false
+      },
+      "metadata": {
+        "topic": "geometry",
+        "subtopic": "coordinate-geometry",
+        "difficultyScore": 2,
+        "estimatedTime": 60,
+        "tags": [
+          "mathematics",
+          "geometry",
+          "coordinate-geometry"
+        ],
+        "learningObjectives": [
+          "Find the equation of a straight line using two-point, point-slope, slope-intercept and general forms."
+        ],
+        "curriculumAlignment": "JAMB-SS3-MATHEMATICS-GEOMETRY",
+        "classificationConfidence": 0.9,
+        "needsReview": false
+      }
+    }
+  ]
+}
