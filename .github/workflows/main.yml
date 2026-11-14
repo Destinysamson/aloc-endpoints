@@ -1,248 +1,362 @@
-name: JAMB Question Extraction 2016-2026
+name: JAMB Historical Questions Extraction
 
-"on":
+on:
   workflow_dispatch:
-  schedule:
-    - cron: '0 0 * * *'
+    inputs:
+      stage:
+        description: "Extraction stage"
+        required: true
+        default: "priority"
+        type: choice
+        options:
+          - priority
+          - 2010-2014
+          - 2000-2009
+          - all
+
+      refresh:
+        description: "Redownload previously extracted data"
+        required: true
+        default: false
+        type: boolean
 
 permissions:
   contents: write
 
 jobs:
-  extract_jamb_data:
-    name: Extract and Save JAMB Questions
-    runs-on: ubuntu-22.04
+  extract:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+
+    env:
+      ALOC_TOKEN: ${{ secrets.ALOC_SECRET_TOKEN }}
+      STAGE: ${{ inputs.stage }}
+      REFRESH: ${{ inputs.refresh }}
 
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v5
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Python
-        uses: actions/setup-python@v6
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.10'
+          python-version: "3.11"
 
-      - name: Install Dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install requests
+      - name: Install dependencies
+        run: pip install requests
 
-      - name: Extract JAMB Questions
-        env:
-          ALOC_TOKEN: ${{ secrets.ALOC_SECRET_TOKEN }}
+      - name: Extract JAMB questions
         run: |
-          python <<'PY'
-          import requests
-          import json
+          mkdir -p scripts
+          cat > scripts/extract.py <<'PY'
           import os
+          import json
           import time
+          import requests
           from pathlib import Path
 
-          TOKEN = os.getenv("ALOC_TOKEN")
+          BASE = "https://dev.aloc.com.ng/api/v1"
 
-          if not TOKEN:
-              raise SystemExit(
-                  "ERROR: ALOC_SECRET_TOKEN is missing from GitHub Secrets."
-              )
+          TOKEN = os.environ["ALOC_TOKEN"]
 
-          BASE_URL = "https://questions.aloc.com.ng/api/v2/m"
-
-          SUBJECTS = [
-              "english",
-              "chemistry",
-              "physics",
-              "biology",
-              "lit-in-english",
-              "government",
-              "crs",
-              "economics",
-              "mathematics"
-          ]
-
-          YEARS = range(2016, 2027)
-
-          OUTPUT = Path("jamb_questions")
-          OUTPUT.mkdir(exist_ok=True)
-
-          headers = {
-              "AccessToken": TOKEN,
+          HEADERS = {
+              "X-API-Key": TOKEN,
               "Accept": "application/json"
           }
 
-          report = {}
-          total_questions = 0
-          successful_requests = 0
-          failed_requests = 0
+          SUBJECTS = [
+              "english-language",
+              "mathematics",
+              "chemistry",
+              "physics",
+              "biology",
+              "literature-in-english",
+              "government",
+              "christian-religious-studies",
+              "economics"
+          ]
+
+          STAGES = {
+              "priority": range(2015, 2027),
+              "2010-2014": range(2010, 2015),
+              "2000-2009": range(2000, 2010),
+              "all": range(2000, 2027)
+          }
+
+          YEARS = STAGES[os.getenv("STAGE", "priority")]
+          REFRESH = os.getenv("REFRESH", "false").lower() == "true"
+
+          ROOT = Path("data/jamb")
+          ROOT.mkdir(parents=True, exist_ok=True)
 
           session = requests.Session()
-          session.headers.update(headers)
+          session.headers.update(HEADERS)
 
-          for subject in SUBJECTS:
+          report = {
+              "stage": os.getenv("STAGE"),
+              "successful": [],
+              "empty": [],
+              "failed": [],
+              "total_questions": 0
+          }
 
-              report[subject] = {}
+          def request_json(url, params=None):
 
-              for year in YEARS:
+              for attempt in range(6):
 
-                  print(f"\nFetching {subject.upper()} - {year}")
+                  response = session.get(
+                      url,
+                      params=params,
+                      timeout=60
+                  )
 
-                  params = {
-                      "subject": subject,
-                      "year": year,
-                      "type": "utme"
-                  }
+                  if response.status_code == 429:
+                      wait = int(
+                          response.headers.get("Retry-After", 10)
+                      )
+                      time.sleep(max(wait, 5))
+                      continue
+
+                  if response.status_code >= 500:
+                      time.sleep(5 * (attempt + 1))
+                      continue
+
+                  if response.status_code == 404:
+                      return None
+
+                  response.raise_for_status()
+
+                  return response.json()
+
+              raise RuntimeError("Maximum retries exceeded")
+
+          def discover_years(subject):
+
+              url = f"{BASE}/subjects/{subject}/years"
+
+              result = request_json(url)
+
+              if result is None:
+                  return []
+
+              available = []
+
+              for item in result.get("data", []):
+
+                  year = item.get("year")
+
+                  breakdown = item.get("breakdown", {})
+
+                  jamb_count = breakdown.get("jamb", 0)
+
+                  exam_types = item.get("examTypes", [])
+
+                  if (
+                      year in YEARS
+                      and (
+                          jamb_count > 0
+                          or "jamb" in exam_types
+                      )
+                  ):
+                      available.append(year)
+
+              return sorted(set(available))
+
+          def extract_subject(subject):
+
+              print(f"\nDISCOVERING: {subject}")
+
+              years = discover_years(subject)
+
+              print(f"Available years: {years}")
+
+              for year in years:
+
+                  folder = ROOT / subject
+                  folder.mkdir(parents=True, exist_ok=True)
+
+                  output = folder / f"{year}.json"
+
+                  if output.exists() and not REFRESH:
+
+                      print(f"SKIPPING existing: {subject} {year}")
+
+                      continue
+
+                  print(f"EXTRACTING: {subject} {year}")
+
+                  questions = []
+                  seen = set()
+                  cursor = None
+                  page_count = 0
 
                   try:
-                      response = session.get(
-                          BASE_URL,
-                          params=params,
-                          timeout=30
-                      )
 
-                      if response.status_code != 200:
-                          failed_requests += 1
+                      while True:
 
-                          report[subject][str(year)] = {
-                              "status": "failed",
-                              "http_status": response.status_code,
-                              "message": response.text[:500]
+                          params = {
+                              "subject": subject,
+                              "examType": "jamb",
+                              "year": year,
+                              "country": "NG",
+                              "contentSource": "historical",
+                              "limit": 15
                           }
 
-                          print(
-                              f"API ERROR: HTTP {response.status_code}"
+                          if cursor:
+                              params["cursor"] = cursor
+
+                          result = request_json(
+                              f"{BASE}/questions",
+                              params
                           )
 
-                          time.sleep(1)
-                          continue
+                          if result is None:
+                              break
 
-                      result = response.json()
+                          data = result.get("data", [])
 
-                      questions = result.get("data", [])
+                          for question in data:
 
-                      if isinstance(questions, dict):
-                          questions = [questions]
+                              if question.get("id") not in seen:
 
-                      if not isinstance(questions, list):
-                          questions = []
+                                  questions.append(question)
+
+                                  seen.add(question.get("id"))
+
+                          pagination = result.get("pagination", {})
+
+                          next_cursor = pagination.get("nextCursor")
+
+                          has_more = pagination.get("hasMore", False)
+
+                          page_count += 1
+
+                          if not has_more or not next_cursor:
+                              break
+
+                          if next_cursor == cursor:
+                              raise RuntimeError(
+                                  "Pagination cursor did not change"
+                              )
+
+                          cursor = next_cursor
+
+                          time.sleep(2.2)
+
+                          if page_count >= 500:
+                              raise RuntimeError("Page safety limit reached")
+
+                      dataset = {
+                          "exam": "JAMB",
+                          "subject": subject,
+                          "year": year,
+                          "source": "ALOC",
+                          "contentSource": "historical",
+                          "questionCount": len(questions),
+                          "questions": questions
+                      }
+
+                      with open(output, "w", encoding="utf-8") as f:
+
+                          json.dump(
+                              dataset,
+                              f,
+                              ensure_ascii=False,
+                              indent=2
+                          )
 
                       if questions:
 
-                          filename = f"{subject}_{year}.json"
-                          filepath = OUTPUT / filename
-
-                          with open(
-                              filepath,
-                              "w",
-                              encoding="utf-8"
-                          ) as file:
-
-                              json.dump(
-                                  questions,
-                                  file,
-                                  indent=2,
-                                  ensure_ascii=False
-                              )
-
-                          count = len(questions)
-
-                          total_questions += count
-                          successful_requests += 1
-
-                          report[subject][str(year)] = {
-                              "status": "success",
-                              "question_count": count,
-                              "file": filename
-                          }
-
-                          print(
-                              f"SUCCESS: Saved {count} questions"
-                          )
+                          report["successful"].append({
+                              "subject": subject,
+                              "year": year,
+                              "questions": len(questions),
+                              "pages": page_count
+                          })
 
                       else:
 
-                          report[subject][str(year)] = {
-                              "status": "no_data",
-                              "question_count": 0
-                          }
+                          report["empty"].append({
+                              "subject": subject,
+                              "year": year
+                          })
 
-                          print("No questions returned.")
+                      report["total_questions"] += len(questions)
 
-                          successful_requests += 1
+                      print(
+                          f"SAVED {len(questions)} QUESTIONS"
+                      )
 
-                  except requests.exceptions.RequestException as error:
+                  except Exception as error:
 
-                      failed_requests += 1
+                      print("ERROR:", error)
 
-                      report[subject][str(year)] = {
-                          "status": "request_error",
-                          "message": str(error)
-                      }
+                      report["failed"].append({
+                          "subject": subject,
+                          "year": year,
+                          "error": str(error)
+                      })
 
-                      print(f"REQUEST ERROR: {error}")
+                      continue
 
-                  except (ValueError, KeyError) as error:
+          for subject in SUBJECTS:
 
-                      failed_requests += 1
+              try:
+                  extract_subject(subject)
 
-                      report[subject][str(year)] = {
-                          "status": "data_error",
-                          "message": str(error)
-                      }
+              except Exception as error:
 
-                      print(f"DATA ERROR: {error}")
+                  print(f"SUBJECT DISCOVERY FAILED: {subject}: {error}")
 
-                  time.sleep(1)
-
-          summary = {
-              "project": "JAMB CBT Question Database",
-              "years": list(YEARS),
-              "subjects": SUBJECTS,
-              "total_questions": total_questions,
-              "successful_requests": successful_requests,
-              "failed_requests": failed_requests,
-              "results": report
-          }
+                  report["failed"].append({
+                      "subject": subject,
+                      "error": str(error)
+                  })
 
           with open(
-              OUTPUT / "extraction_report.json",
+              ROOT / "extraction-report.json",
               "w",
               encoding="utf-8"
-          ) as file:
+          ) as f:
 
-              json.dump(
-                  summary,
-                  file,
-                  indent=2,
-                  ensure_ascii=False
+              json.dump(report, f, indent=2)
+
+          print("\n========== EXTRACTION REPORT ==========")
+
+          print(json.dumps(report, indent=2))
+
+          if report["failed"]:
+              raise SystemExit(
+                  "Extraction finished with failures. "
+                  "Check extraction-report.json."
               )
-
-          print("\n================================")
-          print("JAMB EXTRACTION FINISHED")
-          print("================================")
-          print("Total Questions:", total_questions)
-          print("Successful Requests:", successful_requests)
-          print("Failed Requests:", failed_requests)
-          print("================================")
 
           PY
 
-      - name: Upload Extracted Questions
-        uses: actions/upload-artifact@v4
-        with:
-          name: JAMB-Questions-2016-2026
-          path: jamb_questions/
-          retention-days: 90
-          if-no-files-found: error
+          python scripts/extract.py
 
-      - name: Commit Extracted Questions
+      - name: Commit extracted questions
+        if: always()
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
+          git config user.name "JAMB CBT Bot"
+          git config user.email "actions@github.com"
 
-          git add jamb_questions/
+          git add data/jamb/
 
           if ! git diff --cached --quiet; then
-            git commit -m "Update JAMB question database 2016-2026"
+            git commit -m "Extract authentic JAMB historical questions"
             git push
           else
-            echo "No changes detected."
+            echo "No new data to commit."
           fi
+
+      - name: Upload extraction report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: JAMB-Extraction-Report
+          path: data/jamb/extraction-report.json
+          if-no-files-found: ignore
