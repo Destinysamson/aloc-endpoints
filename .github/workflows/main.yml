@@ -33,7 +33,7 @@ jobs:
     timeout-minutes: 360
 
     env:
-      ALOC_API_KEY: ${{ secrets.ALOC_SECRET_KEY }}
+      ALOC_API_KEY: ${{ secrets.ALOC_SECRET_TOKEN }}
       ALOC_BASE_URL: https://dev.aloc.com.ng/api/v1
       YEAR_SCOPE: ${{ inputs.year_scope || 'priority' }}
       MAX_SUBJECTS: ${{ inputs.max_subjects || '0' }}
