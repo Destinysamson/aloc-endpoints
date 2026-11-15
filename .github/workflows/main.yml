@@ -4,18 +4,13 @@ on:
   workflow_dispatch:
     inputs:
       year_scope:
-        description: "Select years to extract"
+        description: "Select extraction years"
         required: true
         type: choice
         options:
           - priority
           - archive
         default: priority
-
-      max_subjects:
-        description: "0 means all available subjects"
-        required: false
-        default: "0"
 
   schedule:
     - cron: "30 1 * * 0"
@@ -24,7 +19,7 @@ permissions:
   contents: read
 
 concurrency:
-  group: stalwart-prep-jamb-extraction
+  group: stalwart-prep-extraction
   cancel-in-progress: false
 
 jobs:
@@ -36,14 +31,13 @@ jobs:
       ALOC_API_KEY: ${{ secrets.ALOC_SECRET_TOKEN }}
       ALOC_BASE_URL: https://dev.aloc.com.ng/api/v1
       YEAR_SCOPE: ${{ inputs.year_scope || 'priority' }}
-      MAX_SUBJECTS: ${{ inputs.max_subjects || '0' }}
       PYTHONUNBUFFERED: "1"
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Setup Python
+      - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
@@ -56,14 +50,43 @@ jobs:
       - name: Check API secret
         run: |
           if [ -z "$ALOC_API_KEY" ]; then
-            echo "ALOC_SECRET_KEY is missing."
+            echo "ERROR: ALOC_SECRET_TOKEN is missing."
             exit 1
           fi
+
+      - name: Diagnose ALOC connection
+        run: |
+          python - <<'PY'
+          import os
+          import requests
+
+          url = os.environ["ALOC_BASE_URL"] + "/subjects"
+
+          try:
+              response = requests.get(
+                  url,
+                  headers={
+                      "X-API-Key": os.environ["ALOC_API_KEY"],
+                      "Accept": "application/json"
+                  },
+                  timeout=30
+              )
+
+              print("HTTP STATUS:", response.status_code)
+              print("RESPONSE:", response.text[:2000])
+
+              if response.status_code != 200:
+                  raise SystemExit("ALOC connection test failed.")
+
+          except requests.RequestException as error:
+              print("CONNECTION ERROR:", str(error))
+              raise SystemExit(1)
+          PY
 
       - name: Run JAMB extraction
         run: python scripts/extract_jamb.py
 
-      - name: Upload actual question database
+      - name: Upload extracted question database
         if: always()
         uses: actions/upload-artifact@v4
         with:
@@ -71,5 +94,5 @@ jobs:
           path: |
             database/
             reports/
-          if-no-files-found: error
+          if-no-files-found: warn
           retention-days: 30
